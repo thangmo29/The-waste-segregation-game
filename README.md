@@ -1,1 +1,1 @@
-# The-waste-segregation-game
+# The waste segregation game
