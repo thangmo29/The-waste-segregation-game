@@ -1,1 +1,1 @@
-# The waste separation game
+# TRASHMAN GAME
