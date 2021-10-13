@@ -1,0 +1,10 @@
+[
+ {
+  "dest": "bin/libgnustl_shared.so",
+  "src": "C:/Users/acer/MagicLeap/mlsdk/v0.26.0/lumin/stl/gnu-libstdc++/lib/libgnustl_shared.so"
+ },
+ {
+  "dest": "bin/Trashman",
+  "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Intermediate/Lumin/Mabu/Binaries/UE4Game-arm64-lumin.so"
+ }
+]

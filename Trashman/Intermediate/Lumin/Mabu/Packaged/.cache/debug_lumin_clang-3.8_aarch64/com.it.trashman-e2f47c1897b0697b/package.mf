@@ -1,0 +1,113 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "e4db579ab5564fb6b72f89b8853d57a45aba183d",
+   "pkgpath": "bin/libgnustl_shared.so",
+   "size": 7704248,
+   "src": "C:/Users/acer/MagicLeap/mlsdk/v0.26.0/lumin/stl/gnu-libstdc++/lib/libgnustl_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Build\\Lumin\\Resources\\trashman.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4110acf146c4d3cd06ca1eeca28aed2c58494e46",
+   "xfrm_path": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Intermediate/Lumin/Mabu/Packaged/.cache/debug_lumin_clang-3.8_aarch64/com.it.trashman-e2f47c1897b0697b\\libgnustl_shared.so-3183bdbd83e70bb3",
+   "xfrm_size": 7705006
+  },
+  {
+   "compression": 8,
+   "hash": "e55a5c6664b550abb2ac90768c138d8063e67ad5",
+   "pkgpath": "Icon/Model/IconForeground.png",
+   "size": 8438,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/IconForeground.png"
+  },
+  {
+   "compression": 8,
+   "hash": "7aa5ec20b3be5d7fc144092893fcc529932dcb25",
+   "pkgpath": "Icon/Model/UE4_Logo.fbx",
+   "size": 326124,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/UE4_Logo.fbx"
+  },
+  {
+   "compression": 8,
+   "hash": "3dcb827462ccc84ccb46dbce49ef33840cbd916a",
+   "pkgpath": "Icon/Portal/UE4_Logo.mtl",
+   "size": 240,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Portal/UE4_Logo.mtl"
+  },
+  {
+   "compression": 8,
+   "hash": "360992c9feeaeebbd1bda66a1a53fc4cab2b58a0",
+   "pkgpath": "Icon/Portal/UE4_Logo.obj",
+   "size": 667418,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Portal/UE4_Logo.obj"
+  },
+  {
+   "compression": 8,
+   "hash": "f1284aefee8fca89d21c49d4dbc88e53a42e5907",
+   "pkgpath": "Icon/Portal/gradient.png",
+   "size": 728192,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Portal/gradient.png"
+  },
+  {
+   "compression": 8,
+   "hash": "7d3c7d440d9cd7cfab2c6190657569bf6f0d61d9",
+   "pkgpath": "bin/Trashman",
+   "size": 257234272,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Intermediate/Lumin/Mabu/Binaries/UE4Game-arm64-lumin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Build\\Lumin\\Resources\\trashman.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "25696bf82454559e93afd574d3ae56b0dc916a81",
+   "xfrm_path": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Intermediate/Lumin/Mabu/Packaged/.cache/debug_lumin_clang-3.8_aarch64/com.it.trashman-e2f47c1897b0697b\\UE4Game-arm64-lumin.so-bc8fc50546ab87ef",
+   "xfrm_size": 257235030
+  },
+  {
+   "compression": 8,
+   "hash": "52e9975ab0a0ca251ec1406afa657876dae6a92e",
+   "pkgpath": "manifest.xml",
+   "size": 1052,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Intermediate/Lumin/Mabu\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "11ca1aaac4f85b6b70f51ee95f7cdcc8df8e7c93",
+     "developer_id": "f42af249-4ad6-44a5-b5d2-7690c80766b5"
+    }
+   },
+   "xfrm_hash": "29112286a47a662133a9d9192d0b901a606f3d2e",
+   "xfrm_path": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Intermediate/Lumin/Mabu/Packaged/.cache/debug_lumin_clang-3.8_aarch64/com.it.trashman-e2f47c1897b0697b\\manifest.xml-e2f47c1897b0697b",
+   "xfrm_size": 1107
+  },
+  {
+   "compression": 8,
+   "hash": "215ef30e2993d3d3e9cbeb1c5c473cc7d2579ae9",
+   "pkgpath": "ue4commandline.txt",
+   "size": 191,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/ue4commandline.txt"
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Build\\Lumin\\Resources\\trashman.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Build\\Lumin\\Resources\\trashman.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
