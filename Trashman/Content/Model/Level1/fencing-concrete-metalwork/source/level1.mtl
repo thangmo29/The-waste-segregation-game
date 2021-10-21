@@ -1,0 +1,136 @@
+# Blender MTL File: 'Sketchfab_2021_01_18_17_08_32.blend'
+# Material Count: 12
+
+newmtl FrontColor
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Grass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\greenery.png
+map_d D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\greenery.png
+
+newmtl MAtFenceWall
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.407240 0.617207 0.407240
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MatFenceBasemant
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.201556 0.304987 0.283149
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MatFenceMetalworks
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.113725 0.101961 0.274510
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\vorota.png
+map_d D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\vorota.png
+
+newmtl MatRoofingSteel
+Ns 225.000000
+Ka 0.700000 0.700000 0.700000
+Kd 0.278894 0.423268 0.462077
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl MatSecMetalworks
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\zabor.png
+map_d D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\zabor.png
+
+newmtl MetalArc
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\arka.png
+map_d D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\arka.png
+
+newmtl MetalFencing
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\BalconyAH1.png
+map_d D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\BalconyAH1.png
+
+newmtl MetalPaint
+Ns 440.999985
+Ka 0.700000 0.700000 0.700000
+Kd 0.015996 0.031896 0.082283
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Pavement
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\trotuar1.png
+map_d D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\trotuar1.png
+
+newmtl SmallFenceMetal
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.058824 0.054902 0.156863
+Ks 0.330000 0.330000 0.330000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\kalitka.png
+map_d D:\\IT\\Year 4-1\\Project1\\Game Mr\\Trashman\\Trashman\\Content\\Model\\Level1\\fencing-concrete-metalwork\\textures\\kalitka.png

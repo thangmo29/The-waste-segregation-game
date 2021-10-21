@@ -1,2 +1,6 @@
 start color : #BA6143
 End Color : #A37114
+
+start color : #FF5500
+End Color : #FFD900
+
