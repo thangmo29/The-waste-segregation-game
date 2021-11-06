@@ -1,1 +1,1 @@
-../../../Trashman/Trashman.uproject  /Game/Map/Home -Messaging -SessionId=99402C214B30745DA3AC098274BC22EA -SessionOwner="acer" -SessionName="Launch On Device"  -vulkan  -Installed -iterative
+../../../Trashman/Trashman.uproject  /Game/Map/Home -Messaging -SessionId=16F6E814422A688257CEF7BCF81BBA75 -SessionOwner="acer" -SessionName="Launch On Device"  -vulkan  -Installed -iterative
