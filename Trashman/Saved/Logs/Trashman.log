@@ -1964,3 +1964,310 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.09-08.37.57:420][857]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Home3285C818440A860B240B30AFA9A11593.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Map/Home.umap'
 [2021.11.09-08.37.57:570][857]AssetCheck: New page: Asset Save: Home
 [2021.11.09-08.37.57:571][857]LogContentValidation: Display: Validating World /Game/Map/Home.Home
+[2021.11.09-08.40.00:257][284]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.11.09-08.40.00:257][284]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.11.09-08.42.55:842][201]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/BP_spray-can0152FA144BC4FD768724ACA73775390C.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Blueprints/BP_Red/BP_spray-can.uasset'
+[2021.11.09-08.42.55:923][201]AssetCheck: New page: Asset Save: BP_spray-can
+[2021.11.09-08.42.55:923][201]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Red/BP_spray-can.BP_spray-can
+[2021.11.09-08.42.57:338][218]LogSlate: Window 'BP_spray-can' being destroyed
+[2021.11.09-08.42.57:525][218]LogSlate: Window 'BP_spray-can' being destroyed
+[2021.11.09-08.42.57:570][218]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-08.42.57:570][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-08.43.03:040][238]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Red/BP_old-tv.BP_old-tv
+[2021.11.09-08.43.09:628][335]LogRHI: Timed out while waiting for GPU to catch up on occlusion results. (0.5 s)
+[2021.11.09-08.43.21:521][462]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Model/item/RED/old-tv/source/M_old-tv.M_old-tv
+[2021.11.09-08.43.21:530][462]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.11.09-08.43.21:718][462]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.11.09-08.43.21:748][462]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.11.09-08.43.21:796][462]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.09-08.43.21:796][462]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.09-08.43.21:796][462]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.09-08.43.21:796][462]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.09-08.43.21:812][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.09-08.43.21:834][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.11.09-08.43.21:867][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.09-08.43.21:893][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.09-08.43.33:522][729]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.11.09-08.43.36:802][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.11.09-08.43.37:558][749]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.11.09-08.43.37:908][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.11.09-08.43.43:957][862]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.11.09-08.43.47:002][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.11.09-08.43.51:255][137]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.11.09-08.43.53:617][173]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.09-08.43.55:544][180]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.11.09-08.43.55:544][180]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.11.09-08.43.56:676][181]MaterialEditorStats: Base pass shader: 144 instructions
+[2021.11.09-08.43.56:676][181]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 213 instructions
+[2021.11.09-08.43.56:676][181]MaterialEditorStats: Base pass vertex shader: 52 instructions
+[2021.11.09-08.43.56:676][181]MaterialEditorStats: Texture samplers: 6/16
+[2021.11.09-08.43.56:676][181]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.11.09-08.43.56:676][181]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.09-08.43.58:018][189]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.11.09-08.44.00:867][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.09-08.44.02:320][225]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.09-08.44.03:444][238]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.09-08.44.03:444][238]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.11.09-08.44.07:007][285]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.11.09-08.44.07:752][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.09-08.44.09:505][319]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.11.09-08.44.10:789][337]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.09-08.44.11:551][346]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.09-08.44.11:970][350]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.09-08.46.17:919][776]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Red/BP_battery.BP_battery
+[2021.11.09-08.46.37:367][ 37]PIE: Warning: AttachTo: '/Engine/Transient.World_18:PersistentLevel.BP_ControlPointer_C_0.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Engine/Transient.World_18:PersistentLevel.BP_ControlPointer_C_0.SplineMesh' which is static to it. Aborting.
+[2021.11.09-08.46.59:757][298]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_water-bottle.BP_water-bottle
+[2021.11.09-08.47.58:816][673]LogUObjectHash: Compacting FUObjectHashTables data took   9.78ms
+[2021.11.09-08.47.58:819][673]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Home' took 0.187
+[2021.11.09-08.47.58:825][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_015_Cylinder_016] ([1] browsable assets)...
+[2021.11.09-08.47.58:918][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_015_Cylinder_016.Spray-new_Cylinder_015_Cylinder_016]
+[2021.11.09-08.47.58:918][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_015_Cylinder_016]
+[2021.11.09-08.47.58:985][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_015_Cylinder_ADAF76944CD11B222ED01FB8E28826E9.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_015_Cylinder_016_Auto6.uasset'
+[2021.11.09-08.47.58:988][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/lambert1] ([1] browsable assets)...
+[2021.11.09-08.47.59:083][673]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Model/item/RED/spray-can/source/lambert1.lambert1]
+[2021.11.09-08.47.59:083][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/lambert1]
+[2021.11.09-08.47.59:116][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/lambert1_Auto63FF6EF6446215F97AE85FFB56FAE091C.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/lambert1_Auto6.uasset'
+[2021.11.09-08.47.59:118][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_014_Cylinder_015] ([1] browsable assets)...
+[2021.11.09-08.47.59:203][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_014_Cylinder_015.Spray-new_Cylinder_014_Cylinder_015]
+[2021.11.09-08.47.59:203][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_014_Cylinder_015]
+[2021.11.09-08.47.59:264][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_014_Cylinder_E45584E640A2C12C838E1C8D0BA49695.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_014_Cylinder_015_Auto6.uasset'
+[2021.11.09-08.47.59:266][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_013_Cylinder_014] ([1] browsable assets)...
+[2021.11.09-08.47.59:353][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_013_Cylinder_014.Spray-new_Cylinder_013_Cylinder_014]
+[2021.11.09-08.47.59:353][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_013_Cylinder_014]
+[2021.11.09-08.47.59:413][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_013_Cylinder_B1C9A7054E4A7394D1DF9C816A4E5DB2.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_013_Cylinder_014_Auto6.uasset'
+[2021.11.09-08.47.59:414][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_012_Cylinder_013] ([1] browsable assets)...
+[2021.11.09-08.47.59:498][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_012_Cylinder_013.Spray-new_Cylinder_012_Cylinder_013]
+[2021.11.09-08.47.59:498][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_012_Cylinder_013]
+[2021.11.09-08.47.59:580][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_012_Cylinder_CAE7EF5A4D6052DAA57048A5B4DBEE63.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_012_Cylinder_013_Auto6.uasset'
+[2021.11.09-08.47.59:582][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_011_Cylinder_012] ([1] browsable assets)...
+[2021.11.09-08.47.59:669][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_011_Cylinder_012.Spray-new_Cylinder_011_Cylinder_012]
+[2021.11.09-08.47.59:669][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_011_Cylinder_012]
+[2021.11.09-08.47.59:725][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_011_Cylinder_D52FB3894B269ECF9A65A0A75BDCF03E.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_011_Cylinder_012_Auto6.uasset'
+[2021.11.09-08.47.59:726][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_010_Cylinder_011] ([1] browsable assets)...
+[2021.11.09-08.47.59:815][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_010_Cylinder_011.Spray-new_Cylinder_010_Cylinder_011]
+[2021.11.09-08.47.59:815][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_010_Cylinder_011]
+[2021.11.09-08.47.59:885][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_010_Cylinder_AE29C2FE454583445116119B374ACEB3.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_010_Cylinder_011_Auto6.uasset'
+[2021.11.09-08.47.59:888][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_009_Cylinder_010] ([1] browsable assets)...
+[2021.11.09-08.47.59:985][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_009_Cylinder_010.Spray-new_Cylinder_009_Cylinder_010]
+[2021.11.09-08.47.59:985][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_009_Cylinder_010]
+[2021.11.09-08.48.00:074][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_009_Cylinder_C6463CC44F70EDE5DAF6DA875FC081C2.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_009_Cylinder_010_Auto6.uasset'
+[2021.11.09-08.48.00:077][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_008_Cylinder_009] ([1] browsable assets)...
+[2021.11.09-08.48.00:174][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_008_Cylinder_009.Spray-new_Cylinder_008_Cylinder_009]
+[2021.11.09-08.48.00:174][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_008_Cylinder_009]
+[2021.11.09-08.48.00:244][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_008_Cylinder_28BA812D49565B27F38C1B9029AA5448.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_008_Cylinder_009_Auto6.uasset'
+[2021.11.09-08.48.00:246][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_007_Cylinder_008] ([1] browsable assets)...
+[2021.11.09-08.48.00:334][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_007_Cylinder_008.Spray-new_Cylinder_007_Cylinder_008]
+[2021.11.09-08.48.00:334][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_007_Cylinder_008]
+[2021.11.09-08.48.00:405][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_007_Cylinder_8CCC73B444FA7AFB1BC82CB9655E5045.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_007_Cylinder_008_Auto6.uasset'
+[2021.11.09-08.48.00:407][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_006_Cylinder_007] ([1] browsable assets)...
+[2021.11.09-08.48.00:507][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_006_Cylinder_007.Spray-new_Cylinder_006_Cylinder_007]
+[2021.11.09-08.48.00:507][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_006_Cylinder_007]
+[2021.11.09-08.48.00:591][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_006_Cylinder_5AFCCA794685A9F8C0195A98EE3EDF61.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_006_Cylinder_007_Auto6.uasset'
+[2021.11.09-08.48.00:595][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_005_Cylinder_006] ([1] browsable assets)...
+[2021.11.09-08.48.00:695][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_005_Cylinder_006.Spray-new_Cylinder_005_Cylinder_006]
+[2021.11.09-08.48.00:695][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_005_Cylinder_006]
+[2021.11.09-08.48.00:763][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_005_Cylinder_019288EC4277D23B123E278718A4E2D1.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_005_Cylinder_006_Auto6.uasset'
+[2021.11.09-08.48.00:765][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_004_Cylinder_005] ([1] browsable assets)...
+[2021.11.09-08.48.00:860][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_004_Cylinder_005.Spray-new_Cylinder_004_Cylinder_005]
+[2021.11.09-08.48.00:860][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_004_Cylinder_005]
+[2021.11.09-08.48.00:918][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_004_Cylinder_B98B8E8744A54189BD3D35B28AAB29C8.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_004_Cylinder_005_Auto6.uasset'
+[2021.11.09-08.48.00:920][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_003_Cylinder_004] ([1] browsable assets)...
+[2021.11.09-08.48.01:019][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_003_Cylinder_004.Spray-new_Cylinder_003_Cylinder_004]
+[2021.11.09-08.48.01:019][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_003_Cylinder_004]
+[2021.11.09-08.48.01:088][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_003_Cylinder_2EB2485C4CDA4C739AEC7C81B4759410.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_003_Cylinder_004_Auto6.uasset'
+[2021.11.09-08.48.01:091][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_002_Cylinder_003] ([1] browsable assets)...
+[2021.11.09-08.48.01:179][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_002_Cylinder_003.Spray-new_Cylinder_002_Cylinder_003]
+[2021.11.09-08.48.01:180][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_002_Cylinder_003]
+[2021.11.09-08.48.01:243][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_002_Cylinder_0279174942C666947A4B86BE6B73799D.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_002_Cylinder_003_Auto6.uasset'
+[2021.11.09-08.48.01:251][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_001_Cylinder_002] ([1] browsable assets)...
+[2021.11.09-08.48.01:345][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_001_Cylinder_002.Spray-new_Cylinder_001_Cylinder_002]
+[2021.11.09-08.48.01:345][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_001_Cylinder_002]
+[2021.11.09-08.48.01:407][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_001_Cylinder_5AEC1C714AE607CEF9E608A30B207E45.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_001_Cylinder_002_Auto6.uasset'
+[2021.11.09-08.48.01:409][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder] ([1] browsable assets)...
+[2021.11.09-08.48.01:502][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/item/RED/spray-can/source/Spray-new_Cylinder.Spray-new_Cylinder]
+[2021.11.09-08.48.01:502][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder]
+[2021.11.09-08.48.01:579][673]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Spray-new_Cylinder_Auto6512F2AD941CF4123F30EA0894B2C2A73.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Autosaves/Game/Model/item/RED/spray-can/source/Spray-new_Cylinder_Auto6.uasset'
+[2021.11.09-08.48.01:581][673]LogFileHelpers: Auto-saving content packages took 2.757
+[2021.11.09-08.48.33:760][ 81]BlueprintLog: New page: Compile BP_water-bottle
+[2021.11.09-08.48.34:327][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2021.11.09-08.48.36:044][117]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/BP_water-bottleCD06A4A5464E45015F5008ADEE4C4273.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_water-bottle.uasset'
+[2021.11.09-08.48.36:129][117]AssetCheck: New page: Asset Save: BP_water-bottle
+[2021.11.09-08.48.36:129][117]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_water-bottle.BP_water-bottle
+[2021.11.09-08.48.48:014][330]LogRHI: Timed out while waiting for GPU to catch up on occlusion results. (0.5 s)
+[2021.11.09-08.49.11:487][463]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.11.09-08.49.11:487][463]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.11.09-08.49.16:854][486]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/M_water-bottleA147A3E14707B1CC7CC7FCAEC872B69B.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/water-bottle/source/OBJ-WaterBottle/M_water-bottle.uasset'
+[2021.11.09-08.49.17:386][486]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2021.11.09-08.49.17:494][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.11.09-08.49.17:548][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.11.09-08.49.17:923][486]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/obj-WaterBottle8CC659C840E4C4FDF3A8EDAC4B681819.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/water-bottle/source/OBJ-WaterBottle/obj-WaterBottle.uasset'
+[2021.11.09-08.49.18:127][486]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/BP_water-bottleDB82814C4BAA6FB92F9C2A8B031371C8.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_water-bottle.uasset'
+[2021.11.09-08.49.18:363][486]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.09-08.49.18:363][486]LogContentValidation: Display: Validating Material /Game/Model/item/YELLOW/water-bottle/source/OBJ-WaterBottle/M_water-bottle.M_water-bottle
+[2021.11.09-08.49.18:363][486]LogContentValidation: Display: Validating StaticMesh /Game/Model/item/YELLOW/water-bottle/source/OBJ-WaterBottle/obj-WaterBottle.obj-WaterBottle
+[2021.11.09-08.49.18:363][486]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_water-bottle.BP_water-bottle
+[2021.11.09-08.49.22:073][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Home" FILE="../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Map/Home.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.09-08.49.22:138][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.11.09-08.49.22:179][508]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Home61AB31BA45CA7BE97845889BBCF912C6.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Map/Home.umap'
+[2021.11.09-08.49.22:297][508]AssetCheck: New page: Asset Save: Home
+[2021.11.09-08.49.22:297][508]LogContentValidation: Display: Validating World /Game/Map/Home.Home
+[2021.11.09-08.49.29:868][690]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-08.49.29:868][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-08.49.36:058][760]BlueprintLog: New page: Compile BP_water-bottle
+[2021.11.09-08.49.36:488][760]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2021.11.09-08.49.38:683][786]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/BP_water-bottle51BB0A214E4D7147719682AEE34F6E14.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_water-bottle.uasset'
+[2021.11.09-08.49.38:761][786]AssetCheck: New page: Asset Save: BP_water-bottle
+[2021.11.09-08.49.38:761][786]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_water-bottle.BP_water-bottle
+[2021.11.09-08.49.47:454][913]LogMaterialEditor: Applying material M_old-tv
+[2021.11.09-08.49.48:271][913]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.11.09-08.49.48:330][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.09-08.49.48:330][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.09-08.49.48:330][913]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.09-08.49.48:330][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.09-08.49.48:442][913]LogMaterial: Display: Missing cached shader map for material M_old-tv, compiling. 
+[2021.11.09-08.49.48:574][913]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2021.11.09-08.49.48:594][913]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.09-08.49.56:249][913]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.11.09-08.49.56:249][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.11.09-08.49.56:249][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.11.09-08.49.56:249][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.11.09-08.49.56:249][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.11.09-08.49.56:249][913]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.09-08.49.56:249][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.09-08.49.56:249][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.09-08.49.56:249][913]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.11.09-08.49.56:256][913]TextureStreamingBuild: Display: Compiling optional shaders took 7.679 seconds.
+[2021.11.09-08.49.56:337][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.11.09-08.49.56:529][914]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.09-08.49.57:574][931]LogMaterialEditor: Saving and Compiling material M_old-tv
+[2021.11.09-08.50.14:440][931]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.09-08.50.14:441][931]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.11.09-08.50.14:616][931]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/M_old-tv54BE3C1B4E64FA4168454AA268E8508C.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/RED/old-tv/source/M_old-tv.uasset'
+[2021.11.09-08.50.14:773][931]AssetCheck: New page: Asset Save: M_old-tv
+[2021.11.09-08.50.14:773][931]LogContentValidation: Display: Validating Material /Game/Model/item/RED/old-tv/source/M_old-tv.M_old-tv
+[2021.11.09-08.50.14:774][931]MaterialEditorStats: Base pass shader: 144 instructions
+[2021.11.09-08.50.14:775][931]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 213 instructions
+[2021.11.09-08.50.14:775][931]MaterialEditorStats: Base pass vertex shader: 52 instructions
+[2021.11.09-08.50.14:775][931]MaterialEditorStats: Texture samplers: 7/16
+[2021.11.09-08.50.14:775][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.11.09-08.50.14:775][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.09-08.52.19:540][353]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-08.52.19:541][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-08.52.20:289][367]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.09-08.52.20:289][367]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-08.52.20:289][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-08.52.21:518][380]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-08.52.21:518][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-08.52.22:090][391]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.09-08.52.22:090][391]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-08.52.22:090][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-08.52.27:031][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_beer-can.BP_beer-can
+[2021.11.09-08.52.40:475][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_water-bottle.BP_water-bottle
+[2021.11.09-08.53.14:730][203]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-08.53.14:730][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-08.53.51:949][881]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Model/item/YELLOW/beer-can/source/Export/M_Beer_can.M_Beer_can
+[2021.11.09-08.53.51:961][881]LogMaterial: Display: Missing cached shader map for material M_Beer_can, compiling. 
+[2021.11.09-08.53.52:131][881]LogMaterial: Display: Missing cached shader map for material M_Beer_can, compiling. 
+[2021.11.09-08.53.52:161][881]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.09-08.53.52:161][881]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.11.09-08.53.52:161][881]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.11.09-08.53.52:161][881]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.11.09-08.53.52:161][881]LogMaterial: Display: Missing cached shader map for material M_Beer_can, compiling. 
+[2021.11.09-08.53.52:201][881]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.09-08.54.00:481][ 19]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.11.09-08.54.05:394][ 63]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.11.09-08.54.06:246][ 70]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.11.09-08.54.06:680][ 70]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.11.09-08.54.09:815][ 89]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.11.09-08.54.10:112][ 90]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.09-08.54.10:617][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse': Can't find file.
+[2021.11.09-08.54.10:618][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse': Can't find file.
+[2021.11.09-08.54.10:619][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Normal': Can't find file.
+[2021.11.09-08.54.10:620][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Normal': Can't find file.
+[2021.11.09-08.54.10:620][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Roughness': Can't find file.
+[2021.11.09-08.54.10:621][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Roughness': Can't find file.
+[2021.11.09-08.54.10:622][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_SPEC': Can't find file.
+[2021.11.09-08.54.10:622][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_SPEC': Can't find file.
+[2021.11.09-08.54.10:622][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse': Can't find file.
+[2021.11.09-08.54.10:623][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse': Can't find file.
+[2021.11.09-08.54.10:623][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Normal': Can't find file.
+[2021.11.09-08.54.10:623][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Normal': Can't find file.
+[2021.11.09-08.54.10:623][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Roughness': Can't find file.
+[2021.11.09-08.54.10:624][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Roughness': Can't find file.
+[2021.11.09-08.54.10:624][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_SPEC': Can't find file.
+[2021.11.09-08.54.10:625][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_SPEC': Can't find file.
+[2021.11.09-08.54.10:686][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse': Can't find file.
+[2021.11.09-08.54.10:687][ 93]LoadErrors: Failed to load /Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse.Diffuse Referenced by MaterialExpressionTextureSample_0
+[2021.11.09-08.54.10:687][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse': Can't find file.
+[2021.11.09-08.54.10:687][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Normal': Can't find file.
+[2021.11.09-08.54.10:688][ 93]LoadErrors: Failed to load /Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Normal.Diffuse_Normal Referenced by MaterialExpressionTextureSample_1
+[2021.11.09-08.54.10:688][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Normal': Can't find file.
+[2021.11.09-08.54.10:688][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Roughness': Can't find file.
+[2021.11.09-08.54.10:688][ 93]LoadErrors: Failed to load /Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Roughness.Diffuse_Roughness Referenced by MaterialExpressionTextureSample_2
+[2021.11.09-08.54.10:688][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_Roughness': Can't find file.
+[2021.11.09-08.54.10:689][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_SPEC': Can't find file.
+[2021.11.09-08.54.10:689][ 93]LoadErrors: Failed to load /Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_SPEC.Diffuse_SPEC Referenced by MaterialExpressionTextureSample_3
+[2021.11.09-08.54.10:689][ 93]LogLinker: Warning: While loading '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.uasset' failed to load '/Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/materials/Diffuse_SPEC': Can't find file.
+[2021.11.09-08.54.10:707][ 93]LogMaterial: Display: Missing cached shader map for material M_cola-can, compiling. 
+[2021.11.09-08.54.10:708][ 93]LogMaterial: Warning: E:\Year4\1-2564\Senior-Project\Project_MR\Trashman\Trashman\Content\Model\item\YELLOW\simple-cola-can\source\Simple_Cola_Can\model\obj\M_cola-can.uasset: Failed to compile Material for platform SF_VULKAN_SM5, Default Material will be used in game.
+[2021.11.09-08.54.10:708][ 93]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.11.09-08.54.10:895][ 93]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_cola-can.BP_cola-can
+[2021.11.09-08.54.12:908][123]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.11.09-08.54.14:349][157]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.09-08.54.14:597][165]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.11.09-08.54.17:499][213]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.11.09-08.54.20:519][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.09-08.54.20:832][269]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.09-08.54.22:979][302]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/BP_cola-can5EB57CB64A136C0ED78EFDB4EE3BD334.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_cola-can.uasset'
+[2021.11.09-08.54.23:061][302]AssetCheck: New page: Asset Save: BP_cola-can
+[2021.11.09-08.54.23:061][302]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_cola-can.BP_cola-can
+[2021.11.09-08.54.23:701][321]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.09-08.54.23:803][322]MaterialEditorStats: Base pass shader: 136 instructions
+[2021.11.09-08.54.23:804][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 205 instructions
+[2021.11.09-08.54.23:804][322]MaterialEditorStats: Base pass vertex shader: 52 instructions
+[2021.11.09-08.54.23:804][322]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.09-08.54.23:804][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.11.09-08.54.23:804][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.09-08.56.00:119][798]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/BP_cola-can8071636B4E0192C76639D6BF6A0C507E.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_cola-can.uasset'
+[2021.11.09-08.56.00:190][798]AssetCheck: New page: Asset Save: BP_cola-can
+[2021.11.09-08.56.00:190][798]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_cola-can.BP_cola-can
+[2021.11.09-08.56.54:807][437]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/BP_cola-canCA3E482348A74C0F561AA2A2AA0F6590.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_cola-can.uasset'
+[2021.11.09-08.56.54:870][437]AssetCheck: New page: Asset Save: BP_cola-can
+[2021.11.09-08.56.54:870][437]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_Yellow/BP_cola-can.BP_cola-can
+[2021.11.09-08.57.05:740][563]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.M_cola-can
+[2021.11.09-08.57.05:751][563]LogMaterial: Display: Missing cached shader map for material M_cola-can, compiling. 
+[2021.11.09-08.57.05:753][563]LogMaterial: Warning: /Engine/Transient.M_cola-can (no disk path found): Failed to compile Material for platform SF_VULKAN_SM5, Default Material will be used in game.
+[2021.11.09-08.57.05:753][563]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.11.09-08.57.05:885][563]LogMaterial: Display: Missing cached shader map for material M_cola-can, compiling. 
+[2021.11.09-08.57.05:886][563]LogMaterial: Warning: /Engine/Transient.M_cola-can (no disk path found): Failed to compile Material for platform SF_VULKAN_SM5, Default Material will be used in game.
+[2021.11.09-08.57.05:886][563]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.11.09-08.57.05:892][563]LogMaterial: Display: Missing cached shader map for material M_cola-can, compiling. 
+[2021.11.09-08.57.05:893][563]LogMaterial: Warning: /Engine/Transient.M_cola-can (no disk path found): Failed to compile Material for platform SF_VULKAN_SM5, Default Material will be used in game.
+[2021.11.09-08.57.05:893][563]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.11.09-08.57.05:911][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.11.09-08.57.05:918][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.11.09-08.57.05:925][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.11.09-08.57.05:932][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.11.09-08.57.06:235][563]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.11.09-08.57.41:892][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Home" FILE="../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Map/Home.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.09-08.57.42:007][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   9.60ms
+[2021.11.09-08.57.42:058][ 71]LogSavePackage: Moving '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Saved/Home6EF3CB00422E8A2F01348297670D1CFE.tmp' to '../../../../../Year4/1-2564/Senior-Project/Project_MR/Trashman/Trashman/Content/Map/Home.umap'
+[2021.11.09-08.57.42:213][ 71]AssetCheck: New page: Asset Save: Home
+[2021.11.09-08.57.42:213][ 71]LogContentValidation: Display: Validating World /Game/Map/Home.Home
+[2021.11.09-08.58.50:270][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.11.09-08.58.53:894][469]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.09-08.59.15:392][469]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-08.59.15:392][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-08.59.15:581][469]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-08.59.15:582][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-08.59.15:639][469]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/Can.Can
+	Asset Name: /Game/Model/item/YELLOW/simple-cola-can/source/Simple_Cola_Can/model/obj/M_cola-can.M_cola-can
+[2021.11.09-08.59.17:095][469]LogMaterial: Display: Missing cached shader map for material M_cola-can, compiling. 
+[2021.11.09-08.59.17:095][469]LogMaterial: Warning: /Engine/Transient.M_cola-can (no disk path found): Failed to compile Material for platform SF_VULKAN_SM5, Default Material will be used in game.
+[2021.11.09-08.59.17:095][469]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.11.09-08.59.17:127][469]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Engine/Transient.World_26:PersistentLevel.BP_cola-can_C_0.Cube: Material index 0 is invalid.
+[2021.11.09-08.59.18:252][469]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2021.11.09-08.59.18:325][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.11.09-08.59.18:377][469]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2021.11.09-08.59.18:425][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
