@@ -3,7 +3,7 @@ stl/libgnustl\
 package/debuggable/on
 MLCERT="D:\IT\Year 4-1\Project1\Game Mr\Trashman\Trashman\Build\Lumin\Resources\trashman.cert"
 DATAS= \
-"D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/ue4commandline.txt" : "ue4commandline.txt" \
+"D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/" : "./" \
 "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/" : "Icon/Model/" \
 "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Portal/" : "Icon/Portal/" \
 "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Intermediate/Lumin/Mabu/Binaries/UE4Game-arm64-lumin.so" : "bin/Trashman" \

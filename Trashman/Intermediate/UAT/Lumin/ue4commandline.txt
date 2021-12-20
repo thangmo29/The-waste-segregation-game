@@ -1,1 +1,1 @@
-../../../Trashman/Trashman.uproject  /Game/Map/ScanWorld -Messaging -SessionId=2E08316B4431556478EBE7AA28985668 -SessionOwner="acer" -SessionName="Launch On Device"  -vulkan  -Installed -iterative
+../../../Trashman/Trashman.uproject   -Messaging -SessionId=6E43FF5449DBF0350E0FDCBD62190C8F -SessionOwner="acer" -SessionName="Magic_Leap_One_Creator_Edition (G1306M000705)"  -vulkan  -Installed
