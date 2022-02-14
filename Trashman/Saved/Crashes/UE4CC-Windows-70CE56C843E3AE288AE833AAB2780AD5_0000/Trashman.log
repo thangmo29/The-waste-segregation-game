@@ -1,0 +1,1300 @@
+﻿Log file open, 02/13/22 00:30:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Trashman
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.739797
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: release-sdk-0.24.0-36bc4a8-CL-0
+LogInit: Engine Version: 4.24.2-0+release-sdk-0.24.0-36bc4a8
+LogInit: Compatible Engine Version: 4.24.0-0+release-sdk-0.24.0-36bc4a8
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 27 2020 03:02:54
+LogInit: Compiled with Visual C++: 19.16.27034.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: release-sdk-0.24.0-36bc4a8
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Game/Epic Game/MagicLeapUE4Editor/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.12-17.30.15:954][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.12-17.30.15:954][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.PostProcessing.InvertAlpha:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.02.12-17.30.15:955][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2022.02.12-17.30.15:956][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.02.12-17.30.15:956][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.02.12-17.30.15:956][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.02.12-17.30.15:956][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.02.12-17.30.15:956][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.02.12-17.30.15:957][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.02.12-17.30.15:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.12-17.30.15:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.02.12-17.30.15:958][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.02.12-17.30.15:966][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.12-17.30.15:966][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.02.12-17.30.15:967][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.02.12-17.30.15:968][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.12-17.30.15:968][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.12-17.30.15:976][  0]LogHAL: Display: Platform has ~ 16 GB [17014509568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.12-17.30.15:976][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.12-17.30.15:976][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.12-17.30.15:976][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.02.12-17.30.15:977][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.12-17.30.15:983][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.12-17.30.15:983][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.12-17.30.15:983][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:0]]
+[2022.02.12-17.30.15:983][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.02.12-17.30.15:984][  0]LogInit: Computer: ROBOT
+[2022.02.12-17.30.15:984][  0]LogInit: User: acer
+[2022.02.12-17.30.15:984][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.02.12-17.30.15:984][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.12-17.30.15:985][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.02.12-17.30.15:985][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.12-17.30.15:985][  0]LogMemory: Process Physical Memory: 106.21 MB used, 106.22 MB peak
+[2022.02.12-17.30.15:985][  0]LogMemory: Process Virtual Memory: 100.68 MB used, 100.68 MB peak
+[2022.02.12-17.30.15:985][  0]LogMemory: Physical Memory: 5543.57 MB used,  10682.73 MB free, 16226.30 MB total
+[2022.02.12-17.30.15:985][  0]LogMemory: Virtual Memory: 5140.17 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2022.02.12-17.30.15:991][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.12-17.30.16:329][  0]LogInit: Using OS detected language (en-GB).
+[2022.02.12-17.30.16:329][  0]LogInit: Using OS detected locale (th-TH).
+[2022.02.12-17.30.16:333][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.02.12-17.30.16:788][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.12-17.30.16:913][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.12-17.30.16:913][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.12-17.30.20:117][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.12-17.30.20:117][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.12-17.30.20:117][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.12-17.30.20:258][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2022.02.12-17.30.20:258][  0]LogD3D11RHI:       4019/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.12-17.30.20:301][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.02.12-17.30.20:301][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.02.12-17.30.20:304][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.12-17.30.20:304][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.12-17.30.20:304][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.12-17.30.20:316][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.12-17.30.20:316][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2022.02.12-17.30.20:316][  0]LogWindows: EnumDisplayDevices:
+[2022.02.12-17.30.20:316][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2022.02.12-17.30.20:316][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.02.12-17.30.20:317][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.02.12-17.30.20:317][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2022.02.12-17.30.20:317][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.02.12-17.30.20:317][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2022.02.12-17.30.20:317][  0]LogD3D11RHI:   Driver Version: 471.68 (internal:30.0.14.7168, unified:471.68)
+[2022.02.12-17.30.20:317][  0]LogD3D11RHI:      Driver Date: 8-5-2021
+[2022.02.12-17.30.20:317][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2022.02.12-17.30.20:438][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.12-17.30.20:438][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.12-17.30.20:441][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2022.02.12-17.30.20:491][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.12-17.30.21:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.12-17.30.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.12-17.30.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.12-17.30.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.12-17.30.21:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.12-17.30.21:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.12-17.30.21:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.12-17.30.21:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.12-17.30.21:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.12-17.30.21:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.12-17.30.21:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.12-17.30.21:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.12-17.30.21:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.12-17.30.21:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.12-17.30.21:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.12-17.30.21:758][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.12-17.30.21:851][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.12-17.30.22:269][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Intermediate/Shaders/WorkingDirectory/14256/).
+[2022.02.12-17.30.22:269][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/acer/AppData/Local/Temp/UnrealShaderWorkingDir/E15652544A4A0BE77C7BFE903A05D18D/'.
+[2022.02.12-17.30.22:270][  0]LogXGEController: Cleaning working directory: C:/Users/acer/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.02.12-17.30.22:270][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.12-17.30.22:271][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.12-17.30.22:271][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.12-17.30.25:387][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.12-17.30.25:621][  0]LogDerivedDataCache: Loaded boot cache 0.23s 169MB C:/Users/acer/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.02.12-17.30.25:621][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/acer/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.02.12-17.30.25:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.12-17.30.25:621][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.12-17.30.25:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.12-17.30.25:621][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.12-17.30.25:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.12-17.30.25:621][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2022.02.12-17.30.25:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.12-17.30.25:621][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.12-17.30.25:622][  0]LogDerivedDataCache: Using Local data cache path C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.12-17.30.25:622][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.12-17.30.25:622][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.12-17.30.25:657][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.02.12-17.30.25:669][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.12-17.30.25:684][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.12-17.30.26:603][  0]LogAssetRegistry: FAssetRegistry took 0.0051 seconds to start up
+[2022.02.12-17.30.27:035][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.12-17.30.27:562][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.12-17.30.27:563][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.12-17.30.27:563][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.12-17.30.27:563][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.12-17.30.27:563][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.12-17.30.27:634][  0]LogNetVersion: Trashman 1.0.0, NetCL: 0, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1878897351)
+[2022.02.12-17.30.36:203][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.36:203][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.36:203][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:203][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:203][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:203][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:203][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.36:203][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:204][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.36:204][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.36:205][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:205][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:205][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:205][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:205][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.36:205][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.36:205][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:205][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.36:205][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.36:205][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.38:254][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.295599 seconds
+[2022.02.12-17.30.38:262][  0]LogUObjectArray: 46809 objects as part of root set at end of initial load.
+[2022.02.12-17.30.38:262][  0]LogUObjectAllocator: 8146008 out of 0 bytes used by permanent object pool.
+[2022.02.12-17.30.38:262][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.12-17.30.40:590][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.12-17.30.40:615][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.12-17.30.41:036][  0]SourceControl: Source control is disabled
+[2022.02.12-17.30.41:036][  0]SourceControl: Source control is disabled
+[2022.02.12-17.30.41:065][  0]SourceControl: Source control is disabled
+[2022.02.12-17.30.41:088][  0]SourceControl: Source control is disabled
+[2022.02.12-17.30.41:109][  0]SourceControl: Source control is disabled
+[2022.02.12-17.30.41:994][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.12-17.30.42:112][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.12-17.30.42:112][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.12-17.30.42:419][  0]LogOcInput: OculusInput pre-init called
+[2022.02.12-17.30.42:467][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.02.12-17.30.42:467][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.02.12-17.30.42:696][  0]LogEngine: Initializing Engine...
+[2022.02.12-17.30.42:699][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.12-17.30.42:699][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.12-17.30.42:702][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.02.12-17.30.43:279][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.12-17.30.43:333][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.12-17.30.43:342][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.12-17.30.43:342][  0]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.02.12-17.30.43:342][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.02.12-17.30.43:343][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.02.12-17.30.43:343][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.12-17.30.43:343][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.02.12-17.30.43:343][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.12-17.30.43:343][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.12-17.30.43:343][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.12-17.30.43:343][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.12-17.30.43:344][  0]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.02.12-17.30.43:350][  0]LogInit: FAudioDevice initialized.
+[2022.02.12-17.30.43:350][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.12-17.30.43:411][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/acer/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.02.12-17.30.43:414][  0]LogInit: Texture streaming: Enabled
+[2022.02.12-17.30.43:496][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.12-17.30.43:496][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={5017D516-476C-516B-6CC2-16BC2FE0936A}
+[2022.02.12-17.30.43:496][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.12-17.30.43:499][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.12-17.30.43:792][  0]LogInit: Transaction tracking system initialized
+[2022.02.12-17.30.43:930][  0]BlueprintLog: New page: Editor Load
+[2022.02.12-17.30.44:357][  0]LocalizationService: Localization service is disabled
+[2022.02.12-17.30.46:094][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.02.12-17.30.46:095][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.12-17.30.47:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.47:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.47:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.02.12-17.30.47:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.02.12-17.30.47:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.47:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.02.12-17.30.47:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.02.12-17.30.48:164][  0]SourceControl: Source control is disabled
+[2022.02.12-17.30.48:165][  0]Cmd: MAP LOAD FILE="D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Map/ScanWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.12-17.30.48:186][  0]LogFileCache: Scanning file cache for directory 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/' took 2.21s
+[2022.02.12-17.30.48:186][  0]LightingResults: New page: Lighting Build
+[2022.02.12-17.30.48:189][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-17.30.48:191][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-17.30.48:191][  0]MapCheck: New page: Map Check
+[2022.02.12-17.30.48:191][  0]LightingResults: New page: Lighting Build
+[2022.02.12-17.30.48:223][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.02.12-17.30.48:615][  0]LogAIModule: Creating AISystem for world ScanWorld
+[2022.02.12-17.30.48:636][  0]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.02.12-17.30.48:638][  0]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.02.12-17.30.48:643][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.12-17.30.48:675][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.12-17.30.48:676][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.12-17.30.48:676][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2022.02.12-17.30.48:676][  0]LogFileHelpers: Loading map 'ScanWorld' took 0.511
+[2022.02.12-17.30.48:869][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-17.30.48:877][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-17.30.48:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-17.30.48:893][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-17.30.48:928][  0]LogCollectionManager: Loaded 0 collections in 0.002579 seconds
+[2022.02.12-17.30.48:966][  0]LogFileCache: Scanning file cache for directory 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Collections/' took 0.00s
+[2022.02.12-17.30.48:966][  0]LogFileCache: Scanning file cache for directory 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Developers/acer/Collections/' took 0.00s
+[2022.02.12-17.30.48:966][  0]LogFileCache: Scanning file cache for directory 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Collections/' took 0.00s
+[2022.02.12-17.30.48:966][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 3025 classes and 722 folders.
+[2022.02.12-17.30.48:975][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.02.12-17.30.49:611][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.12-17.30.49:642][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2022.02.12-17.30.50:375][  0]LogSlate: Took 0.007438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.12-17.30.50:387][  0]LogSlate: Took 0.005548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.12-17.30.50:396][  0]LogSlate: Took 0.005263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.12-17.30.50:648][  0]LogRenderer: Reallocating scene render targets to support 1236x608 Format 10 NumSamples 1 (Frame:1).
+[2022.02.12-17.30.50:826][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.12-17.30.50:827][  0]LogLoad: (Engine Initialization) Total time: 42.08 seconds
+[2022.02.12-17.30.50:827][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.12-17.30.51:073][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.12-17.30.51:121][  0]LogSlate: Took 0.007072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.12-17.31.06:547][ 96]LogAssetRegistry: Asset discovery search completed in 39.9456 seconds
+[2022.02.12-17.31.06:552][ 96]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2022.02.12-17.31.06:596][ 97]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.12-17.31.26:689][206]AssetReimport: New page: Outstanding source content changes 07:31:26
+[2022.02.12-17.31.26:700][206]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/bread/source/bread.fbx)
+[2022.02.12-17.31.26:739][206]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/bread/source/bread.fbx
+[2022.02.12-17.31.26:804][206]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.31.28:159][206]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.31.28:458][206]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/bread/source/texture_1001': Can't find file.
+[2022.02.12-17.31.28:458][206]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/bread/source/texture_1001': Can't find file.
+[2022.02.12-17.31.39:612][206]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/bread/source/texture_1002': Can't find file.
+[2022.02.12-17.31.39:612][206]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/bread/source/texture_1002': Can't find file.
+[2022.02.12-17.31.55:915][206]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/bread/source/texture_1003': Can't find file.
+[2022.02.12-17.31.55:916][206]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/bread/source/texture_1003': Can't find file.
+[2022.02.12-17.32.09:874][206]LogStaticMesh: Building static mesh bread...
+[2022.02.12-17.32.12:223][206]LogStaticMesh: Built static mesh [2.40s] /Game/Model/item/Level1/GREEN/bread/source/bread.bread
+[2022.02.12-17.32.12:580][207]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/bread/source/texturedMesh.obj)
+[2022.02.12-17.32.12:603][207]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/bread/source/texturedMesh.obj
+[2022.02.12-17.32.13:657][207]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.32.17:390][207]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.32.40:389][207]LogStaticMesh: Building static mesh texturedMesh...
+[2022.02.12-17.32.41:906][207]LogStaticMesh: Built static mesh [1.54s] /Game/Model/item/Level1/GREEN/bread/source/texturedMesh.texturedMesh
+[2022.02.12-17.32.42:296][208]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/bread/textures/internal_ground_ao_texture.jpeg)
+[2022.02.12-17.32.42:477][209]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/bread/textures/texture_1001.jpeg)
+[2022.02.12-17.32.50:538][209]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.098 s
+[2022.02.12-17.32.50:643][209]LogStats:                SubmitErrorReport -  0.000 s
+[2022.02.12-17.32.53:418][209]LogStats:                    SendNewReport -  2.775 s
+[2022.02.12-17.32.53:418][209]LogStats:             FDebug::EnsureFailed -  6.978 s
+[2022.02.12-17.33.03:550][210]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/leaf-pile/source/AutumnLeaf.tga)
+[2022.02.12-17.33.03:832][211]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile.fbx)
+[2022.02.12-17.33.03:840][211]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile.fbx
+[2022.02.12-17.33.06:374][211]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.33.13:620][211]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.33.13:670][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane2...
+[2022.02.12-17.33.13:670][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane2.SM_LeafPile_pPlane2
+[2022.02.12-17.33.13:685][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane3...
+[2022.02.12-17.33.13:686][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane3.SM_LeafPile_pPlane3
+[2022.02.12-17.33.13:698][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane4...
+[2022.02.12-17.33.13:700][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane4.SM_LeafPile_pPlane4
+[2022.02.12-17.33.13:721][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane5...
+[2022.02.12-17.33.13:722][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane5.SM_LeafPile_pPlane5
+[2022.02.12-17.33.13:733][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane6...
+[2022.02.12-17.33.13:736][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane6.SM_LeafPile_pPlane6
+[2022.02.12-17.33.13:748][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane8...
+[2022.02.12-17.33.13:750][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane8.SM_LeafPile_pPlane8
+[2022.02.12-17.33.13:763][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane9...
+[2022.02.12-17.33.13:764][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane9.SM_LeafPile_pPlane9
+[2022.02.12-17.33.13:778][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane10...
+[2022.02.12-17.33.13:779][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane10.SM_LeafPile_pPlane10
+[2022.02.12-17.33.13:791][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane11...
+[2022.02.12-17.33.13:792][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane11.SM_LeafPile_pPlane11
+[2022.02.12-17.33.13:806][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane12...
+[2022.02.12-17.33.13:807][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane12.SM_LeafPile_pPlane12
+[2022.02.12-17.33.13:820][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane13...
+[2022.02.12-17.33.13:821][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane13.SM_LeafPile_pPlane13
+[2022.02.12-17.33.13:832][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane14...
+[2022.02.12-17.33.13:834][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane14.SM_LeafPile_pPlane14
+[2022.02.12-17.33.13:844][211]LogStaticMesh: Building static mesh SM_LeafPile_pPlane15...
+[2022.02.12-17.33.13:845][211]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/GREEN/leaf-pile/source/SM_LeafPile_pPlane15.SM_LeafPile_pPlane15
+[2022.02.12-17.33.13:948][212]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/leaf-pile/textures/AutumnLeaf.png)
+[2022.02.12-17.33.14:075][213]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/leaf-pile/textures/internal_ground_ao_texture.jpeg)
+[2022.02.12-17.33.14:133][214]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/mushroom/source/Mushroom.fbx)
+[2022.02.12-17.33.14:154][214]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/mushroom/source/Mushroom.fbx
+[2022.02.12-17.33.14:166][214]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.33.16:135][214]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.33.16:162][214]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/mushroom/source/Mushroom_Albedo': Can't find file.
+[2022.02.12-17.33.16:162][214]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/mushroom/source/Mushroom_Albedo': Can't find file.
+[2022.02.12-17.33.16:163][214]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/mushroom/source/Mushroom_Normal': Can't find file.
+[2022.02.12-17.33.16:163][214]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/mushroom/source/Mushroom_Normal': Can't find file.
+[2022.02.12-17.33.16:229][214]LogStaticMesh: Building static mesh Mushroom...
+[2022.02.12-17.33.16:242][214]LogStaticMesh: Built static mesh [0.01s] /Game/Model/item/Level1/GREEN/mushroom/source/Mushroom.Mushroom
+[2022.02.12-17.33.16:294][215]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/mushroom/textures/internal_ground_ao_texture.jpeg)
+[2022.02.12-17.33.16:508][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.02.12-17.33.16:512][216]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/mushroom/textures/Mushroom_Albedo.jpg)
+[2022.02.12-17.33.17:763][217]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/mushroom/textures/Mushroom_Normal.jpg)
+[2022.02.12-17.33.18:229][218]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/mushroom/textures/Mushroom_Occlusion.jpg)
+[2022.02.12-17.33.18:634][219]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/mushroom/textures/Mushroom_Roughness.jpg)
+[2022.02.12-17.33.19:364][220]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/potato/source/potato.fbx)
+[2022.02.12-17.33.19:372][220]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/potato/source/potato.fbx
+[2022.02.12-17.33.19:378][220]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.33.24:266][220]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.33.24:287][220]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/potato/source/color': Can't find file.
+[2022.02.12-17.33.24:288][220]LogLinker: Failed to load '/Game/Model/item/Level1/GREEN/potato/source/color': Can't find file.
+[2022.02.12-17.33.24:601][220]LogStaticMesh: Building static mesh potato...
+[2022.02.12-17.33.24:614][220]LogStaticMesh: Built static mesh [0.16s] /Game/Model/item/Level1/GREEN/potato/source/potato.potato
+[2022.02.12-17.33.24:852][221]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/potato/textures/potato_AO.png)
+[2022.02.12-17.33.24:952][222]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/potato/textures/potato_BaseColor.png)
+[2022.02.12-17.33.25:357][223]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/potato/textures/potato_Metallic.png)
+[2022.02.12-17.33.25:439][224]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/potato/textures/potato_Normal.png)
+[2022.02.12-17.33.25:590][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/potato/textures/potato_Roughness.png)
+[2022.02.12-17.33.25:946][226]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/tree-stomp/source/texture_1001.jpg)
+[2022.02.12-17.33.28:331][226]LogSlate: Window 'Message' being destroyed
+[2022.02.12-17.34.48:571][227]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/tree-stomp/source/tree-stomp.obj)
+[2022.02.12-17.34.48:673][227]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/tree-stomp/source/tree-stomp.obj
+[2022.02.12-17.34.51:049][227]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.35.03:551][227]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.35.06:056][227]LogStaticMesh: Building static mesh tree-stomp...
+[2022.02.12-17.35.06:163][227]LogStaticMesh: Built static mesh [0.03s] /Game/Model/item/Level1/GREEN/tree-stomp/source/tree-stomp.tree-stomp
+[2022.02.12-17.35.07:153][228]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/GREEN/tree-stomp/textures/texture_1001.jpeg)
+[2022.02.12-17.35.19:134][229]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes.fbx)
+[2022.02.12-17.35.19:147][229]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes.fbx
+[2022.02.12-17.35.19:158][229]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.35.22:953][229]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.35.23:081][229]LogStaticMesh: Building static mesh Cereal_boxes_Box_openable2...
+[2022.02.12-17.35.23:082][229]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes_Box_openable2.Cereal_boxes_Box_openable2
+[2022.02.12-17.35.23:723][229]LogStaticMesh: Building static mesh Cereal_boxes_Box_openable2_1...
+[2022.02.12-17.35.23:725][229]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes_Box_openable2_1.Cereal_boxes_Box_openable2_1
+[2022.02.12-17.35.23:763][229]LogStaticMesh: Building static mesh Cereal_boxes_Flap1...
+[2022.02.12-17.35.23:764][229]LogStaticMesh: Built static mesh [0.02s] /Game/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes_Flap1.Cereal_boxes_Flap1
+[2022.02.12-17.35.23:778][229]LogStaticMesh: Building static mesh Cereal_boxes_Flap1_2...
+[2022.02.12-17.35.23:779][229]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes_Flap1_2.Cereal_boxes_Flap1_2
+[2022.02.12-17.35.23:862][229]LogStaticMesh: Building static mesh Cereal_boxes_Flap2...
+[2022.02.12-17.35.23:863][229]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes_Flap2.Cereal_boxes_Flap2
+[2022.02.12-17.35.23:875][229]LogStaticMesh: Building static mesh Cereal_boxes_Flap2_2...
+[2022.02.12-17.35.23:877][229]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes_Flap2_2.Cereal_boxes_Flap2_2
+[2022.02.12-17.35.23:889][229]LogStaticMesh: Building static mesh Cereal_boxes_Lid_Top...
+[2022.02.12-17.35.23:890][229]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes_Lid_Top.Cereal_boxes_Lid_Top
+[2022.02.12-17.35.23:919][229]LogStaticMesh: Building static mesh Cereal_boxes_Lid_Top_2...
+[2022.02.12-17.35.23:920][229]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes_Lid_Top_2.Cereal_boxes_Lid_Top_2
+[2022.02.12-17.35.23:936][229]LogStaticMesh: Building static mesh Cereal_boxes_Lid_Underneath...
+[2022.02.12-17.35.23:937][229]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes_Lid_Underneath.Cereal_boxes_Lid_Underneath
+[2022.02.12-17.35.23:952][229]LogStaticMesh: Building static mesh Cereal_boxes_Lid_Underneath_2...
+[2022.02.12-17.35.23:953][229]LogStaticMesh: Built static mesh [0.00s] /Game/Model/item/Level1/YELLOW/cereal-box/source/Cereal_boxes_Lid_Underneath_2.Cereal_boxes_Lid_Underneath_2
+[2022.02.12-17.35.24:145][230]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3a_AO.png)
+[2022.02.12-17.35.24:778][231]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3a_BaseColor.png)
+[2022.02.12-17.35.26:225][232]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3a_MetallicSmoothness.png)
+[2022.02.12-17.35.26:777][233]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3a_Normal.png)
+[2022.02.12-17.35.27:567][234]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3a_Roughness.png)
+[2022.02.12-17.35.29:062][235]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3b_AlbedoTransparency.png)
+[2022.02.12-17.35.30:454][236]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3b_AO.png)
+[2022.02.12-17.35.30:864][237]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3b_BaseColor.png)
+[2022.02.12-17.35.32:251][238]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3b_MetallicSmoothness.png)
+[2022.02.12-17.35.32:565][239]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3b_Normal.png)
+[2022.02.12-17.35.32:932][240]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/cereal-box/textures/Cereal_boxes_Box3b_Roughness.png)
+[2022.02.12-17.35.33:283][241]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/paper/source/paper.FBX)
+[2022.02.12-17.35.33:293][241]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/paper/source/paper.FBX
+[2022.02.12-17.35.33:299][241]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.35.35:330][241]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.35.35:437][241]LogStaticMesh: Building static mesh paper...
+[2022.02.12-17.35.35:441][241]LogStaticMesh: Built static mesh [0.01s] /Game/Model/item/Level1/YELLOW/paper/source/paper.paper
+[2022.02.12-17.35.35:536][242]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/paper/textures/1001_Base_Color.png)
+[2022.02.12-17.35.36:802][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/paper/textures/1001_Normal_OpenGL.png)
+[2022.02.12-17.35.37:197][244]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/paper/textures/1001_Roughness.png)
+[2022.02.12-17.35.37:965][245]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/pepsi-can/source/can_1.obj)
+[2022.02.12-17.35.37:972][245]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/pepsi-can/source/can_1.obj
+[2022.02.12-17.35.37:989][245]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.35.40:317][245]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.35.40:513][245]LogStaticMesh: Building static mesh can_1_pCube1...
+[2022.02.12-17.35.40:534][245]LogStaticMesh: Built static mesh [0.02s] /Game/Model/item/Level1/YELLOW/pepsi-can/source/can_1_pCube1.can_1_pCube1
+[2022.02.12-17.35.40:672][245]LogStaticMesh: Building static mesh can_1_pCylinder1...
+[2022.02.12-17.35.40:703][245]LogStaticMesh: Built static mesh [0.03s] /Game/Model/item/Level1/YELLOW/pepsi-can/source/can_1_pCylinder1.can_1_pCylinder1
+[2022.02.12-17.35.40:859][246]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/pepsi-can/textures/can_1_blinn1SG_BaseColor.png)
+[2022.02.12-17.35.41:994][247]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/pepsi-can/textures/can_1_blinn1SG_Metallic.png)
+[2022.02.12-17.35.42:726][248]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/pepsi-can/textures/can_1_blinn1SG_Normal.png)
+[2022.02.12-17.35.43:344][249]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.02.12-17.35.43:393][249]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/pepsi-can/textures/can_1_blinn1SG_Roughness.png)
+[2022.02.12-17.35.44:165][249]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.02.12-17.35.44:210][250]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/pepsi-can/textures/can_1_blinn2SG_BaseColor.png)
+[2022.02.12-17.35.44:888][251]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/pepsi-can/textures/can_1_blinn2SG_Metallic.png)
+[2022.02.12-17.35.45:333][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/pepsi-can/textures/can_1_blinn2SG_Normal.png)
+[2022.02.12-17.35.45:848][253]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.12-17.35.45:848][253]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/pepsi-can/textures/can_1_blinn2SG_Roughness.png)
+[2022.02.12-17.35.46:604][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/red-bull/textures/red bull tex.png)
+[2022.02.12-17.35.47:404][255]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/tuna-can/source/tunacan .fbx)
+[2022.02.12-17.35.47:437][255]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/tuna-can/source/tunacan .fbx
+[2022.02.12-17.35.48:051][255]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.35.49:386][255]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.35.49:437][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tab_tab_BaseColor': Can't find file.
+[2022.02.12-17.35.49:438][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tab_tab_BaseColor': Can't find file.
+[2022.02.12-17.35.49:768][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tab_tab_Roughness': Can't find file.
+[2022.02.12-17.35.49:769][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tab_tab_Roughness': Can't find file.
+[2022.02.12-17.35.50:027][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tab_tab_Normal': Can't find file.
+[2022.02.12-17.35.50:027][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tab_tab_Normal': Can't find file.
+[2022.02.12-17.35.50:679][255]LogStaticMesh: Building static mesh tunacan__tuna_can_tab...
+[2022.02.12-17.35.50:841][255]LogStaticMesh: Built static mesh [0.16s] /Game/Model/item/Level1/YELLOW/tuna-can/source/tunacan__tuna_can_tab.tunacan__tuna_can_tab
+[2022.02.12-17.35.50:893][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tunacan__tuna_can_BaseColor': Can't find file.
+[2022.02.12-17.35.50:894][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tunacan__tuna_can_BaseColor': Can't find file.
+[2022.02.12-17.35.51:916][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tunacan__tuna_can_Roughness': Can't find file.
+[2022.02.12-17.35.51:917][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tunacan__tuna_can_Roughness': Can't find file.
+[2022.02.12-17.35.52:251][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tunacan__tuna_can_Normal': Can't find file.
+[2022.02.12-17.35.52:251][255]LogLinker: Failed to load '/Game/Model/item/Level1/YELLOW/tuna-can/source/tunacan__tuna_can_Normal': Can't find file.
+[2022.02.12-17.35.52:805][255]LogStaticMesh: Building static mesh tunacan__tuna_can...
+[2022.02.12-17.35.52:841][255]LogStaticMesh: Built static mesh [0.04s] /Game/Model/item/Level1/YELLOW/tuna-can/source/tunacan__tuna_can.tunacan__tuna_can
+[2022.02.12-17.35.53:062][256]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/tuna-can/textures/tab_tab_BaseColor.png)
+[2022.02.12-17.35.53:492][257]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/tuna-can/textures/tab_tab_Metallic.png)
+[2022.02.12-17.35.53:857][258]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/tuna-can/textures/tab_tab_Normal.png)
+[2022.02.12-17.35.54:339][259]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/tuna-can/textures/tab_tab_Roughness.png)
+[2022.02.12-17.35.54:770][260]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/tuna-can/textures/tunacan _tuna_can_BaseColor.png)
+[2022.02.12-17.35.55:936][261]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/tuna-can/textures/tunacan _tuna_can_Metallic.png)
+[2022.02.12-17.35.56:277][262]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/tuna-can/textures/tunacan _tuna_can_Normal.png)
+[2022.02.12-17.35.56:724][263]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/tuna-can/textures/tunacan _tuna_can_Roughness.png)
+[2022.02.12-17.35.57:001][264]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/candy/source/Candy_5.fbx)
+[2022.02.12-17.35.57:011][264]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/candy/source/Candy_5.fbx
+[2022.02.12-17.35.57:017][264]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.35.58:327][264]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.35.58:376][264]LogStaticMesh: Building static mesh Candy_5...
+[2022.02.12-17.35.58:384][264]LogStaticMesh: Built static mesh [0.01s] /Game/Model/item/Level2/BLUE/candy/source/Candy_5.Candy_5
+[2022.02.12-17.35.58:529][265]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/candy/textures/T_Candy_5_D.png)
+[2022.02.12-17.35.58:842][266]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/jenny bag/source/Cherry_UV.png)
+[2022.02.12-17.36.02:240][267]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/jenny bag/source/jenny candy UV.tif)
+[2022.02.12-17.36.04:311][268]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/jenny bag/source/jenny candy.obj)
+[2022.02.12-17.36.04:322][268]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/jenny bag/source/jenny candy.obj
+[2022.02.12-17.36.04:539][268]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.36.05:827][268]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.36.07:231][268]LogStaticMesh: Building static mesh jenny_candy...
+[2022.02.12-17.36.08:494][268]LogStaticMesh: Built static mesh [1.26s] /Game/Model/item/Level2/BLUE/jenny_bag/source/jenny_candy.jenny_candy
+[2022.02.12-17.36.09:048][269]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/jenny bag/textures/Cherry_UV.png)
+[2022.02.12-17.36.11:898][270]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/jenny bag/textures/internal_ground_ao_texture.jpeg)
+[2022.02.12-17.36.12:016][271]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag.Obj)
+[2022.02.12-17.36.12:022][271]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag.Obj
+[2022.02.12-17.36.12:046][271]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.36.22:763][271]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.36.22:795][271]LogLinker: Failed to load '/Game/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag_Albedo': Can't find file.
+[2022.02.12-17.36.22:795][271]LogLinker: Failed to load '/Game/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag_Albedo': Can't find file.
+[2022.02.12-17.36.23:339][271]LogStaticMesh: Building static mesh PlasticBag...
+[2022.02.12-17.36.23:372][271]LogStaticMesh: Built static mesh [0.03s] /Game/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag.PlasticBag
+[2022.02.12-17.36.23:656][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag_Emission.tga)
+[2022.02.12-17.36.24:088][273]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag_Height.tga)
+[2022.02.12-17.36.24:633][274]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag_Metallic.tga)
+[2022.02.12-17.36.25:339][275]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag_Normal.tga)
+[2022.02.12-17.36.25:825][276]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag_Occlusion.tga)
+[2022.02.12-17.36.26:303][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/source/PlasticBag_roughness.tga)
+[2022.02.12-17.36.26:614][278]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/textures/PlasticBag_Albedo.png)
+[2022.02.12-17.36.27:090][279]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/textures/PlasticBag_Normal.png)
+[2022.02.12-17.36.27:454][280]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/textures/PlasticBag_Occlusion.png)
+[2022.02.12-17.36.27:759][281]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/textures/PlasticBag_roughness.png)
+[2022.02.12-17.36.28:089][282]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/snack box/source/snacks+in+a+box.fbx)
+[2022.02.12-17.36.28:107][282]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/snack box/source/snacks+in+a+box.fbx
+[2022.02.12-17.36.28:116][282]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.36.29:506][282]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.36.29:954][282]LogStaticMesh: Building static mesh snacks+in+a+box...
+[2022.02.12-17.36.29:958][282]LogStaticMesh: Built static mesh [0.01s] /Game/Model/item/Level2/BLUE/snack_box/source/snacks+in+a+box.snacks+in+a+box
+[2022.02.12-17.36.30:031][283]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/snack box/textures/box_1.jpeg)
+[2022.02.12-17.36.30:431][284]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/toilet-paper/textures/Diffuse.jpeg)
+[2022.02.12-17.36.52:345][285]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/toilet-paper/textures/Normal.jpeg)
+[2022.02.12-17.36.53:844][286]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/toilet-paper/textures/Roughness.jpeg)
+[2022.02.12-17.37.05:732][287]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/banana/source/banana.jpg)
+[2022.02.12-17.37.09:857][288]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/banana/source/banana.obj)
+[2022.02.12-17.37.09:890][288]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/banana/source/banana.obj
+[2022.02.12-17.37.11:587][288]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.37.14:552][288]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.37.15:099][288]LogUObjectHash: Compacting FUObjectHashTables data took  15.18ms
+[2022.02.12-17.37.20:860][288]LogStaticMesh: Building static mesh banana...
+[2022.02.12-17.37.24:541][288]LogStaticMesh: Built static mesh [3.68s] /Game/Model/item/Level2/GREEN/banana/source/banana.banana
+[2022.02.12-17.37.24:855][289]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/banana/textures/banana.jpeg)
+[2022.02.12-17.37.28:667][290]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/banana/textures/internal_ground_ao_texture.jpeg)
+[2022.02.12-17.37.28:756][291]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/hot-dog/source/Hotdog_high.obj)
+[2022.02.12-17.37.28:762][291]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/hot-dog/source/Hotdog_high.obj
+[2022.02.12-17.37.28:777][291]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.37.32:462][291]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.37.32:609][291]LogStaticMesh: Building static mesh Hotdog_high...
+[2022.02.12-17.37.32:641][291]LogStaticMesh: Built static mesh [0.05s] /Game/Model/item/Level2/GREEN/hot-dog/source/Hotdog_high.Hotdog_high
+[2022.02.12-17.37.32:784][292]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/hot-dog/textures/Hotdog_low_1001_BaseColor.png)
+[2022.02.12-17.37.33:119][293]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/hot-dog/textures/Hotdog_low_1001_Normal.png)
+[2022.02.12-17.37.33:289][294]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/hot-dog/textures/Hotdog_low_1001_OcclusionRoughnessMetallic.png)
+[2022.02.12-17.37.33:847][295]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/source/Orange_Albedo.png)
+[2022.02.12-17.37.40:641][296]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/source/Orange_AO.png)
+[2022.02.12-17.37.40:741][297]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/source/orange_low.fbx)
+[2022.02.12-17.37.40:751][297]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/source/orange_low.fbx
+[2022.02.12-17.37.40:758][297]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.37.44:008][297]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.37.44:156][297]LogStaticMesh: Building static mesh orange_low...
+[2022.02.12-17.37.44:199][297]LogStaticMesh: Built static mesh [0.04s] /Game/Model/item/Level2/GREEN/orange/source/orange_low.orange_low
+[2022.02.12-17.37.44:305][298]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/source/Orange_Metallic.png)
+[2022.02.12-17.37.44:506][299]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/source/Orange_Normal.png)
+[2022.02.12-17.37.45:063][300]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/source/Orange_Roughness.png)
+[2022.02.12-17.37.45:697][301]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/textures/internal_ground_ao_texture.jpeg)
+[2022.02.12-17.37.46:220][302]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/textures/Orange_Albedo.png)
+[2022.02.12-17.37.52:770][303]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/textures/Orange_AO.png)
+[2022.02.12-17.37.52:887][304]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/textures/Orange_Metallic.png)
+[2022.02.12-17.37.53:035][305]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/textures/Orange_Normal.png)
+[2022.02.12-17.37.53:485][306]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/orange/textures/Orange_Roughness_unb.png)
+[2022.02.12-17.38.00:103][307]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/pig-bone/source/pig-bone.obj)
+[2022.02.12-17.38.01:564][307]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/pig-bone/source/pig-bone.obj
+[2022.02.12-17.39.18:912][307]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.39.43:312][307]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.39.49:239][307]LogStaticMesh: Building static mesh pig-bone...
+[2022.02.12-17.39.49:411][307]LogStaticMesh: Built static mesh [0.17s] /Game/Model/item/Level2/GREEN/pig-bone/source/pig-bone.pig-bone
+[2022.02.12-17.39.50:564][308]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/pig-bone/source/pig-bone.tif)
+[2022.02.12-17.39.51:537][308]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2022.02.12-17.40.01:022][309]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/pig-bone/textures/Sus scrofa.png)
+[2022.02.12-17.40.11:301][310]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/strawberry/source/strawberry.fbx.fbx)
+[2022.02.12-17.40.11:336][310]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/strawberry/source/strawberry.fbx.fbx
+[2022.02.12-17.40.11:471][310]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.40.13:416][310]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.40.29:531][310]LogSkeletalMesh: Section 0: 103168 vertices, 1 active bones
+[2022.02.12-17.40.29:560][310]LogSkeletalMesh: Section 0: Material=0, 162000 triangles
+[2022.02.12-17.40.29:590][310]LogSkeletalMesh: Building Skeletal Mesh strawberry_fbx...
+[2022.02.12-17.40.39:172][310]LogSkeletalMesh: Section 0: 103168 vertices, 1 active bones
+[2022.02.12-17.40.39:209][310]LogSkeletalMesh: Section 0: Material=0, 162000 triangles
+[2022.02.12-17.40.39:793][310]LogSkeletalMesh: Built Skeletal Mesh [10.21s] /Game/Model/item/Level2/GREEN/strawberry/source/strawberry_fbx.strawberry_fbx
+[2022.02.12-17.40.39:816][310]LogLinker: Failed to load '/Game/Model/item/Level2/GREEN/strawberry/source/strawberry_fbx_Skeleton': Can't find file.
+[2022.02.12-17.40.39:817][310]LogLinker: Failed to load '/Game/Model/item/Level2/GREEN/strawberry/source/strawberry_fbx_Skeleton': Can't find file.
+[2022.02.12-17.40.39:822][310]LogLinker: Failed to load '/Game/Model/item/Level2/GREEN/strawberry/source/strawberry_fbx_PhysicsAsset': Can't find file.
+[2022.02.12-17.40.39:822][310]LogLinker: Failed to load '/Game/Model/item/Level2/GREEN/strawberry/source/strawberry_fbx_PhysicsAsset': Can't find file.
+[2022.02.12-17.40.40:260][310]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2022.02.12-17.40.40:260][310]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-17.40.40:260][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-17.40.40:335][310]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-17.40.40:337][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-17.40.40:970][311]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/strawberry/textures/BMP.jpg)
+[2022.02.12-17.40.41:713][312]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/GREEN/strawberry/textures/strawberry.jpg)
+[2022.02.12-17.40.42:815][313]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/can/source/Can.fbx)
+[2022.02.12-17.40.42:832][313]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/can/source/Can.fbx
+[2022.02.12-17.40.42:842][313]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.40.46:419][313]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.40.46:521][313]LogStaticMesh: Building static mesh Can...
+[2022.02.12-17.40.46:554][313]LogStaticMesh: Built static mesh [0.03s] /Game/Model/item/Level2/YELLOW/can/source/Can.Can
+[2022.02.12-17.40.46:685][314]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/can/textures/Tin_Can_l_DefaultMaterial_AlbedoTransparen.png)
+[2022.02.12-17.40.47:406][315]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/can/textures/Tin_Can_l_DefaultMaterial_MetallicSmoothne.png)
+[2022.02.12-17.40.48:955][316]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/can/textures/Tin_Can_l_DefaultMaterial_Normal.png)
+[2022.02.12-17.40.49:854][317]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/cardboard-box2/textures/open_box_low_TT_checker_512x512_UV_GRID_Ba.png)
+[2022.02.12-17.40.52:328][318]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/cardboard-box2/textures/open_box_low_TT_checker_512x512_UV_GRID_He.png)
+[2022.02.12-17.40.52:866][319]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/cardboard-box2/textures/open_box_low_TT_checker_512x512_UV_GRID_Me.png)
+[2022.02.12-17.40.53:291][320]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/cardboard-box2/textures/open_box_low_TT_checker_512x512_UV_GRID_No.png)
+[2022.02.12-17.40.53:930][321]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/cardboard-box2/textures/open_box_low_TT_checker_512x512_UV_GRID_Ro.png)
+[2022.02.12-17.40.54:727][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/source/milk box.fbx)
+[2022.02.12-17.40.54:748][322]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/source/milk box.fbx
+[2022.02.12-17.40.54:765][322]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.40.56:202][322]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.40.56:274][322]LogLinker: Failed to load '/Game/Model/item/Level2/YELLOW/milk_box/source/Дизайн_2': Can't find file.
+[2022.02.12-17.40.56:275][322]LogLinker: Failed to load '/Game/Model/item/Level2/YELLOW/milk_box/source/Дизайн_2': Can't find file.
+[2022.02.12-17.40.56:416][322]LogStaticMesh: Building static mesh milk_box_Box001...
+[2022.02.12-17.40.56:588][322]LogStaticMesh: Built static mesh [0.17s] /Game/Model/item/Level2/YELLOW/milk_box/source/milk_box_Box001.milk_box_Box001
+[2022.02.12-17.40.56:604][322]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_A9B55814188440DA96CF4A9D318BC1C5_228332BAE0224DD294E232B87D83948FQu__60FD5EF9426DC5CB479FB26BB387182352090B57.
+[2022.02.12-17.40.56:626][322]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_54D2E83F46DC870223C96FBEE4CB638__985242E2BAE67449C119E1C2C68B534973C0DB98.
+[2022.02.12-17.40.56:695][322]LogStaticMesh: Building static mesh milk_box_Cylinder001...
+[2022.02.12-17.40.56:739][322]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_C7D684DD442D86A0273AEB926AA3FF6__FB4CF846DBA57E37320FCEB081F8813FA78C7AD6.
+[2022.02.12-17.40.56:740][322]LogStaticMesh: Built static mesh [0.05s] /Game/Model/item/Level2/YELLOW/milk_box/source/milk_box_Cylinder001.milk_box_Cylinder001
+[2022.02.12-17.40.56:743][322]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_A9B55814188440DA96CF4A9D318BC1C5_228332BAE0224DD294E232B87D83948FQu__80E502CBEDAD4CBF29BC82EC1DD8D505AE5A8666.
+[2022.02.12-17.40.56:764][322]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/4/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_E5DF9E4A4E4AFC9F6__0883D7F2C47568D5E46BF41CB1A77683FEFAD1F4.udd.
+[2022.02.12-17.40.56:815][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_165449F046013BF7622F7BBB75AB81C__71AF06349BB66835BC9615A9B9946F29F2837B1D.
+[2022.02.12-17.40.56:815][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_029D3F804F747BBEB8398483BFF6273__74025E11E561529F8B386D61F619CDBC52C3B8F5.
+[2022.02.12-17.40.56:815][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_E5DF9E4A4E4AFC9F6262349FCA6630B__F2A336C5D7DF973D3D28645FBC4D9D273FAAEEDF.
+[2022.02.12-17.40.56:815][323]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_C7D684DD442D86A02__F5AE73E5C63A6AC555A625E33DAE7F5A249EFC06.udd.
+[2022.02.12-17.40.56:849][323]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/4/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_E5DF9E4A4E4AFC9F6__0883D7F2C47568D5E46BF41CB1A77683FEFAD1F4.udd.
+[2022.02.12-17.40.56:849][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy NavCollision_B89838347A4348138EE337A847529C5C_NavCollision_X_E5DF9E4A4E4AFC9F6__0883D7F2C47568D5E46BF41CB1A77683FEFAD1F4.
+[2022.02.12-17.40.56:849][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_C84E2B674D685A49D57648AB356B6A4__19E93D31A795499FA4114B8212A9E1080591B84E.
+[2022.02.12-17.40.56:849][323]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_C7D684DD442D86A02__F5AE73E5C63A6AC555A625E33DAE7F5A249EFC06.udd.
+[2022.02.12-17.40.56:849][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy NavCollision_B89838347A4348138EE337A847529C5C_NavCollision_X_C7D684DD442D86A02__F5AE73E5C63A6AC555A625E33DAE7F5A249EFC06.
+[2022.02.12-17.40.56:939][323]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/textures/Cap_albedo.jpg)
+[2022.02.12-17.40.57:374][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F1AE09DA4DAEA28D980D48B82C588__F3870C74D72952F4CD3170C3826A6FAC6034DD13.
+[2022.02.12-17.40.57:374][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F1AE09DA4DAEA28D980D48B82C588__4275B966B374301AE7F02AB48A70EA9A64FE7853.
+[2022.02.12-17.40.57:374][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F1AE09DA4DAEA28D980D48B82C588__1A1C1DA8CEAB5ABAB1F3ED843945424DA77F9CE9.
+[2022.02.12-17.40.57:374][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F1AE09DA4DAEA28D980D48B82C588__A8A2117057492C7AA999B92DD4BA4BF6182890CD.
+[2022.02.12-17.40.57:374][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F1AE09DA4DAEA28D980D48B82C588__2AB5D00597E82783C5A0352C7769C90727F79080.
+[2022.02.12-17.40.57:374][323]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F1AE09DA4DAEA28D980D48B82C588__1E97081CF038AAAE299CAB70747217CE3C21116A.
+[2022.02.12-17.40.57:586][324]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/textures/Cap_AO.jpg)
+[2022.02.12-17.40.58:444][324]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F090878147698455BA4BBFAF2C110__CC001C702DC7ACB1C4F576EF66056DF72D841242.
+[2022.02.12-17.40.58:444][324]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F090878147698455BA4BBFAF2C110__B5791CA2DDEDC6FB568DEFD731B36C8BE7AD2A87.
+[2022.02.12-17.40.58:444][324]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F090878147698455BA4BBFAF2C110__7E168BC872DDD34DC5214F0E034A6379EB52D0E0.
+[2022.02.12-17.40.58:444][324]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F090878147698455BA4BBFAF2C110__31E1530C4FD45235BE6F057A6DE0A2FEFF0AF4BF.
+[2022.02.12-17.40.58:444][324]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F090878147698455BA4BBFAF2C110__A9C1545EC8D6B5C3E4047CD5ED28D6EF73C917F7.
+[2022.02.12-17.40.58:444][324]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_F090878147698455BA4BBFAF2C110__28BE5F3B751B11E0A27F51490C2407E0238D2C60.
+[2022.02.12-17.40.58:535][325]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/textures/Cap_normal.jpg)
+[2022.02.12-17.40.59:090][325]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_9EC0E9D34D3D6B5F0411B1A9E030E4F5___DAE470E485EF7BFA90F3FC71CABBC60709EC9D7D.
+[2022.02.12-17.40.59:090][325]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_9EC0E9D34D3D6B5F0411B1A9E030E4F5___C0F439DD7FE5C2A41D65C5B5F157CE1FC8107B61.
+[2022.02.12-17.40.59:090][325]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_9EC0E9D34D3D6B5F0411B1A9E030E4F5___B606303CE42F79851DEE312EA633760180840100.
+[2022.02.12-17.40.59:090][325]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_9EC0E9D34D3D6B5F0411B1A9E030E4F5___5C84F7939B14EB7C7BC8291C97FE1E965C156F90.
+[2022.02.12-17.40.59:090][325]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_9EC0E9D34D3D6B5F0411B1A9E030E4F5___2BE69C4A1290671FCC7CFDD5472C0610C5ACEC5A.
+[2022.02.12-17.40.59:090][325]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_9EC0E9D34D3D6B5F0411B1A9E030E4F5___9357991796384BD882B54E056DF39C3971172599.
+[2022.02.12-17.40.59:226][326]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/textures/Cap_roughness.jpg)
+[2022.02.12-17.41.00:489][326]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BBFC813041FA3569DDDA568341F81__06FF9E65E293E01F7F1FE3785916CA2845324CA6.
+[2022.02.12-17.41.00:489][326]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BBFC813041FA3569DDDA568341F81__4A42D310D77208EDFE0A5FA42E81B5B45AF376C9.
+[2022.02.12-17.41.00:489][326]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BBFC813041FA3569DDDA568341F81__2170A0ABCAC60C17E2B8D72246E35B4ECC9F912B.
+[2022.02.12-17.41.00:522][326]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/2/temp.C22814A14D59299DD619A1830BA57D90 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:522][326]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/2/temp.C22814A14D59299DD619A1830BA57D90! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:522][326]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BBFC813041FA3569DDDA568341F81__5A4B10AAABBD06782ED755E9E5C090A79EBBEEF5.
+[2022.02.12-17.41.00:522][326]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/2/temp.BD85EDC64487D4436C7EFBAD5A66852F (There is not enough space on the disk.)
+[2022.02.12-17.41.00:523][326]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/2/temp.BD85EDC64487D4436C7EFBAD5A66852F! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:523][326]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BBFC813041FA3569DDDA568341F81__DAF7EAAC08D87BD7B7EAE33A60D507B7F9569F65.
+[2022.02.12-17.41.00:523][326]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/9/temp.A7E8AE9741A9F463239A4A951F1DA079 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:523][326]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/9/temp.A7E8AE9741A9F463239A4A951F1DA079! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:523][326]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_BBFC813041FA3569DDDA568341F81__EED664399BE417815654BD366536CCB6AD064238.
+[2022.02.12-17.41.00:618][327]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/textures/internal_ground_ao_texture.jpeg)
+[2022.02.12-17.41.00:719][328]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_1334029744F1B519CFD2A08BC7426__AA7A93D74824B95564ECA74D2C215865BA47751E.
+[2022.02.12-17.41.00:719][328]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/temp.AF1D895A4DC6FD3D19272481FDD5E924 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:720][328]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/temp.098608AB48838C4580ACBAB374273A21 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:720][328]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/temp.AF1D895A4DC6FD3D19272481FDD5E924! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:720][328]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/7/temp.098608AB48838C4580ACBAB374273A21! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:720][328]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_1334029744F1B519CFD2A08BC7426__6905734B0606914315849B6BE5D975165BE9209D.
+[2022.02.12-17.41.00:720][328]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/temp.9F37EF434410C17CEE7D5F8E1A282FA9 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:720][328]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/9/temp.9F37EF434410C17CEE7D5F8E1A282FA9! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:720][328]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/temp.F0B9B0E4452A46AA923C4BB5BD6DB58F (There is not enough space on the disk.)
+[2022.02.12-17.41.00:720][328]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/temp.F0B9B0E4452A46AA923C4BB5BD6DB58F! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.00:720][328]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_1334029744F1B519CFD2A08BC7426__8989316E349BDBF0581A6D2A1343A4F94888838E.
+[2022.02.12-17.41.00:720][328]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_1334029744F1B519CFD2A08BC7426__94B5F3CC10DD5CA01FCC8D51F96134E2A2D95347.
+[2022.02.12-17.41.00:773][328]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/textures/Milk_package_albedo.jpg)
+[2022.02.12-17.41.02:067][328]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_3EFD670F40B482C095BA1E9E5B45B__315FF65DB61ECFAE338C7B6414A4BA95133E208A.
+[2022.02.12-17.41.02:067][328]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_3EFD670F40B482C095BA1E9E5B45B__4171BBC74D8F69C226B910E8D2E59B4F56914863.
+[2022.02.12-17.41.02:090][329]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_3EFD670F40B482C095BA1E9E5B45B__740BD10AF62007756197198122FF79018C67CB75.
+[2022.02.12-17.41.02:090][329]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/temp.984EF7314306B2AE267258A92217E770 (There is not enough space on the disk.)
+[2022.02.12-17.41.02:090][329]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/temp.984EF7314306B2AE267258A92217E770! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.02:090][329]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/temp.4E37DFF948C6FDD4570C3B82D9CC89D9 (There is not enough space on the disk.)
+[2022.02.12-17.41.02:090][329]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/temp.4E37DFF948C6FDD4570C3B82D9CC89D9! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.02:090][329]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_3EFD670F40B482C095BA1E9E5B45B__82483EDD93ECDEE6117C8AC7391653BEB41438A9.
+[2022.02.12-17.41.02:162][329]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_3EFD670F40B482C095BA1E9E5B45B__696A2AF86ADFBC46E471EEDB82BAB1682A605CF2.
+[2022.02.12-17.41.02:162][329]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_3EFD670F40B482C095BA1E9E5B45B__01F1A3C93178B97998CDC10DEB4D2851438C1AD3.
+[2022.02.12-17.41.02:162][329]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/textures/Milk_package_AO.jpg)
+[2022.02.12-17.41.02:976][329]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_58D7A918474883823A87D38AB641E__F78217763F9C02114B2277EDA1D38BEF92047DF8.
+[2022.02.12-17.41.02:976][329]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_58D7A918474883823A87D38AB641E__85605BFC096BEF6DA7A75E61B8505CDF71B64B4E.
+[2022.02.12-17.41.02:976][329]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_58D7A918474883823A87D38AB641E__34884A8A260D0040DD580CFB76CF09CD4FD11779.
+[2022.02.12-17.41.02:983][329]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_58D7A918474883823A87D38AB641E__8B48F3EE530C6E0CAE49AA72BF04329BAEE336CC.
+[2022.02.12-17.41.02:984][329]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/5/temp.331CB00943D60404370212A326D0A307 (There is not enough space on the disk.)
+[2022.02.12-17.41.02:984][329]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/5/temp.331CB00943D60404370212A326D0A307! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.02:984][329]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/9/temp.3A5D466C4155AEF1CE4CAF8B7F947EB7 (There is not enough space on the disk.)
+[2022.02.12-17.41.02:984][329]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_58D7A918474883823A87D38AB641E__F2D6F8045AD719BA7F370EBAA0F0754DE0095E07.
+[2022.02.12-17.41.02:984][329]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/9/temp.3A5D466C4155AEF1CE4CAF8B7F947EB7! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.02:984][329]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_58D7A918474883823A87D38AB641E__B06989ACF2ED799B3823D837699742D628A5AF40.
+[2022.02.12-17.41.03:066][330]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/textures/Milk_package_normal.jpg)
+[2022.02.12-17.41.03:622][330]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/9/temp.9A9BF396473D15CE6129D78CBF189629 (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/2/temp.73415080400A5FBB73B3CFB1F84ED622! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_541420A643B5A19D8E0C17AB9ACFE32F___47E5D6B7659174E6DD98BD56D102FB20A997DD08.
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_541420A643B5A19D8E0C17AB9ACFE32F___C1C495D58D4660C207ECEED8C36DEF81BCBA8A17.
+[2022.02.12-17.41.03:622][330]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/2/temp.3DCA143543B95A5165865EB1A9658F2D (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/9/temp.9A9BF396473D15CE6129D78CBF189629! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/2/temp.3DCA143543B95A5165865EB1A9658F2D! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_541420A643B5A19D8E0C17AB9ACFE32F___4C9FA4829DDC4AF2E81A15DDBD3E95A687C77E45.
+[2022.02.12-17.41.03:622][330]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/2/temp.C364241A45E2E7B80ABB93A75175BCEB (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/2/temp.C364241A45E2E7B80ABB93A75175BCEB! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/3/temp.AB258B594F7593792F5BDF8264E4AAAB (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_541420A643B5A19D8E0C17AB9ACFE32F___C6169B94B7F4F59CB72D9CC4ACFA1826469241F7.
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/3/temp.AB258B594F7593792F5BDF8264E4AAAB! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/2/temp.9A5FE75641EA4B2396396792CA4C1077 (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/2/temp.9A5FE75641EA4B2396396792CA4C1077! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_541420A643B5A19D8E0C17AB9ACFE32F___100C0A54C3A15A3F56E947540F269B60AC8C5457.
+[2022.02.12-17.41.03:622][330]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/3/temp.8D653D3A423DB0C5822B1783C06A81DC (There is not enough space on the disk.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/3/temp.8D653D3A423DB0C5822B1783C06A81DC! Error: 0 (The operation completed successfully.)
+[2022.02.12-17.41.03:622][330]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_541420A643B5A19D8E0C17AB9ACFE32F___B46831CFCADB7C0944CE1F68592BC076E77C5858.
+[2022.02.12-17.41.03:688][331]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/milk box/textures/Milk_package_roughness.jpg)
+[2022.02.12-17.41.05:454][331]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_1B34A4BD46B58285C3DB1A8ACD82A__992F5BD144FCBF90E3B3FCA78E01919D17491BB7.
+[2022.02.12-17.41.05:454][331]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_1B34A4BD46B58285C3DB1A8ACD82A__4556052DD3D2BA1FA09DCCC873A50777B680C1F6.
+[2022.02.12-17.41.05:454][331]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_1B34A4BD46B58285C3DB1A8ACD82A__BACBF00B18CA2C48BF9B24BB781D504A03190341.
+[2022.02.12-17.41.05:485][331]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_1B34A4BD46B58285C3DB1A8ACD82A__E99E8B448EE256CA7AA0D96470D8576F12904E08.
+[2022.02.12-17.41.05:485][331]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/2/temp.A73956FB45F4392EA909C88C2AA9E1CD! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.05:485][331]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_1B34A4BD46B58285C3DB1A8ACD82A__22974E28190BE0883FA83A2822E31D803F302E12.
+[2022.02.12-17.41.05:485][331]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/2/temp.1D10B9D94E25DC39084A7D9D6FC3F079 (There is not enough space on the disk.)
+[2022.02.12-17.41.05:485][331]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/2/temp.1D10B9D94E25DC39084A7D9D6FC3F079! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.05:485][331]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_1B34A4BD46B58285C3DB1A8ACD82A__856CD4E2E4092A0C32198DFE18968CDBB352BFD1.
+[2022.02.12-17.41.05:559][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/soup can/textures/internal_ground_ao_texture.jpeg)
+[2022.02.12-17.41.05:630][332]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_A62025BA42DF7BBA17DBF085A2748__7787850AEFE7558ECF06C33452687DCC06BD9B20.
+[2022.02.12-17.41.05:630][332]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_A62025BA42DF7BBA17DBF085A2748__D30D166364E2662D8CF4A617804B8E8038149415.
+[2022.02.12-17.41.05:630][332]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_A62025BA42DF7BBA17DBF085A2748__9088476D613F7539F11BDD4E70D138B0FA9614E9.
+[2022.02.12-17.41.05:630][332]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_A62025BA42DF7BBA17DBF085A2748__D26B4C65E1619AB70965590B374F0D7EB78EB343.
+[2022.02.12-17.41.05:719][333]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/soup can/textures/PrimordialSoup.jpeg)
+[2022.02.12-17.41.06:162][334]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/temp.C114F14C40E9D9594B55F79923FB8E10 (There is not enough space on the disk.)
+[2022.02.12-17.41.06:162][334]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/temp.C114F14C40E9D9594B55F79923FB8E10! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.06:162][334]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_A6A836824E91D1C60812CCBE4F8921D__C11B6AABF808918828E682B0381D60ACF3DBF55E.
+[2022.02.12-17.41.06:226][334]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/soup can/textures/PrimordialSoup.jpeg_specular.jpg)
+[2022.02.12-17.41.06:587][334]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/8/temp.35658E5C4BBB425C6717A7B4F8FCCDB1 (There is not enough space on the disk.)
+[2022.02.12-17.41.06:587][334]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/8/temp.35658E5C4BBB425C6717A7B4F8FCCDB1! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.06:587][334]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/8/temp.95FFC5DD45B0647DF041FBA7C5AAEBAC (There is not enough space on the disk.)
+[2022.02.12-17.41.06:587][334]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/8/temp.95FFC5DD45B0647DF041FBA7C5AAEBAC! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.06:587][334]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_8BCBF6D24DDCE821EB21219EE9C6217__CD1D5B348135C9B517FA2891713F8E62DF45CAAE.
+[2022.02.12-17.41.06:706][335]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/water bottle2/source/water bottle2.obj)
+[2022.02.12-17.41.06:732][335]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/YELLOW/water bottle2/source/water bottle2.obj
+[2022.02.12-17.41.07:571][335]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.41.08:807][335]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.12-17.41.09:328][335]LogStaticMesh: Building static mesh water_bottle2_Body_3...
+[2022.02.12-17.41.09:697][335]LogStaticMesh: Built static mesh [0.37s] /Game/Model/item/Level2/YELLOW/water_bottle2/source/water_bottle2_Body_3.water_bottle2_Body_3
+[2022.02.12-17.41.09:718][335]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_A9B55814188440DA96CF4A9D318BC1C5_228332BAE0224DD294E232B87D83948FQu__0DCDE2DBB461DFFCE1464E3B32F8CDDA6143DB7C.
+[2022.02.12-17.41.09:718][335]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_B9AB7A814214AAACF1BC498FA36B940__4AF409FFE5FCF241EABB92E0FE2D355D21C57B89.
+[2022.02.12-17.41.09:739][335]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/8/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_B9AB7A814214AAACF__C086F9BB751F4803E313EF3EA4D521155ED6AB43.udd.
+[2022.02.12-17.41.09:739][335]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/8/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_B9AB7A814214AAACF__C086F9BB751F4803E313EF3EA4D521155ED6AB43.udd.
+[2022.02.12-17.41.09:739][335]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy NavCollision_B89838347A4348138EE337A847529C5C_NavCollision_X_B9AB7A814214AAACF__C086F9BB751F4803E313EF3EA4D521155ED6AB43.
+[2022.02.12-17.41.09:739][335]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_52F21CEA41C00FCE3ECA5C8CF41ADCC__42424084E8E53C0850D3111D84B100A27338F958.
+[2022.02.12-17.41.10:163][335]LogStaticMesh: Building static mesh water_bottle2_R001...
+[2022.02.12-17.41.11:255][335]LogStaticMesh: Built static mesh [1.09s] /Game/Model/item/Level2/YELLOW/water_bottle2/source/water_bottle2_R001.water_bottle2_R001
+[2022.02.12-17.41.11:311][335]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_A9B55814188440DA96CF4A9D318BC1C5_228332BAE0224DD294E232B87D83948FQu__431D11D20BBB37E1C5821B59D319F8ABD572F4AB.
+[2022.02.12-17.41.11:361][335]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_7241FCC8428FDE49D31303A9E5F9DF9__C92AB3EADE1F978A495E7CCE3F20674EE7654568.
+[2022.02.12-17.41.11:362][335]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/8/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_7241FCC8428FDE49D__6ED5D34C204832B6AA35D44F3EE3F2B211940425.udd.
+[2022.02.12-17.41.11:362][335]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/8/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_7241FCC8428FDE49D__6ED5D34C204832B6AA35D44F3EE3F2B211940425.udd.
+[2022.02.12-17.41.11:362][335]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy NavCollision_B89838347A4348138EE337A847529C5C_NavCollision_X_7241FCC8428FDE49D__6ED5D34C204832B6AA35D44F3EE3F2B211940425.
+[2022.02.12-17.41.11:362][335]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_E1110D3F4F3A0E04DC8CAA90D6A4936__49CFA6EBEDC925C58516CCA1D55731656A564D8E.
+[2022.02.12-17.41.11:419][335]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_79EC9F864CCB2DD6A1D69B881028EA3__C68DFABF8157748E0EAEBA756E73219139DA932F.
+[2022.02.12-17.41.11:717][336]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/temp.F2D2D24545F67EAB881E0892F46D1F0F (There is not enough space on the disk.)
+[2022.02.12-17.41.11:717][336]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/temp.F2D2D24545F67EAB881E0892F46D1F0F! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.11:717][336]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_361A387A4B41A3923A61459B9F06652__06AFE70F16DAE786C7C8CFB4EDF55BEFA1C32940.
+[2022.02.12-17.41.12:240][336]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.02.12-17.41.13:578][336]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/paper/source/paper texture/1001_Base_Color.png)
+[2022.02.12-17.41.16:737][337]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/0/temp.2F2BA25F44F067CDD750B69C8E9D9CD4 (There is not enough space on the disk.)
+[2022.02.12-17.41.16:737][337]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/0/temp.2F2BA25F44F067CDD750B69C8E9D9CD4! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.16:737][337]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/0/temp.79726B6846C422DE1F0D9F95693F8E8D (There is not enough space on the disk.)
+[2022.02.12-17.41.16:737][337]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/0/temp.79726B6846C422DE1F0D9F95693F8E8D! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.16:737][337]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_00F6995841B1BE898697539917EC5__64726932BEEC6AF3AB06DFED0ACDB622369FDB6F.
+[2022.02.12-17.41.16:737][337]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/paper/source/paper texture/1001_Height.png)
+[2022.02.12-17.41.18:416][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/paper/source/paper texture/1001_Normal_OpenGL.png)
+[2022.02.12-17.41.20:549][339]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_83BAA95943D11454CF9DD1A5F5064__4754A67973F1D8397D2ADE8DB8F95BCB8B820C2A.
+[2022.02.12-17.41.20:549][339]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/7/temp.C9390B9147A604E471BD69920861D4D0 (There is not enough space on the disk.)
+[2022.02.12-17.41.20:550][339]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/4/temp.B4278B614C0FCF0489A61AB50AD92437 (There is not enough space on the disk.)
+[2022.02.12-17.41.20:550][339]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/temp.2EA6900C4D6B3D8B0325B2B0CA6F9D90 (There is not enough space on the disk.)
+[2022.02.12-17.41.20:550][339]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/7/temp.C9390B9147A604E471BD69920861D4D0! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.20:627][339]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/4/temp.B4278B614C0FCF0489A61AB50AD92437! Error: 0 (The operation completed successfully.)
+[2022.02.12-17.41.20:627][339]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/temp.2EA6900C4D6B3D8B0325B2B0CA6F9D90! Error: 0 (The operation completed successfully.)
+[2022.02.12-17.41.20:627][339]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/8/temp.0DB662964F667BC41D3AA2B027350BD3 (There is not enough space on the disk.)
+[2022.02.12-17.41.20:627][339]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/8/temp.0DB662964F667BC41D3AA2B027350BD3! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.20:627][339]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/4/temp.3F0627324CE0FE4B5CE676BE9D653ECE (There is not enough space on the disk.)
+[2022.02.12-17.41.20:627][339]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/7/temp.18013CDA445711C84BC17F86A7B26A09 (There is not enough space on the disk.)
+[2022.02.12-17.41.20:627][339]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/4/temp.3F0627324CE0FE4B5CE676BE9D653ECE! Error: 0 (The operation completed successfully.)
+[2022.02.12-17.41.20:627][339]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/temp.4CE193AF467C5A527CA82797EDB32FDE (There is not enough space on the disk.)
+[2022.02.12-17.41.20:627][339]LogFileManager: Error: Error writing to file: C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/8/temp.741A18614EA893EAAAC8E88179FBC2C7 (There is not enough space on the disk.)
+[2022.02.12-17.41.20:628][339]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/temp.4CE193AF467C5A527CA82797EDB32FDE! Error: 0 (The operation completed successfully.)
+[2022.02.12-17.41.20:628][339]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_DB8AE4824A99D1B1F96717A60E18D99B___45732761689F91684B86AC1E36AA77243C621F01.
+[2022.02.12-17.41.20:628][339]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/8/temp.741A18614EA893EAAAC8E88179FBC2C7! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.20:628][339]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/acer/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/7/temp.18013CDA445711C84BC17F86A7B26A09! Error: 112 (There is not enough space on the disk.)
+[2022.02.12-17.41.20:628][339]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_DB8AE4824A99D1B1F96717A60E18D99B___90F6E02EFF5039F8CAA65159834D5E2350E157F8.
+[2022.02.12-17.41.20:628][339]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_DB8AE4824A99D1B1F96717A60E18D99B___49B12A00E7952C60D24ACE3F68CA448138EA5F1C.
+[2022.02.12-17.41.20:628][339]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BC5_DB8AE4824A99D1B1F96717A60E18D99B___7790CF2D30D3E506986FA6D8D692AB7A704C536E.
+[2022.02.12-17.41.20:861][339]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level1/YELLOW/paper/source/paper texture/1001_Roughness.png)
+[2022.02.12-17.41.23:082][340]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5DB45EB64B99EAD8B21AB8B199AD5__2F6B46908A87C92A0C7DC6DCF3D2A1B2E04A0F41.
+[2022.02.12-17.41.23:082][340]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5DB45EB64B99EAD8B21AB8B199AD5__132D83BE4FE2AEF28503339FD1F08CC1C5DC4766.
+[2022.02.12-17.41.23:082][340]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5DB45EB64B99EAD8B21AB8B199AD5__187A39E5F29845075CA4D696B714656DD84139B3.
+[2022.02.12-17.41.23:082][340]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5DB45EB64B99EAD8B21AB8B199AD5__D5CDDCCDA0D82602BC853A4ACEAFAFB3AD35A54F.
+[2022.02.12-17.41.23:082][340]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_5DB45EB64B99EAD8B21AB8B199AD5__C2F37E65DEF0A6F4230D540321CD641CBCB5B93B.
+[2022.02.12-17.41.23:901][340]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/source/__MACOSX/._PlasticBag.Obj)
+[2022.02.12-17.41.23:918][340]LogFbx: Loading FBX Scene from D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/Level2/BLUE/plastic-bag/source/__MACOSX/._PlasticBag.Obj
+[2022.02.12-17.41.23:918][340]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.12-17.41.25:153][340]LogUObjectHash: Compacting FUObjectHashTables data took   9.68ms
