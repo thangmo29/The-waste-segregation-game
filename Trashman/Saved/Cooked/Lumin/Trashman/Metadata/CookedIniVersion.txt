@@ -1921,8 +1921,8 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPrerequisitesDire
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
