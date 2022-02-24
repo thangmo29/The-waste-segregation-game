@@ -1275,6 +1275,7 @@ Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:SpatializationP
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:ReverbPlugin:0=Built-in Reverb
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:OcclusionPlugin:0=Built-in Occlusion
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:SoundCueCookQualityIndex:0=0
+Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:LocalizedIconInfos:0=(IconData=)
 Windows.Engine:/Script/UnrealEd.CookerSettings:DefaultPVRTCQuality:0=1
 Windows.Engine:/Script/UnrealEd.CookerSettings:DefaultASTCQualityBySpeed:0=1
 Windows.Engine:/Script/UnrealEd.CookerSettings:DefaultASTCQualityBySize:0=3

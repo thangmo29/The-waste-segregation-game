@@ -1217,7 +1217,7 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAllowIMU:0
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bUseDisplayCutout:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bEnableSnapshots:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bRestoreNotificationsOnReboot:0=False
-Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bEnableZI:0=False
+Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bEnableZI:0=True
 Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bUseVulkanForZI:0=True
 Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bUseMLAudioForZI:0=True
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:PackageName:0=com.IT.Trashman
@@ -1252,6 +1252,7 @@ Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:SpatializationP
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:ReverbPlugin:0=Built-in Reverb
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:OcclusionPlugin:0=Built-in Occlusion
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:SoundCueCookQualityIndex:0=0
+Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:LocalizedIconInfos:0=(IconData=)
 Windows.Engine:/Script/UnrealEd.CookerSettings:DefaultPVRTCQuality:0=1
 Windows.Engine:/Script/UnrealEd.CookerSettings:DefaultASTCQualityBySpeed:0=1
 Windows.Engine:/Script/UnrealEd.CookerSettings:DefaultASTCQualityBySize:0=3
@@ -1620,7 +1621,6 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPrerequisitesDire
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
@@ -1648,6 +1648,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:9=Encrypt
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:10=IniKeyBlacklist
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:11=IniSectionBlacklist
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
 Windows.Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Windows.Game:DefaultPlayer:Name:0=Player
 Windows.Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
