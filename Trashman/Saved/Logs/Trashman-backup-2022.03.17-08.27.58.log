@@ -1,0 +1,1349 @@
+﻿Log file open, 03/17/22 14:52:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Trashman
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181551
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+LogMagicLeap: ML VDZI mode enabled. Using Vulkan renderer.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: release-sdk-0.24.0-36bc4a8-CL-0
+LogInit: Engine Version: 4.24.2-0+release-sdk-0.24.0-36bc4a8
+LogInit: Compatible Engine Version: 4.24.0-0+release-sdk-0.24.0-36bc4a8
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 27 2020 03:02:54
+LogInit: Compiled with Visual C++: 19.16.27034.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: release-sdk-0.24.0-36bc4a8
+LogInit: Command Line:  -vulkan  -audiomixer MagicLeapAudio 
+LogInit: Base Directory: E:/Game/Epic Game/MagicLeapUE4Editor/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.03.17-07.52.47:284][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.PostProcessing.InvertAlpha:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.03.17-07.52.47:285][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.03.17-07.52.47:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.17-07.52.47:286][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.17-07.52.47:287][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.17-07.52.47:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.03.17-07.52.47:288][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.03.17-07.52.47:301][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.17-07.52.47:302][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.17-07.52.47:303][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.17-07.52.47:304][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.03.17-07.52.47:305][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.03.17-07.52.47:305][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.17-07.52.47:305][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.17-07.52.47:312][  0]LogHAL: Display: Platform has ~ 16 GB [17014509568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.17-07.52.47:312][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.17-07.52.47:312][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.17-07.52.47:312][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.17-07.52.47:312][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.17-07.52.47:312][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.17-07.52.47:313][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.17-07.52.47:314][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Scalability.ini]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.03.17-07.52.47:315][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.17-07.52.47:317][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.17-07.52.47:317][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.17-07.52.47:317][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:0]]
+[2022.03.17-07.52.47:317][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Config/Windows/Engine.ini]
+[2022.03.17-07.52.47:317][  0]LogInit: Computer: ROBOT
+[2022.03.17-07.52.47:317][  0]LogInit: User: acer
+[2022.03.17-07.52.47:317][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.17-07.52.47:317][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.17-07.52.47:317][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.03.17-07.52.47:317][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.17-07.52.47:317][  0]LogMemory: Process Physical Memory: 108.65 MB used, 108.65 MB peak
+[2022.03.17-07.52.47:318][  0]LogMemory: Process Virtual Memory: 102.04 MB used, 102.04 MB peak
+[2022.03.17-07.52.47:318][  0]LogMemory: Physical Memory: 9180.29 MB used,  7046.01 MB free, 16226.30 MB total
+[2022.03.17-07.52.47:318][  0]LogMemory: Virtual Memory: 5148.71 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2022.03.17-07.52.47:327][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.17-07.52.47:459][  0]LogInit: Using OS detected language (en-GB).
+[2022.03.17-07.52.47:459][  0]LogInit: Using OS detected locale (th-TH).
+[2022.03.17-07.52.47:460][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.03.17-07.52.47:768][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.17-07.52.47:823][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.17-07.52.47:823][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.17-07.52.48:462][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_EOS_Overlay
+[2022.03.17-07.52.48:462][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_NV_optimus
+[2022.03.17-07.52.48:462][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_OBS_HOOK
+[2022.03.17-07.52.48:462][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_OW_OBS_HOOK
+[2022.03.17-07.52.48:462][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_OW_OVERLAY
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_ROCKSTAR_GAMES_social_club
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_VALVE_steam_fossilize
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance layer VK_LAYER_VALVE_steam_overlay
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_debug_report
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_debug_utils
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_EXT_swapchain_colorspace
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_device_group_creation
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_display
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_fence_capabilities
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_memory_capabilities
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_external_semaphore_capabilities
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_display_properties2
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_physical_device_properties2
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_get_surface_capabilities2
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_surface
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_surface_protected_capabilities
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_KHR_win32_surface
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: - Found instance extension VK_NV_external_memory_capabilities
+[2022.03.17-07.52.48:463][  0]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: Not using instance layers
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: Using instance extensions
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: * VK_KHR_get_physical_device_properties2
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_capabilities
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: * VK_KHR_external_semaphore_capabilities
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: * VK_KHR_external_fence_capabilities
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: * VK_KHR_surface
+[2022.03.17-07.52.48:463][  0]LogVulkanRHI: Display: * VK_KHR_win32_surface
+[2022.03.17-07.52.48:561][  0]LogVulkanRHI: Display: Found 1 device(s)
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: Device 0: NVIDIA GeForce GTX 1050 Ti
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: - API 1.2.175(0x4020af) Driver 0x75d10000 VendorId 0x10de
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: - DeviceID 0x1c8c Type Discrete GPU
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: - Max Descriptor Sets Bound 32 Timestamps 1
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: - Device Properties driverName: NVIDIA
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: - Device Properties driverInfo: 471.68
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_NV_optimus
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_OBS_HOOK
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_OW_OBS_HOOK
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device layer VK_LAYER_OW_OVERLAY
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_4444_formats
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_blend_operation_advanced
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_buffer_device_address
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_calibrated_timestamps
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_color_write_enable
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conditional_rendering
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_conservative_rasterization
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_custom_border_color
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_clip_enable
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_depth_range_unrestricted
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_descriptor_indexing
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_discard_rectangles
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_extended_dynamic_state2
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_external_memory_host
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_fragment_shader_interlock
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_full_screen_exclusive
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_global_priority_query
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_hdr_metadata
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_host_query_reset
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_image_robustness
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_index_type_uint8
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_inline_uniform_block
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_line_rasterization
+[2022.03.17-07.52.48:562][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_memory_budget
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_memory_priority
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pci_bus_info
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_cache_control
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_pipeline_creation_feedback
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_post_depth_coverage
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_private_data
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_provoking_vertex
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_queue_family_foreign
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_robustness2
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sample_locations
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_sampler_filter_minmax
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_scalar_block_layout
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_separate_stencil_usage
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_atomic_float
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_demote_to_helper_invocation
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_image_atomic_int64
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_ballot
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_subgroup_vote
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_shader_viewport_index_layer
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_subgroup_size_control
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_texel_buffer_alignment
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_tooling_info
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_transform_feedback
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_attribute_divisor
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_vertex_input_dynamic_state
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_EXT_ycbcr_image_arrays
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_16bit_storage
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_8bit_storage
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_bind_memory2
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_buffer_device_address
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_copy_commands2
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_create_renderpass2
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_dedicated_allocation
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_depth_stencil_resolve
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_descriptor_update_template
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_device_group
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_draw_indirect_count
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_driver_properties
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_fence_win32
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_memory_win32
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_external_semaphore_win32
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_get_memory_requirements2
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_image_format_list
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_imageless_framebuffer
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance1
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance2
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_maintenance3
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_multiview
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_pipeline_executable_properties
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_push_descriptor
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_relaxed_block_layout
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_mirror_clamp_to_edge
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_sampler_ycbcr_conversion
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_separate_depth_stencil_layouts
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_atomic_int64
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_clock
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_draw_parameters
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float16_int8
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_float_controls
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_non_semantic_info
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_subgroup_extended_types
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_shader_terminate_invocation
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_spirv_1_4
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_storage_buffer_storage_class
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_swapchain_mutable_format
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_synchronization2
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_timeline_semaphore
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_uniform_buffer_standard_layout
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_variable_pointers
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_vulkan_memory_model
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_win32_keyed_mutex
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_workgroup_memory_explicit_layout
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_KHR_zero_initialize_workgroup_memory
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_acquire_winrt_display
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_clip_space_w_scaling
+[2022.03.17-07.52.48:563][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_coverage_reduction_mode
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_dedicated_allocation
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_dedicated_allocation_image_aliasing
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_diagnostic_checkpoints
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_diagnostics_config
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_device_generated_commands
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_external_memory
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_external_memory_win32
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fill_rectangle
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_fragment_coverage_to_color
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_framebuffer_mixed_samples
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_geometry_shader_passthrough
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_inherited_viewport_scissor
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_sample_mask_override_coverage
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_sm_builtins
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_shader_subgroup_partitioned
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_viewport_array2
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_viewport_swizzle
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NV_win32_keyed_mutex
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: -    Found device extension VK_NVX_multiview_per_view_attributes
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: Using Device 0: Geometry 1 Tessellation 1
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: Found 3 Queue Families
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: Initializing Queue Family 0: 16 queues Gfx Compute Xfer Sparse
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: Initializing Queue Family 1: 2 queues Xfer Sparse
+[2022.03.17-07.52.48:564][  0]LogVulkanRHI: Display: Skipping unnecessary Queue Family 2: 8 queues Compute Xfer Sparse
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: Using device layers
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: Using device extensions
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_external_memory
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_external_semaphore
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_external_fence
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_external_memory_win32
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_external_semaphore_win32
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_external_fence_win32
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_driver_properties
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_bind_memory2
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_get_memory_requirements2
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_sampler_ycbcr_conversion
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_swapchain
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_maintenance1
+[2022.03.17-07.52.49:012][  0]LogVulkanRHI: Display: * VK_KHR_maintenance2
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: * VK_EXT_memory_priority
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 3 Device Memory Heaps; Max memory allocations 4096
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 0: Flags 0x1 Size 4214226944 (4019.00 MB) GPU
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 1: Flags 0x0 Size 8507252736 (8113.15 MB) 
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 2: Flags 0x1 Size 224395264 (214.00 MB) GPU
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 11 Device Memory Types (Not unified)
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 0: Flags 0x0 Heap 1 
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 1: Flags 0x0 Heap 1 
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 2: Flags 0x0 Heap 1 
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 3: Flags 0x0 Heap 1 
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 4: Flags 0x0 Heap 1 
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 5: Flags 0x0 Heap 1 
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 6: Flags 0x0 Heap 1 
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 7: Flags 0x1 Heap 0  Local
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 8: Flags 0x6 Heap 1  HostVisible HostCoherent
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 9: Flags 0xe Heap 1  HostVisible HostCoherent HostCached
+[2022.03.17-07.52.49:013][  0]LogVulkanRHI: Display: 10: Flags 0x7 Heap 2  Local HostVisible HostCoherent
+[2022.03.17-07.52.49:026][  0]LogVulkanRHI: Display: FVulkanPipelineStateCacheManager: Binary pipeline cache 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/VulkanPSO.cache.10de.1c8c' not found.
+[2022.03.17-07.52.49:033][  0]LogVulkanRHI: Display: Nvidia User Driver Version = 471.68
+[2022.03.17-07.52.49:047][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2022.03.17-07.52.49:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.17-07.52.49:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.17-07.52.49:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.17-07.52.49:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.03.17-07.52.49:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.17-07.52.49:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.03.17-07.52.49:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.03.17-07.52.49:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.17-07.52.49:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.03.17-07.52.49:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.17-07.52.49:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.17-07.52.49:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.03.17-07.52.49:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.17-07.52.49:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.03.17-07.52.49:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.03.17-07.52.49:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.17-07.52.49:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.03.17-07.52.49:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.17-07.52.49:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.17-07.52.49:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.17-07.52.49:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.17-07.52.49:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.17-07.52.49:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.17-07.52.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.17-07.52.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.17-07.52.49:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.17-07.52.49:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.17-07.52.49:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.17-07.52.49:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.17-07.52.49:720][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.17-07.52.49:729][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.17-07.52.49:855][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Intermediate/Shaders/WorkingDirectory/24580/).
+[2022.03.17-07.52.49:855][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/acer/AppData/Local/Temp/UnrealShaderWorkingDir/EE37B5AD4FC508BBBC09E2B5DE737B5C/'.
+[2022.03.17-07.52.49:856][  0]LogXGEController: Cleaning working directory: C:/Users/acer/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.03.17-07.52.49:857][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.17-07.52.49:857][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.17-07.52.49:857][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.17-07.52.51:039][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.17-07.52.51:232][  0]LogDerivedDataCache: Loaded boot cache 0.19s 149MB C:/Users/acer/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.03.17-07.52.51:232][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/acer/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.03.17-07.52.51:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.17-07.52.51:232][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.17-07.52.51:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.17-07.52.51:232][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.17-07.52.51:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.17-07.52.51:232][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2022.03.17-07.52.51:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.17-07.52.51:232][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.17-07.52.51:233][  0]LogDerivedDataCache: Using Local data cache path D:/IT/Year 4-1/Project1/Game Mr/Cache/Local Derived Data Cache: Writable
+[2022.03.17-07.52.51:234][  0]LogDerivedDataCache: Using Shared data cache path D:/IT/Year 4-1/Project1/Game Mr/Cache/Shared Derived Data Cache: Writable
+[2022.03.17-07.52.51:293][  0]LogMaterial: Verifying Global Shaders for SF_VULKAN_SM5
+[2022.03.17-07.52.51:299][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.17-07.52.51:301][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.17-07.52.51:485][  0]LogAssetRegistry: FAssetRegistry took 0.0054 seconds to start up
+[2022.03.17-07.52.51:980][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.17-07.52.52:378][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.17-07.52.52:379][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.17-07.52.52:379][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.17-07.52.52:379][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.17-07.52.52:379][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.17-07.52.52:404][  0]LogNetVersion: Trashman 1.0.0, NetCL: 0, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1878897351)
+[2022.03.17-07.52.53:882][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.52.53:882][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.52.53:882][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:882][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:882][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:882][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:882][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.52.53:882][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.52.53:882][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:882][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:882][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:882][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.53:883][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.52.53:883][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.52.54:572][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.039146 seconds
+[2022.03.17-07.52.54:580][  0]LogUObjectArray: 46808 objects as part of root set at end of initial load.
+[2022.03.17-07.52.54:580][  0]LogUObjectAllocator: 8145912 out of 0 bytes used by permanent object pool.
+[2022.03.17-07.52.54:580][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.17-07.52.56:026][  0]LogPackageName: SearchForPackageOnDisk took   0.439s, but failed to resolve -vulkan.umap.
+[2022.03.17-07.52.56:353][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.17-07.52.56:520][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.17-07.52.56:747][  0]SourceControl: Source control is disabled
+[2022.03.17-07.52.56:747][  0]SourceControl: Source control is disabled
+[2022.03.17-07.52.56:772][  0]SourceControl: Source control is disabled
+[2022.03.17-07.52.56:774][  0]SourceControl: Source control is disabled
+[2022.03.17-07.52.56:776][  0]SourceControl: Source control is disabled
+[2022.03.17-07.52.57:235][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.17-07.52.57:284][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.17-07.52.57:284][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.17-07.52.57:634][  0]LogOcInput: OculusInput pre-init called
+[2022.03.17-07.52.57:645][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.17-07.52.57:645][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.17-07.52.57:791][  0]LogEngine: Initializing Engine...
+[2022.03.17-07.52.57:799][  0]LogMagicLeap: Display: Creating FMagicLeapCustomPresentVulkan
+[2022.03.17-07.52.57:799][  0]LogMagicLeap: MagicLeap initialized.
+[2022.03.17-07.52.57:811][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2022.03.17-07.52.58:376][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.17-07.52.58:386][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.17-07.52.58:387][  0]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.17-07.52.58:387][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-07.52.58:387][  0]LogAudioMixer: Display: 	Sample Rate:						  4800
+[2022.03.17-07.52.58:387][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.03.17-07.52.58:387][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.03.17-07.52.58:387][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.17-07.52.58:387][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-07.52.58:387][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.17-07.52.58:387][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-07.52.58:388][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.17-07.52.58:388][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-07.52.58:389][  0]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.03.17-07.52.58:394][  0]LogInit: FAudioDevice initialized.
+[2022.03.17-07.52.58:395][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.17-07.52.58:517][  0]LogDerivedDataCache: Saved boot cache 0.12s 149MB C:/Users/acer/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.03.17-07.52.58:530][  0]LogInit: Texture streaming: Enabled
+[2022.03.17-07.52.58:579][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.17-07.52.58:579][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={73F1ACC5-454E-FBD4-BE6C-E48235E1592D}
+[2022.03.17-07.52.58:579][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.17-07.52.58:581][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.17-07.52.58:602][  0]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.17-07.52.58:647][  0]LogInit: Transaction tracking system initialized
+[2022.03.17-07.52.58:670][  0]BlueprintLog: New page: Editor Load
+[2022.03.17-07.52.58:736][  0]LocalizationService: Localization service is disabled
+[2022.03.17-07.53.00:880][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.03.17-07.53.00:880][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.17-07.53.01:483][  0]LogFileCache: Scanning file cache for directory 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/' took 0.17s
+[2022.03.17-07.53.02:278][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.53.02:278][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.53.02:278][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:278][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:278][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:278][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:278][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.53.02:278][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.53.02:278][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:278][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:278][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:279][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2022.03.17-07.53.02:279][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2022.03.17-07.53.02:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:280][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2022.03.17-07.53.02:280][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2022.03.17-07.53.02:517][  0]SourceControl: Source control is disabled
+[2022.03.17-07.53.02:517][  0]Cmd: MAP LOAD FILE="D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Map/ScanWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.17-07.53.02:518][  0]LightingResults: New page: Lighting Build
+[2022.03.17-07.53.02:519][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-07.53.02:519][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-07.53.02:519][  0]MapCheck: New page: Map Check
+[2022.03.17-07.53.02:519][  0]LightingResults: New page: Lighting Build
+[2022.03.17-07.53.02:544][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.03.17-07.53.02:679][  0]LogAIModule: Creating AISystem for world ScanWorld
+[2022.03.17-07.53.02:718][  0]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-07.53.02:720][  0]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-07.53.02:722][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.17-07.53.02:756][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.03.17-07.53.02:756][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.17-07.53.02:757][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2022.03.17-07.53.02:757][  0]LogFileHelpers: Loading map 'ScanWorld' took 0.240
+[2022.03.17-07.53.02:958][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-07.53.02:966][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-07.53.02:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-07.53.02:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-07.53.03:003][  0]LogCollectionManager: Loaded 0 collections in 0.015621 seconds
+[2022.03.17-07.53.03:033][  0]LogFileCache: Scanning file cache for directory 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Collections/' took 0.00s
+[2022.03.17-07.53.03:033][  0]LogFileCache: Scanning file cache for directory 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Developers/acer/Collections/' took 0.00s
+[2022.03.17-07.53.03:033][  0]LogFileCache: Scanning file cache for directory 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Collections/' took 0.00s
+[2022.03.17-07.53.03:033][  0]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 3025 classes and 722 folders.
+[2022.03.17-07.53.03:040][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.03.17-07.53.03:265][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.17-07.53.03:273][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2022.03.17-07.53.03:740][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2022.03.17-07.53.03:740][  0]LogVulkanRHI: Display: Queue Family 0: Supports Present
+[2022.03.17-07.53.03:740][  0]LogVulkanRHI: Display: Found 4 Surface present modes:
+[2022.03.17-07.53.03:740][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_FIFO_KHR (2)
+[2022.03.17-07.53.03:740][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_FIFO_RELAXED_KHR (3)
+[2022.03.17-07.53.03:740][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_MAILBOX_KHR (1)
+[2022.03.17-07.53.03:740][  0]LogVulkanRHI: Display: - VK_PRESENT_MODE_IMMEDIATE_KHR (0)
+[2022.03.17-07.53.03:740][  0]LogVulkanRHI: Display: Selected VkPresentModeKHR mode 1
+[2022.03.17-07.53.03:740][  0]LogVulkanRHI: Creating new VK swapchain with format 64, color space 0, num images 3
+[2022.03.17-07.53.03:832][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.17-07.53.03:838][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.17-07.53.03:843][  0]LogSlate: Took 0.002356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.17-07.53.04:101][  0]LogRenderer: Reallocating scene render targets to support 988x440 Format 10 NumSamples 1 (Frame:1).
+[2022.03.17-07.53.04:777][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.03.17-07.53.04:778][  0]LogLoad: (Engine Initialization) Total time: 20.17 seconds
+[2022.03.17-07.53.04:778][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.17-07.53.05:098][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.17-07.53.05:140][  0]LogSlate: Took 0.002395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.17-07.53.06:095][  7]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.17-07.53.07:394][ 18]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.03.17-07.53.07:440][ 18]LogSlate: Window 'ProjectLauncher' being destroyed
+[2022.03.17-07.53.10:259][ 40]LogFileCache: Retrieving MD5 hashes for directory 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/' took 5.46s
+[2022.03.17-07.53.10:977][ 49]LogAssetRegistry: Asset discovery search completed in 19.4941 seconds
+[2022.03.17-07.53.10:982][ 49]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2022.03.17-07.53.16:625][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/GREEN/elbsandsteinpilze/source/elbsandsteinpilze.uasset' failed to load '/Game/Model/item/GREEN/elbsandsteinpilze/source/lambert1': Can't find file.
+[2022.03.17-07.53.16:625][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/GREEN/elbsandsteinpilze/source/elbsandsteinpilze.uasset' failed to load '/Game/Model/item/GREEN/elbsandsteinpilze/source/lambert1': Can't find file.
+[2022.03.17-07.53.16:625][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/GREEN/elbsandsteinpilze/source/elbsandsteinpilze.uasset' failed to load '/Game/Model/item/GREEN/elbsandsteinpilze/source/lambert1': Can't find file.
+[2022.03.17-07.53.16:625][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/GREEN/elbsandsteinpilze/source/elbsandsteinpilze.uasset' failed to load '/Game/Model/item/GREEN/elbsandsteinpilze/source/lambert1': Can't find file.
+[2022.03.17-07.53.17:174][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Materials/M_TargetSelected.uasset' failed to load '/Game/MLTK/ControllerPointer/Materials/M_Target': Can't find file.
+[2022.03.17-07.53.17:175][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Materials/M_TargetSelected.uasset' failed to load '/Game/MLTK/ControllerPointer/Materials/M_Target': Can't find file.
+[2022.03.17-07.53.17:175][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Materials/M_TargetSelected.uasset' failed to load '/Game/MLTK/ControllerPointer/Materials/M_Target': Can't find file.
+[2022.03.17-07.53.17:175][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Materials/M_TargetSelected.uasset' failed to load '/Game/MLTK/ControllerPointer/Materials/M_Target': Can't find file.
+[2022.03.17-07.53.17:398][337]LogBlueprint: Warning: [Compiler BP_ControlPointer] InputKey Event specifies FKey'MagicLeap_Right_Trigger' that is not blueprint bindable for  ML (R) Trigger
+[2022.03.17-07.53.17:398][337]LogBlueprint: Warning: [Compiler BP_ControlPointer] InputKey Event specifies FKey'MagicLeap_Right_HomeButton' that is not blueprint bindable for  ML (R) Home Button
+[2022.03.17-07.53.17:398][337]LogBlueprint: Warning: [Compiler BP_ControlPointer] InputKey Event specifies FKey'MotionController_Right_Trigger' which has been deprecated for  MotionController (R) Trigger
+[2022.03.17-07.53.18:110][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/GREEN/elbsandsteinpilze/source/elbsandsteinpilze.uasset' failed to load '/Game/Model/item/GREEN/elbsandsteinpilze/source/lambert1': Can't find file.
+[2022.03.17-07.53.18:110][337]LoadErrors: Failed to load /Game/Model/item/GREEN/elbsandsteinpilze/source/lambert1.lambert1 Referenced by elbsandsteinpilze
+[2022.03.17-07.53.18:110][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/GREEN/elbsandsteinpilze/source/elbsandsteinpilze.uasset' failed to load '/Game/Model/item/GREEN/elbsandsteinpilze/source/lambert1': Can't find file.
+[2022.03.17-07.53.18:110][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/GREEN/elbsandsteinpilze/source/elbsandsteinpilze.uasset' failed to load '/Game/Model/item/GREEN/elbsandsteinpilze/source/lambert1': Can't find file.
+[2022.03.17-07.53.18:110][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Model/item/GREEN/elbsandsteinpilze/source/elbsandsteinpilze.uasset' failed to load '/Game/Model/item/GREEN/elbsandsteinpilze/source/lambert1': Can't find file.
+[2022.03.17-07.53.18:120][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Materials/M_TargetSelected.uasset' failed to load '/Game/MLTK/ControllerPointer/Materials/M_Target': Can't find file.
+[2022.03.17-07.53.18:120][337]LoadErrors: Failed to load /Game/MLTK/ControllerPointer/Materials/M_Target.M_Target Referenced by M_TargetSelected
+[2022.03.17-07.53.18:121][337]LogLinker: Warning: While loading 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Blueprint/control/ControllerPointer/Materials/M_TargetSelected.uasset' failed to load '/Game/MLTK/ControllerPointer/Materials/M_Target': Can't find file.
+[2022.03.17-07.53.23:746][337]LogAIModule: Creating AISystem for world Leaderboard_Level1
+[2022.03.17-07.53.23:845][337]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-07.53.23:846][337]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.17-07.53.23:846][337]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.17-07.53.23:851][337]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-07.53.23:852][337]PIE: Warning: AttachTo: '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.03.17-07.53.23:869][337]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Leaderboard_Level1.Leaderboard_Level1
+[2022.03.17-07.53.23:909][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.03.17-07.53.23:915][337]Cmd: MAP LOAD FILE="D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Map/Leaderboard_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.17-07.53.23:915][337]LightingResults: New page: Lighting Build
+[2022.03.17-07.53.23:916][337]LoadErrors: New page: Loading map: Leaderboard_Level1.umap
+[2022.03.17-07.53.23:918][337]LogWorld: UWorld::CleanupWorld for ScanWorld, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-07.53.23:918][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-07.53.23:918][337]MapCheck: New page: Map Check
+[2022.03.17-07.53.23:918][337]LightingResults: New page: Lighting Build
+[2022.03.17-07.53.23:947][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.03.17-07.53.23:955][337]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-07.53.23:961][337]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-07.53.23:963][337]PIE: Warning: AttachTo: '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.03.17-07.53.24:043][337]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.17-07.53.24:072][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.03.17-07.53.24:091][337]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.17-07.53.24:091][337]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2022.03.17-07.53.24:091][337]LogFileHelpers: Loading map 'Leaderboard_Level1' took 0.176
+[2022.03.17-07.55.42:702][530]LogTemp: Repeating last play command: VR Preview
+[2022.03.17-07.55.42:715][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.17-07.55.42:716][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.Leaderboard_Level1' with GeneratedClass '/Game/Map/Leaderboard_Level1.Leaderboard_Level1_C' with ClassGeneratedBy '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.Leaderboard_Level1'
+[2022.03.17-07.55.42:717][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.17-07.55.42:717][530]PIE: New page: PIE session: Leaderboard_Level1 (17 มี.ค. 2565 21:55:42)
+[2022.03.17-07.55.42:718][530]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.17-07.55.42:719][530]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.17-07.55.42:720][530]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Leaderboard_Level1
+[2022.03.17-07.55.42:724][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003590s)
+[2022.03.17-07.55.42:724][530]LogAIModule: Creating AISystem for world Leaderboard_Level1
+[2022.03.17-07.55.42:725][530]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2022.03.17-07.55.42:725][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Leaderboard_Level1.Leaderboard_Level1 to /Game/Map/UEDPIE_0_Leaderboard_Level1.Leaderboard_Level1 (0.004992s)
+[2022.03.17-07.55.42:752][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.03.17-07.55.42:755][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.17-07.55.42:755][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.17-07.55.42:758][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_input.dll
+[2022.03.17-07.55.43:914][530]LogWindows: Failed to load 'C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_privileges.dll' (GetLastError=126)
+[2022.03.17-07.55.43:914][530]LogWindows: File 'C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_privileges.dll' does not exist
+[2022.03.17-07.55.43:914][530]LogWindows: Failed to load 'C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//bin/ml_privileges.dll' (GetLastError=126)
+[2022.03.17-07.55.43:914][530]LogWindows: File 'C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//bin/ml_privileges.dll' does not exist
+[2022.03.17-07.55.43:915][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/mlsdk/v0.26.0/lib/win64/ml_privileges.dll
+[2022.03.17-07.55.43:923][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_perception_client.dll
+[2022.03.17-07.55.43:925][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_perception_client.dll
+[2022.03.17-07.55.45:064][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_input.dll
+[2022.03.17-07.55.45:064][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.17-07.55.45:069][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_audio.dll
+[2022.03.17-07.55.46:785][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.17-07.55.46:785][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.17-07.55.46:785][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 3200
+[2022.03.17-07.55.46:785][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  3200
+[2022.03.17-07.55.46:785][530]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.17-07.55.46:786][530]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.17-07.55.46:786][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.17-07.55.46:786][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.17-07.55.46:786][530]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.17-07.55.46:786][530]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.17-07.55.48:422][530]LogAudioMixer: Display: Using Audio Device Magic Leap Audio Device
+[2022.03.17-07.55.48:423][530]LogAudioMixerMagicLeap: Error: Error in 㩃樯眯猯此楤⽲湕敲污湅楧敮䔯杮湩⽥汐杵湩⽳界業⽮慍楧䱣慥⽰潓牵散䴯条捩敌灡畁楤⽯牐癩瑡⽥畁楤䵯硩牥汐瑡潦浲慍楧䱣慥⹰灣pMLResult_UnspecifiedFailure, line 393: MLAudioResult_BufferNotReady
+[2022.03.17-07.55.48:423][530]LogInit: FAudioDevice initialized.
+[2022.03.17-07.55.48:445][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.17-07.55.48:481][530]LogLoad: Game class is 'MagicLeapSharedWorldGameMode'
+[2022.03.17-07.55.48:484][530]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-07.55.48:484][530]LogWorld: Bringing World /Game/Map/UEDPIE_0_Leaderboard_Level1.Leaderboard_Level1 up for play (max tick rate 0) at 2022.03.17-14.55.48
+[2022.03.17-07.55.48:484][530]LogWorld: Bringing up level for play took: 0.001415
+[2022.03.17-07.55.48:484][530]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.03.17-07.55.48:491][530]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2022.03.17-07.55.48:491][530]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.17-07.55.48:491][530]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.17-07.55.48:491][530]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.17-07.55.48:498][530]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.17-07.55.48:502][530]PIE: Play in editor start time for /Game/Map/UEDPIE_0_Leaderboard_Level1 4.866
+[2022.03.17-07.55.48:502][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.Leaderboard_Level1' with GeneratedClass '/Game/Map/Leaderboard_Level1.Leaderboard_Level1_C' with ClassGeneratedBy '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.Leaderboard_Level1'
+[2022.03.17-07.55.48:503][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_remote.dll
+[2022.03.17-07.55.48:539][530]LogMagicLeap: RHI Thread Usage (r.Vulkan.RHIThread)=1
+[2022.03.17-07.55.48:539][530]LogMagicLeap: Warning: No block selector is connected, using default implementation.
+[2022.03.17-07.55.48:539][530]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-07.55.48:743][530]LogMagicLeap: Display: FMagicLeapCustomPresentVulkan is supported.
+[2022.03.17-07.55.48:743][530]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_graphics.dll
+[2022.03.17-07.55.50:924][530]LogMagicLeap: Display: Set Lumin frame timing hint to FPS_60.
+[2022.03.17-07.55.51:000][531]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_perception_client.dll
+[2022.03.17-07.55.51:042][532]LogRenderer: Reallocating scene render targets to support 2560x960 Format 10 NumSamples 1 (Frame:1).
+[2022.03.17-07.55.51:448][533]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.330 s
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: 
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: Ensure condition failed: Layout == VK_IMAGE_LAYOUT_SHARED_PRESENT_KHR || Layout == VK_IMAGE_LAYOUT_DEPTH_READ_ONLY_STENCIL_ATTACHMENT_OPTIMAL || Layout == VK_IMAGE_LAYOUT_DEPTH_ATTACHMENT_STENCIL_READ_ONLY_OPTIMAL || Layout == VK_IMAGE_LAYOUT_DEPTH_STENCIL_READ_ONLY_OPTIMAL || Layout == VK_IMAGE_LAYOUT_SHADER_READ_ONLY_OPTIMAL || Layout == VK_IMAGE_LAYOUT_GENERAL [File:c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\VulkanDescriptorSets.h] [Line: 1103]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: Invalid Layout 2, Index 0, Type 1
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: 
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: Stack: 
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff941531eea UE4Editor-VulkanRHI.dll!DispatchCheckVerify<bool,<lambda_1f6521be9b1a44e108ca311f79caea4e> >() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\public\misc\assertionmacros.h:167]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff94149f0b7 UE4Editor-VulkanRHI.dll!FVulkanCommonPipelineDescriptorState::SetTexture() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\vulkanpipelinestate.h:71]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff941497f2b UE4Editor-VulkanRHI.dll!FVulkanCommandListContext::RHISetShaderTexture() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\vulkancommands.cpp:229]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff940fc8424 UE4Editor-MagicLeap.dll!FRHICommand<FRHICommandSetShaderTexture<FRHIPixelShader,0>,FRHICommandSetShaderTextureString>::ExecuteAndDestruct() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rhi\public\rhicommandlist.h:726]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff9972ceff0 UE4Editor-RHI.dll!FRHICommandListExecutor::ExecuteInner_DoExecute() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rhi\private\rhicommandlist.cpp:351]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff9972b9c97 UE4Editor-RHI.dll!FExecuteRHIThreadTask::DoTask() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rhi\private\rhicommandlist.cpp:410]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff9972d0d06 UE4Editor-RHI.dll!TGraphTask<FExecuteRHIThreadTask>::ExecuteTask() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\public\async\taskgraphinterfaces.h:847]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff994cca152 UE4Editor-Core.dll!FNamedTaskThread::ProcessTasksNamedThread() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\async\taskgraph.cpp:686]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff994cca4f3 UE4Editor-Core.dll!FNamedTaskThread::ProcessTasksUntilQuit() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\async\taskgraph.cpp:583]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff99749e1e1 UE4Editor-RenderCore.dll!FRHIThread::Run() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rendercore\private\renderingthread.cpp:289]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff99513e33f UE4Editor-Core.dll!FRunnableThreadWin::Run() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:96]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff995135551 UE4Editor-Core.dll!FRunnableThreadWin::GuardedRun() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:53]
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff9f8ec7034 KERNEL32.DLL!UnknownFunction []
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: [Callstack] 0x00007ff9faea2651 ntdll.dll!UnknownFunction []
+[2022.03.17-07.55.51:448][533]LogOutputDevice: Error: 
+[2022.03.17-07.55.51:448][533]LogStats:                SubmitErrorReport -  0.000 s
+[2022.03.17-07.55.54:488][533]LogStats:                    SendNewReport -  3.012 s
+[2022.03.17-07.55.54:488][533]LogStats:             FDebug::EnsureFailed -  3.343 s
+[2022.03.17-07.55.54:514][533]LogLuminAPI: Display: Dll loaded: C:/Users/acer/MagicLeap/tools/zi/v2.3.2.20210609//lib/ml_lifecycle.dll
+[2022.03.17-07.55.54:515][533]LogMagicLeap: Display: Presenting first render from app.
+[2022.03.17-07.55.54:515][533]LogMagicLeap: Aliased render target for correct sRGB ouput.
+[2022.03.17-07.55.54:607][533]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.03.17-07.55.58:622][752]LogSlate: Window 'Trashman Game Preview Standalone (64-bit/SF_VULKAN_SM5)' being destroyed
+[2022.03.17-07.56.09:468][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.Leaderboard_Level1' with GeneratedClass '/Game/Map/Leaderboard_Level1.Leaderboard_Level1_C' with ClassGeneratedBy '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.Leaderboard_Level1'
+[2022.03.17-07.56.09:469][752]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.03.17-07.56.24:499][752]LogMagicLeap: Display: Perception client shutdown successfully.
+[2022.03.17-07.56.25:233][752]LogMagicLeap: Display: Graphics client destroyed successfully.
+[2022.03.17-07.56.25:233][752]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Leaderboard_Level1
+[2022.03.17-07.56.25:288][752]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.03.17-07.56.25:355][752]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.03.17-07.56.25:355][752]LogWorld: UWorld::CleanupWorld for Leaderboard_Level1, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-07.56.25:356][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-07.56.25:368][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.17-07.56.25:369][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.Leaderboard_Level1' with GeneratedClass '/Game/Map/Leaderboard_Level1.Leaderboard_Level1_C' with ClassGeneratedBy '/Game/Map/Leaderboard_Level1.Leaderboard_Level1:PersistentLevel.Leaderboard_Level1'
+[2022.03.17-07.56.25:373][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-07.56.25:404][752]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.03.17-07.56.25:437][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.03.17-07.56.25:458][753]LogEditorViewport: Clicking Background
+[2022.03.17-07.56.25:516][753]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.03.17-08.03.27:462][176]LogAIModule: Creating AISystem for world Summary
+[2022.03.17-08.03.27:479][176]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-08.03.27:488][176]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-08.03.27:489][176]PIE: Warning: AttachTo: '/Game/Map/Summary.Summary:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Map/Summary.Summary:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.03.17-08.03.27:491][176]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/Summary.Summary
+[2022.03.17-08.03.27:525][176]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.03.17-08.03.27:528][176]Cmd: MAP LOAD FILE="D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Content/Map/Summary.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.17-08.03.27:528][176]LightingResults: New page: Lighting Build
+[2022.03.17-08.03.27:529][176]LoadErrors: New page: Loading map: Summary.umap
+[2022.03.17-08.03.27:529][176]LogWorld: UWorld::CleanupWorld for Leaderboard_Level1, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-08.03.27:529][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-08.03.27:530][176]MapCheck: New page: Map Check
+[2022.03.17-08.03.27:530][176]LightingResults: New page: Lighting Build
+[2022.03.17-08.03.27:558][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.03.17-08.03.27:566][176]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-08.03.27:577][176]LogMotionControllerComponent: Warning: Failed to create a display component for the MotionController - no XR system (if there were any) had a model for the specified source ('Right')
+[2022.03.17-08.03.27:578][176]PIE: Warning: AttachTo: '/Game/Map/Summary.Summary:PersistentLevel.BP_ControlPointer_2.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Game/Map/Summary.Summary:PersistentLevel.BP_ControlPointer_2.SplineMesh' which is static to it. Aborting.
+[2022.03.17-08.03.27:733][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.17-08.03.27:762][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.03.17-08.03.27:786][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.17-08.03.27:787][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2022.03.17-08.03.27:787][176]LogFileHelpers: Loading map 'Summary' took 0.259
+[2022.03.17-08.06.27:287][222]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level1_C (BP_Summary_Level1)
+[2022.03.17-08.06.32:027][500]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level2_C (BP_Summary_Level2)
+[2022.03.17-08.06.35:710][695]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level2_C (BP_Summary_Level2)
+[2022.03.17-08.06.36:200][724]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level1_C (BP_Summary_Level1)
+[2022.03.17-08.06.37:165][781]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level2_C (BP_Summary_Level2)
+[2022.03.17-08.06.38:247][845]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level3_C (BP_Summary_Level3)
+[2022.03.17-08.06.38:782][876]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level2_C (BP_Summary_Level2)
+[2022.03.17-08.06.39:364][910]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level1_C (BP_Summary_Level1)
+[2022.03.17-08.06.47:032][367]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level2_C (BP_Summary_Level2)
+[2022.03.17-08.06.52:979][717]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level3_C (BP_Summary_Level3)
+[2022.03.17-08.07.04:323][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.07.28:019][760]Cmd: TRANSACTION UNDO
+[2022.03.17-08.07.28:019][760]LogEditorTransaction: Undo Scale Actors
+[2022.03.17-08.07.28:422][768]Cmd: TRANSACTION UNDO
+[2022.03.17-08.07.28:422][768]LogEditorTransaction: Undo Scale Actors
+[2022.03.17-08.07.28:887][791]Cmd: TRANSACTION UNDO
+[2022.03.17-08.07.28:887][791]LogEditorTransaction: Undo Scale Actors
+[2022.03.17-08.07.29:537][830]Cmd: TRANSACTION UNDO
+[2022.03.17-08.07.29:537][830]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-08.07.30:677][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.07.42:408][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.07.43:568][580]LogEditorViewport: Clicking Background
+[2022.03.17-08.07.45:264][681]Cmd: TRANSACTION UNDO
+[2022.03.17-08.07.45:264][681]LogEditorTransaction: Undo Clicking Background
+[2022.03.17-08.07.45:700][688]Cmd: TRANSACTION UNDO
+[2022.03.17-08.07.45:700][688]LogEditorTransaction: Undo Scale Actors
+[2022.03.17-08.07.53:366][139]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level1_C (BP_Summary_Level1)
+[2022.03.17-08.08.02:738][693]LogEditorViewport: Clicking Background
+[2022.03.17-08.08.09:803][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.08.12:328][261]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level1_C (BP_Summary_Level1)
+[2022.03.17-08.08.15:298][436]Cmd: TRANSACTION UNDO
+[2022.03.17-08.08.15:298][436]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-08.08.15:723][443]Cmd: TRANSACTION UNDO
+[2022.03.17-08.08.15:724][443]LogEditorTransaction: Undo Scale Actors
+[2022.03.17-08.08.27:063][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.08.27:876][159]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level1_C (BP_Summary_Level1)
+[2022.03.17-08.08.28:408][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.08.29:084][229]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level1_C (BP_Summary_Level1)
+[2022.03.17-08.08.38:910][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.08.39:820][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm2)
+[2022.03.17-08.08.44:547][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.08.45:125][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm2)
+[2022.03.17-08.08.46:745][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.08.47:759][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm2)
+[2022.03.17-08.08.51:562][391]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level1_C (BP_Summary_Level1)
+[2022.03.17-08.08.52:409][441]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level2_C (BP_Summary_Level2)
+[2022.03.17-08.10.06:176][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm2)
+[2022.03.17-08.10.07:657][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm3)
+[2022.03.17-08.10.13:261][958]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level3_C (BP_Summary_Level3)
+[2022.03.17-08.10.21:778][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.10.28:420][721]LogEditorViewport: Clicking Background
+[2022.03.17-08.10.36:682][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.10.39:404][372]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level1_C (BP_Summary_Level1)
+[2022.03.17-08.10.42:929][582]Cmd: TRANSACTION UNDO
+[2022.03.17-08.10.42:929][582]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.17-08.10.43:470][590]Cmd: TRANSACTION UNDO
+[2022.03.17-08.10.43:470][590]LogEditorTransaction: Undo Scale Actors
+[2022.03.17-08.10.44:116][627]LogEditorViewport: Clicking Background
+[2022.03.17-08.10.47:378][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.10.58:671][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm2)
+[2022.03.17-08.10.59:671][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.11.00:362][579]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level1_C (BP_Summary_Level1)
+[2022.03.17-08.11.12:208][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm2)
+[2022.03.17-08.11.15:839][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.11.27:019][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm3)
+[2022.03.17-08.11.37:467][666]LogEditorViewport: Clicking on Actor (LMB): BP_Summary_Level3_C (BP_Summary_Level3)
+[2022.03.17-08.12.45:942][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Topic-summary)
+[2022.03.17-08.12.51:533][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Base-Brown)
+[2022.03.17-08.12.54:303][932]LogEditorViewport: Clicking Background
+[2022.03.17-08.13.26:471][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.03.17-08.13.26:474][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Summary" FILE="D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Autosaves/Game/Map/Summary_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.03.17-08.13.26:743][606]LogSavePackage: Moving 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Summary_Auto18CED487C4451B1B9D26D08B9781FDB05.tmp' to 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Autosaves/Game/Map/Summary_Auto1.umap'
+[2022.03.17-08.13.26:770][606]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Summary' took 0.337
+[2022.03.17-08.13.26:770][606]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.337
+[2022.03.17-08.14.58:360][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Topic-summary)
+[2022.03.17-08.15.00:395][969]LogEditorViewport: Clicking Background
+[2022.03.17-08.15.04:794][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sm01)
+[2022.03.17-08.15.06:740][344]LogEditorViewport: Clicking Background
+[2022.03.17-08.15.13:999][774]Cmd: TRANSACTION UNDO
+[2022.03.17-08.15.13:999][774]LogEditorTransaction: Undo Clicking Background
+[2022.03.17-08.15.14:532][783]Cmd: TRANSACTION UNDO
+[2022.03.17-08.15.14:532][783]LogEditorTransaction: Undo Scale Actors
+[2022.03.17-08.15.35:111][891]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Map/Widget/Summary/Summary_Level1.Summary_Level1
+[2022.03.17-08.15.35:386][891]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2022.03.17-08.15.36:927][891]LogSlate: Took 0.002516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.17-08.15.38:142][954]LogSlate: Took 0.007183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.03.17-08.15.38:142][954]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ผ (U+0e1c)'
+[2022.03.17-08.15.38:153][954]LogSlate: Took 0.009222 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.03.17-08.15.38:467][973]LogSlate: Window 'Summary_Level1' being destroyed
+[2022.03.17-08.15.39:769][ 40]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Map/Widget/Summary/Summary_Level2.Summary_Level2
+[2022.03.17-08.15.42:373][132]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Map/Widget/Summary/Summary_Level3.Summary_Level3
+[2022.03.17-08.17.05:748][325]BlueprintLog: New page: Compile Summary_Level3
+[2022.03.17-08.17.06:159][325]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2022.03.17-08.17.34:874][852]LogSlate: Took 0.000883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.17-08.19.27:549][243]BlueprintLog: New page: Compile Summary_Level2
+[2022.03.17-08.19.27:889][243]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2022.03.17-08.19.40:645][965]BlueprintLog: New page: Compile Summary_Level2
+[2022.03.17-08.19.40:960][965]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2022.03.17-08.20.17:897][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Learderboard/BP_Leadeboard-Level2.BP_Leadeboard-Level2
+[2022.03.17-08.20.58:657][113]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-08.20.58:657][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-08.21.09:920][690]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Model/Leaderboard/leaderboard_level2/Leaderboard_Widget2.Leaderboard_Widget2
+[2022.03.17-08.21.35:687][153]BlueprintLog: New page: Compile Leaderboard_Widget2
+[2022.03.17-08.21.36:129][153]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.03.17-08.22.31:694][232]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.BP_ControlPointer_C_0.Spline1' is not static  (in blueprint "BP_ControlPointer"), cannot attach '/Engine/Transient.World_14:PersistentLevel.BP_ControlPointer_C_0.SplineMesh' which is static to it. Aborting.
+[2022.03.17-08.22.45:997][ 16]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_TYellow2.BP_TYellow2
+[2022.03.17-08.23.46:583][371]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.03.17-08.23.46:583][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.17-08.24.18:500][983]LogUObjectHash: Compacting FUObjectHashTables data took  12.93ms
+[2022.03.17-08.24.18:503][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Summary" FILE="D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Autosaves/Game/Map/Summary_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.03.17-08.24.18:908][983]LogSavePackage: Moving 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Summary_Auto281C2F24740DA8CB53870AB893661D999.tmp' to 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Autosaves/Game/Map/Summary_Auto2.umap'
+[2022.03.17-08.24.18:981][983]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Summary' took 0.575
+[2022.03.17-08.24.18:981][983]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.575
+[2022.03.17-08.24.18:982][983]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/Widget/Summary/Summary_Level2] ([1] browsable assets)...
+[2022.03.17-08.24.18:982][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Widget/Summary/Summary_Level2]
+[2022.03.17-08.24.19:138][983]LogSavePackage: Moving 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Summary_Level2_Auto270A34A024FCD8B560140EAA1F8B66BDF.tmp' to 'D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/Autosaves/Game/Map/Widget/Summary/Summary_Level2_Auto2.uasset'
+[2022.03.17-08.24.19:199][983]LogFileHelpers: Auto-saving content packages took 0.217
+[2022.03.17-08.27.39:135][342]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/control/ControllerPointer/Blueprints/BP_TYellow.BP_TYellow
+[2022.03.17-08.27.58:626][760]LogThreadingWindows: Error: Runnable thread RHIThread crashed.
+[2022.03.17-08.27.58:626][760]LogWindows: Error: === Critical error: ===
+[2022.03.17-08.27.58:626][760]LogWindows: Error: 
+[2022.03.17-08.27.58:626][760]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000138
+[2022.03.17-08.27.58:626][760]LogWindows: Error: 
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b153e0b8 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b17071fe nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b16f8908 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b164ece6 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b170caef nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b16fd7c0 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b1709236 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b1700920 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b14ec721 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b14ec3c5 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b14e224a nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b1755b7a nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b19fe0e5 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b214eb15 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9b214e8e0 nvwgf2umx.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f471f76d d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f471c467 d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f471c17f d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f4729df2 d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f47297a4 d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f472db56 d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f4711b66 d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f471cc3f d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f47131d4 d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f471ee4e d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f471d44b d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f4720bcc d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f471e57e d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f474ff0d d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f474fe0c d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9f474fd84 d3d11.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b403039 nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b401a88 nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b43676b nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b43524d nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b41220d nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b437d02 nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b58c58b nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b598bdb nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b5af1f5 nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b3ce016 nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b56c913 nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b54919a nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b548722 nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b7dfbf9 nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b7e1c5a nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b7dcd36 nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93b8a7b78 nvoglv64.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff93a1d230d owclient.dll!UnknownFunction []
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9414e25f6 UE4Editor-VulkanRHI.dll!FVulkanSwapChain::Present() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\vulkanswapchain.cpp:930]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff94150532b UE4Editor-VulkanRHI.dll!<lambda_b25ac0f8312796ae2c5bf52d143f6dfc>::operator()() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\vulkanviewport.cpp:899]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9415098a7 UE4Editor-VulkanRHI.dll!FVulkanViewport::DoCheckedSwapChainJob() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\vulkanviewport.cpp:198]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff94151572b UE4Editor-VulkanRHI.dll!FVulkanViewport::Present() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\vulkanviewport.cpp:901]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9414e8e2d UE4Editor-VulkanRHI.dll!FVulkanCommandListContext::RHIEndDrawingViewport() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\vulkanrhi\private\vulkanrhi.cpp:825]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9972cb920 UE4Editor-RHI.dll!FRHICommand<FRHICommandEndDrawingViewport,FRHICommandEndDrawingViewportString1859>::ExecuteAndDestruct() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rhi\public\rhicommandlist.h:726]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9972ceff0 UE4Editor-RHI.dll!FRHICommandListExecutor::ExecuteInner_DoExecute() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rhi\private\rhicommandlist.cpp:351]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9972b9c97 UE4Editor-RHI.dll!FExecuteRHIThreadTask::DoTask() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rhi\private\rhicommandlist.cpp:410]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff9972d0d06 UE4Editor-RHI.dll!TGraphTask<FExecuteRHIThreadTask>::ExecuteTask() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\public\async\taskgraphinterfaces.h:847]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff994cca152 UE4Editor-Core.dll!FNamedTaskThread::ProcessTasksNamedThread() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\async\taskgraph.cpp:686]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff994cca4f3 UE4Editor-Core.dll!FNamedTaskThread::ProcessTasksUntilQuit() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\async\taskgraph.cpp:583]
+[2022.03.17-08.27.58:626][760]LogWindows: Error: [Callstack] 0x00007ff99749e1e1 UE4Editor-RenderCore.dll!FRHIThread::Run() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\rendercore\private\renderingthread.cpp:289]
+[2022.03.17-08.27.58:627][760]LogWindows: Error: [Callstack] 0x00007ff99513e33f UE4Editor-Core.dll!FRunnableThreadWin::Run() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:96]
+[2022.03.17-08.27.58:627][760]LogWindows: Error: [Callstack] 0x00007ff995135551 UE4Editor-Core.dll!FRunnableThreadWin::GuardedRun() [c:\j\w\sdkdir\unrealengine\engine\source\runtime\core\private\windows\windowsrunnablethread.cpp:53]
+[2022.03.17-08.27.58:627][760]LogWindows: Error: [Callstack] 0x00007ff9f8ec7034 KERNEL32.DLL!UnknownFunction []
+[2022.03.17-08.27.58:627][760]LogWindows: Error: [Callstack] 0x00007ff9faea2651 ntdll.dll!UnknownFunction []
+[2022.03.17-08.27.58:627][760]LogWindows: Error: 
+[2022.03.17-08.27.58:627][760]LogWindows: Error: Crash in runnable thread RHIThread
+[2022.03.17-08.27.58:654][760]LogExit: Executing StaticShutdownAfterError
+[2022.03.17-08.27.58:654][760]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.03.17-08.27.58:654][760]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.03.17-08.27.58:933][760]Log file closed, 03/17/22 15:27:58

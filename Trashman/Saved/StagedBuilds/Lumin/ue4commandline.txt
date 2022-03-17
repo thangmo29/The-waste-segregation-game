@@ -1,1 +1,1 @@
-../../../Trashman/Trashman.uproject   -Messaging -SessionId=B406AE9D411D29BB74B53D9A6045E849 -SessionOwner="acer" -SessionName="Magic_Leap_One_Creator_Edition (G1306M000705)"  -vulkan  -Installed
+../../../Trashman/Trashman.uproject   -Messaging -SessionId=E20B0EE349E883D66A4805955A0F266B -SessionOwner="acer" -SessionName="Magic_Leap_One_Creator_Edition (G1306M000705)"  -vulkan  -Installed
