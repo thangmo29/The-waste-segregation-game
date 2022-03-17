@@ -51,7 +51,7 @@ Windows.Engine:Core.System:HangDuration:0=0.0
 Windows.Engine:Core.System:AssetLogShowsDiskPath:0=True
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Game/Blueprint/control/Mygame/MyGame.MyGame_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/Map/ScanWorld.ScanWorld
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Map/ScanWorld.ScanWorld
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/Map/Intro/Intro.Intro
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Script/MagicLeapSharedWorld.MagicLeapSharedWorldGameMode
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
@@ -1254,6 +1254,7 @@ Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:SpatializationP
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:ReverbPlugin:0=Built-in Reverb
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:OcclusionPlugin:0=Built-in Occlusion
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:SoundCueCookQualityIndex:0=0
+Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:LocalizedIconInfos:0=(IconData=)
 Windows.Engine:/Script/UnrealEd.CookerSettings:DefaultPVRTCQuality:0=1
 Windows.Engine:/Script/UnrealEd.CookerSettings:DefaultASTCQualityBySpeed:0=1
 Windows.Engine:/Script/UnrealEd.CookerSettings:DefaultASTCQualityBySize:0=3
