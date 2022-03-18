@@ -1240,7 +1240,7 @@ Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bAllowIMU:0
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bUseDisplayCutout:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bEnableSnapshots:0=False
 Windows.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bRestoreNotificationsOnReboot:0=False
-Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bEnableZI:0=True
+Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bEnableZI:0=False
 Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bUseVulkanForZI:0=True
 Windows.Engine:/Script/MagicLeap.MagicLeapSettings:bUseMLAudioForZI:0=True
 Windows.Engine:/Script/LuminRuntimeSettings.LuminRuntimeSettings:PackageName:0=com.IT.Trashman
