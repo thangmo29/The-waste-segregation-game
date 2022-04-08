@@ -22,38 +22,66 @@
   },
   {
    "compression": 8,
+   "hash": "fedf36f898ed054f587e1ed4acbbd9289e91c5b8",
+   "pkgpath": "Icon/Model/Model.fbx",
+   "size": 268272,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/Model.fbx"
+  },
+  {
+   "compression": 8,
+   "hash": "6f4ef9447ff0ce422bb8cc5971ad3045eddbb00a",
+   "pkgpath": "Icon/Model/Model.kmat",
+   "size": 1255,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/Model.kmat"
+  },
+  {
+   "compression": 8,
+   "hash": "5fb161948c5459b804de89e5bc4158f655ccbbe0",
+   "pkgpath": "Icon/Model/black.png",
+   "size": 197,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/black.png"
+  },
+  {
+   "compression": 8,
+   "hash": "08ab2fa747d257f2e59363bea6c8c46908249d9e",
+   "pkgpath": "Icon/Model/gray.png",
+   "size": 197,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/gray.png"
+  },
+  {
+   "compression": 8,
+   "hash": "ce612369a384a8ef9ea9b6ad34d9c4e1af9a6f79",
+   "pkgpath": "Icon/Model/green.png",
+   "size": 197,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/green.png"
+  },
+  {
+   "compression": 8,
+   "hash": "4cdf83f16b62d5580e0e67ff7bc0d15d780e63e6",
+   "pkgpath": "Icon/Model/orange.png",
+   "size": 197,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/orange.png"
+  },
+  {
+   "compression": 8,
    "hash": "e55a5c6664b550abb2ac90768c138d8063e67ad5",
-   "pkgpath": "Icon/Model/IconForeground.png",
+   "pkgpath": "Icon/Portal/IconForeground.png",
    "size": 8438,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/IconForeground.png"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Portal/IconForeground.png"
   },
   {
    "compression": 8,
-   "hash": "7aa5ec20b3be5d7fc144092893fcc529932dcb25",
-   "pkgpath": "Icon/Model/UE4_Logo.fbx",
-   "size": 326124,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Model/UE4_Logo.fbx"
+   "hash": "c67bc21a562826843e905603e08ea90249046eee",
+   "pkgpath": "Icon/Portal/Portal.fbx",
+   "size": 43568,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Portal/Portal.fbx"
   },
   {
    "compression": 8,
-   "hash": "3dcb827462ccc84ccb46dbce49ef33840cbd916a",
-   "pkgpath": "Icon/Portal/UE4_Logo.mtl",
-   "size": 240,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Portal/UE4_Logo.mtl"
-  },
-  {
-   "compression": 8,
-   "hash": "360992c9feeaeebbd1bda66a1a53fc4cab2b58a0",
-   "pkgpath": "Icon/Portal/UE4_Logo.obj",
-   "size": 667418,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Portal/UE4_Logo.obj"
-  },
-  {
-   "compression": 8,
-   "hash": "f1284aefee8fca89d21c49d4dbc88e53a42e5907",
-   "pkgpath": "Icon/Portal/gradient.png",
-   "size": 728192,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Portal/gradient.png"
+   "hash": "880beac383eee21d3a8ba16d301a2e57de5378a9",
+   "pkgpath": "Icon/Portal/Portal.kmat",
+   "size": 376,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Build/Lumin/Resources/Portal/Portal.kmat"
   },
   {
    "compression": 8,
@@ -93,14 +121,14 @@
   },
   {
    "compression": 8,
-   "hash": "99a3eb5894471036dfa190e1866d6d1b397325f4",
+   "hash": "8744f6a779d40a42f5da06078b7839a18d3afb1b",
    "pkgpath": "./Manifest_DebugFiles_Lumin.txt",
    "size": 146,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/Manifest_DebugFiles_Lumin.txt"
   },
   {
    "compression": 8,
-   "hash": "50cd2eec4a1ebda80643d7e9f83b806ecaf301c1",
+   "hash": "2de23c71ce1cd230c3b32f343aa0874360688f83",
    "pkgpath": "./Manifest_NonUFSFiles_Lumin.txt",
    "size": 53,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/Manifest_NonUFSFiles_Lumin.txt"
@@ -121,9 +149,9 @@
   },
   {
    "compression": 8,
-   "hash": "b01afba973ce9cbd313cb3941862231ae25e0606",
+   "hash": "12a2adad8b38bfe857e254f340a8d00058add379",
    "pkgpath": "./Manifest_UFSFiles_Lumin.txt",
-   "size": 488670,
+   "size": 479677,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/Manifest_UFSFiles_Lumin.txt"
   },
   {
@@ -10327,23 +10355,23 @@
   },
   {
    "compression": 8,
-   "hash": "88e69699386f15031d9d414c4c2991a5ae7e8720",
+   "hash": "686c21046fbe564efb7d2e9ee09158da3ad9e01f",
    "pkgpath": "./trashman/assetregistry.bin",
-   "size": 1015828,
+   "size": 998293,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/assetregistry.bin"
   },
   {
    "compression": 8,
-   "hash": "2f25cc5f87bb24ca3047586f2c82003d5e7ddd0a",
+   "hash": "d35be3a4e9d29458df1e508ed89ac8e8dbb08800",
    "pkgpath": "./trashman/config/defaultengine.ini",
-   "size": 6766,
+   "size": 6790,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/config/defaultengine.ini"
   },
   {
    "compression": 8,
-   "hash": "96a182a67e3227e234c1569e92021fbbfe92daea",
+   "hash": "c3bffb4176bbd50abd2e5916d9cf467be2f0f3b8",
    "pkgpath": "./trashman/config/defaultgame.ini",
-   "size": 308,
+   "size": 400,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/config/defaultgame.ini"
   },
   {
@@ -10705,14 +10733,14 @@
   },
   {
    "compression": 8,
-   "hash": "03723e4b1ebe72d5636ee3de1ffeb60f942309f9",
+   "hash": "33df1c663a52f159d0338803f839fef6de2f4f7d",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_blue/bp_latex-gloves.uasset",
    "size": 20400,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_blue/bp_latex-gloves.uasset"
   },
   {
    "compression": 8,
-   "hash": "95ed1dbd702a0b28ed175b592bf41b5034069c0e",
+   "hash": "480a237adb7482477d92b334a195d2a1123bebd3",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_blue/bp_latex-gloves.uexp",
    "size": 8002,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_blue/bp_latex-gloves.uexp"
@@ -10747,17 +10775,45 @@
   },
   {
    "compression": 8,
-   "hash": "7527421fd4473ab295b9a5c942dfa6c31a243285",
+   "hash": "e8ecc1087f4c453396abf5b5108c6be7358f6dd0",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer.uasset",
-   "size": 75068,
+   "size": 55183,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer.uasset"
   },
   {
    "compression": 8,
-   "hash": "9920195f6eaa6550e97f03b6d5c8060c64fdcb37",
+   "hash": "e3261505a127633e28bf8c1415981d69a527dc7a",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer.uexp",
-   "size": 40923,
+   "size": 35797,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "e24f5960afcf96318726f8ff1aa6a0e2f1bcd299",
+   "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer2.uasset",
+   "size": 59353,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer2.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "9eb4d6e235e4049df839e304331d993032f7260b",
+   "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer2.uexp",
+   "size": 37014,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer2.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "74a4f0e23a7a017afe5869f1e767dbd2ea9f131b",
+   "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer3.uasset",
+   "size": 61485,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer3.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "9bc7d45d6234cc56544e0bb0aedfebb1a63d9c8e",
+   "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer3.uexp",
+   "size": 38231,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_controlpointer3.uexp"
   },
   {
    "compression": 8,
@@ -10831,28 +10887,28 @@
   },
   {
    "compression": 8,
-   "hash": "a79f0c6c99230dada1a0740e1fa93f2d7a541bd3",
+   "hash": "1af596123fad9a6a817e365678a63c88804c4b07",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_green/bp_pork-chop.uasset",
    "size": 20513,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_green/bp_pork-chop.uasset"
   },
   {
    "compression": 8,
-   "hash": "96e80e7a59bdd0fc3be92e3c15027c52579ced52",
+   "hash": "86056db2e7bcd10774b83a46732271a1f983c32c",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_green/bp_pork-chop.uexp",
    "size": 8050,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_green/bp_pork-chop.uexp"
   },
   {
    "compression": 8,
-   "hash": "5c44fcbfa0a6081e181f7ef4f5ff520cfab10fca",
+   "hash": "1189a9b28538b6eb5153e6a77abad9c86f159e9b",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_red/bp_battery.uasset",
    "size": 20487,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_red/bp_battery.uasset"
   },
   {
    "compression": 8,
-   "hash": "ee52b3d00ec07ac7bc37540fe5b320463bcd0fa0",
+   "hash": "b15b62f3bb6fa986768761513af8d85cc3fc7ccd",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_red/bp_battery.uexp",
    "size": 8170,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_red/bp_battery.uexp"
@@ -10873,14 +10929,14 @@
   },
   {
    "compression": 8,
-   "hash": "f582088ffd32e068b7cddc68a202cbaf54df8f2d",
+   "hash": "994c2e579f3056aba0ffc2965a397eed3befe82c",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_red/bp_light-bulb-kit.uasset",
    "size": 20557,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_red/bp_light-bulb-kit.uasset"
   },
   {
    "compression": 8,
-   "hash": "1a03ad62b540d6a31d9f9fde1bd8fc0160b522d5",
+   "hash": "e06b27d11eff2f230416246aeed0e9582f13085e",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_red/bp_light-bulb-kit.uexp",
    "size": 7990,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_red/bp_light-bulb-kit.uexp"
@@ -10999,7 +11055,7 @@
   },
   {
    "compression": 8,
-   "hash": "75ce36d0fa2904dc3a6e384a5a94f798b8fdce46",
+   "hash": "478cdcbf61f2e0c849099448154ab99ef9544d5f",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_tyellow.uasset",
    "size": 21328,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_tyellow.uasset"
@@ -11041,44 +11097,44 @@
   },
   {
    "compression": 8,
-   "hash": "42b08bcc3e4a2984b62b8a3071b2f783881e553d",
+   "hash": "9204ff3fdbaeebd67476536049d4139f74ba4394",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_beer-can.uasset",
-   "size": 20541,
+   "size": 20524,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_beer-can.uasset"
   },
   {
    "compression": 8,
-   "hash": "b4dbebbe768bfac34961a3c7936c0f7796792f18",
+   "hash": "6eb0cc4e59e9fdfc9a4ef2c540491f041f1fb322",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_beer-can.uexp",
-   "size": 8126,
+   "size": 8100,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_beer-can.uexp"
   },
   {
    "compression": 8,
-   "hash": "4a8b0f3e79155e376c52fe87e10419cf2e49cbb9",
+   "hash": "ced9a4375b27d8a99d7111795479ac976edbbf22",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_cardboard-box.uasset",
    "size": 20584,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_cardboard-box.uasset"
   },
   {
    "compression": 8,
-   "hash": "5f0eb13f79cde1787102cea5ff998f4e43d3bc27",
+   "hash": "43c89227bdaef9de1becc02ec07ee1872804afe7",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_cardboard-box.uexp",
    "size": 8054,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_cardboard-box.uexp"
   },
   {
    "compression": 8,
-   "hash": "43067c67b33119a0bb4fbb43b834e9a3e6ac4553",
+   "hash": "42f74b4e67471a2d29b64d8b05076127e2714350",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_cola-can.uasset",
-   "size": 20543,
+   "size": 20526,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_cola-can.uasset"
   },
   {
    "compression": 8,
-   "hash": "8690d3e6d1638599b6b2bf436fa31fa6aa7ae441",
+   "hash": "99134214c90388c4f555393ef81b020d4b3ae719",
    "pkgpath": "./trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_cola-can.uexp",
-   "size": 8132,
+   "size": 8106,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/control/controllerpointer/blueprints/bp_yellow/bp_cola-can.uexp"
   },
   {
@@ -11755,6 +11811,20 @@
   },
   {
    "compression": 8,
+   "hash": "5ec38431f5ea8bbbaf8d6c63e20feeecadb5428a",
+   "pkgpath": "./trashman/content/blueprint/learderboard/bp_leadeboard-level.uasset",
+   "size": 3971,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/learderboard/bp_leadeboard-level.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "4650a2cbe35808e21b2dafff3f8a2c7a7ff4d927",
+   "pkgpath": "./trashman/content/blueprint/learderboard/bp_leadeboard-level.uexp",
+   "size": 1356,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/blueprint/learderboard/bp_leadeboard-level.uexp"
+  },
+  {
+   "compression": 8,
    "hash": "efe9b1e039557ffc5cdfce4a21b164a1db95f3db",
    "pkgpath": "./trashman/content/blueprint/learderboard/bp_leadeboard-level1.uasset",
    "size": 4139,
@@ -12049,37 +12119,37 @@
   },
   {
    "compression": 8,
-   "hash": "196721ef70b89edb12e0afb3c1a2e9549a4b0e58",
+   "hash": "f520a8ca06cbdccef4249e8383f498940ea27876",
    "pkgpath": "./trashman/content/map/bin.uexp",
-   "size": 14432,
+   "size": 14688,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/bin.uexp"
   },
   {
    "compression": 8,
-   "hash": "97ce8993368663d845733402a46f35fe7f8923ee",
+   "hash": "ba5822be9ffc77d9fea4b9fd72ddb76e146bdddf",
    "pkgpath": "./trashman/content/map/bin.umap",
    "size": 18930,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/bin.umap"
   },
   {
    "compression": 8,
-   "hash": "bbfad0c49d19e36001af353b0692706aeb7c5d78",
+   "hash": "c3325db0538695fc993fa15c8f861aa5704f1cc3",
    "pkgpath": "./trashman/content/map/bin_builtdata.uasset",
-   "size": 1419,
+   "size": 1418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/bin_builtdata.uasset"
   },
   {
    "compression": 8,
-   "hash": "c8724deea07ec19e298092b94e0e8d15222054a6",
+   "hash": "c6a2b59d7024af454f99ac1d52a7dd8041db86e8",
    "pkgpath": "./trashman/content/map/bin_builtdata.ubulk",
    "size": 327696,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/bin_builtdata.ubulk"
   },
   {
    "compression": 8,
-   "hash": "c5db2c87ad24c522611060c6efc080a930178e94",
+   "hash": "0120595da3be76b689de4bac4bd765dd805be95a",
    "pkgpath": "./trashman/content/map/bin_builtdata.uexp",
-   "size": 36541,
+   "size": 37591,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/bin_builtdata.uexp"
   },
   {
@@ -12294,30 +12364,30 @@
   },
   {
    "compression": 8,
-   "hash": "d492939a9b8d01556051e0c23dfcac367beab488",
+   "hash": "41a706bdd0ab7286d96aba916f45889caa610d50",
    "pkgpath": "./trashman/content/map/file_screen/bin_total/sign/lambert2.uasset",
-   "size": 1146,
+   "size": 1178,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/bin_total/sign/lambert2.uasset"
   },
   {
    "compression": 8,
-   "hash": "f40ea7d817a0fd12f0338f938aa0900994c36556",
+   "hash": "5c1271676f37999d7166029c8fec62b39d1aa402",
    "pkgpath": "./trashman/content/map/file_screen/bin_total/sign/lambert2.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/bin_total/sign/lambert2.uexp"
   },
   {
    "compression": 8,
-   "hash": "69779dd2b63b483e2806f773f22570d5dc998739",
+   "hash": "bab5253a04b570b79c4c802c3c32cecacc99b6c6",
    "pkgpath": "./trashman/content/map/file_screen/bin_total/sign/sign2.uasset",
-   "size": 1140,
+   "size": 1172,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/bin_total/sign/sign2.uasset"
   },
   {
    "compression": 8,
-   "hash": "36ee48cf1c1fef47a1a6eff78b4de12af2c16e9a",
+   "hash": "6cfc706c2ff298b3dfb48974d1268f0395a6c78c",
    "pkgpath": "./trashman/content/map/file_screen/bin_total/sign/sign2.uexp",
-   "size": 327090,
+   "size": 593247,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/bin_total/sign/sign2.uexp"
   },
   {
@@ -13806,14 +13876,14 @@
   },
   {
    "compression": 8,
-   "hash": "79eb41fb5277128651ad6a9038ec18aa5fe070bc",
+   "hash": "65ac26b02576e12c9810c45eb6d78b0a7778d3cd",
    "pkgpath": "./trashman/content/map/file_screen/how_to_play/background.uasset",
-   "size": 1620,
+   "size": 1630,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/how_to_play/background.uasset"
   },
   {
    "compression": 8,
-   "hash": "7c8aed9f9e2ad29907116d4b9a8f3da4ae738497",
+   "hash": "59e136bc2bb00a76ecb6124de8c720514054343f",
    "pkgpath": "./trashman/content/map/file_screen/how_to_play/background.uexp",
    "size": 597664,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/how_to_play/background.uexp"
@@ -14146,6 +14216,34 @@
    "pkgpath": "./trashman/content/map/file_screen/how_to_play/photo/home2.uexp",
    "size": 417088,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/how_to_play/photo/home2.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "5d7e6f4db499dd43f9dc7cb37841b3eef1ec05be",
+   "pkgpath": "./trashman/content/map/file_screen/how_to_play/photo/howtoplay-thai.uasset",
+   "size": 778,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/how_to_play/photo/howtoplay-thai.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "ea065748386dfa3b878869c65fd082b193c9438e",
+   "pkgpath": "./trashman/content/map/file_screen/how_to_play/photo/howtoplay-thai.uexp",
+   "size": 3200272,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/how_to_play/photo/howtoplay-thai.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "e7d0023ac0a107b8bf9c3cbc34d66631998ba142",
+   "pkgpath": "./trashman/content/map/file_screen/how_to_play/photo/howtoplay-thai2.uasset",
+   "size": 780,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/how_to_play/photo/howtoplay-thai2.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "f61d0aaaf4e0b19f30f201aca97172c53844b000",
+   "pkgpath": "./trashman/content/map/file_screen/how_to_play/photo/howtoplay-thai2.uexp",
+   "size": 3200272,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/how_to_play/photo/howtoplay-thai2.uexp"
   },
   {
    "compression": 8,
@@ -14534,17 +14632,17 @@
   },
   {
    "compression": 8,
-   "hash": "00369ff47f39728c3cfadd78c9b110ea8f3861bc",
-   "pkgpath": "./trashman/content/map/file_screen/leaderboard/level1/level_1.uasset",
-   "size": 761,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/leaderboard/level1/level_1.uasset"
+   "hash": "9c6c28d325fb1650c561aa9ffa5fcd47de2c5e9a",
+   "pkgpath": "./trashman/content/map/file_screen/leaderboard/level1/level1.uasset",
+   "size": 763,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/leaderboard/level1/level1.uasset"
   },
   {
    "compression": 8,
-   "hash": "e74faed612d0fcf723d7e7abe5b3587a8ec2263d",
-   "pkgpath": "./trashman/content/map/file_screen/leaderboard/level1/level_1.uexp",
+   "hash": "fc044fce099d5315ce77709408918fc457e29f16",
+   "pkgpath": "./trashman/content/map/file_screen/leaderboard/level1/level1.uexp",
    "size": 3200272,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/leaderboard/level1/level_1.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/leaderboard/level1/level1.uexp"
   },
   {
    "compression": 8,
@@ -15150,14 +15248,14 @@
   },
   {
    "compression": 8,
-   "hash": "4e9909eab8a8268732be87f2edf7b56a615cc224",
+   "hash": "f1b8cb78229aee210d0c8abb60f77c29e24d5697",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/have/bluebin_have.uasset",
-   "size": 3116,
+   "size": 3125,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/have/bluebin_have.uasset"
   },
   {
    "compression": 8,
-   "hash": "e7f2404797b9499fe442fc0d819566113255b53a",
+   "hash": "235652a5fb58eae37d224ed6df265a30ed6e8172",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/have/bluebin_have.uexp",
    "size": 8546047,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/have/bluebin_have.uexp"
@@ -15262,86 +15360,86 @@
   },
   {
    "compression": 8,
-   "hash": "84c243a44a7e375749524b256643e20f7c1e349a",
+   "hash": "1db4a96011233f0ab0ffab9dc7a987dd0bb10dff",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/green_bin.uasset",
-   "size": 1160,
+   "size": 1192,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/green_bin.uasset"
   },
   {
    "compression": 8,
-   "hash": "abfaf63c894d70030cc6f5ec950dec58779fe7e8",
+   "hash": "b23ba6ed1d5c05d1dd7337b5475838de3b99d40a",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/green_bin.uexp",
-   "size": 327218,
+   "size": 593475,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/green_bin.uexp"
   },
   {
    "compression": 8,
-   "hash": "73bcfe4c92788ab51676be1a2efb432d7530c049",
+   "hash": "b3f20e5ae8386fa1ee5add0eaa396ba9e62634f3",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/lambert1.uasset",
-   "size": 1158,
+   "size": 1190,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/lambert1.uasset"
   },
   {
    "compression": 8,
-   "hash": "033fd57c893d6a81a57204b351e1d8245855d83c",
+   "hash": "85d433f1043a93be1f7d1eb54ae89a60af2ad023",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/lambert1.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/lambert1.uexp"
   },
   {
    "compression": 8,
-   "hash": "bc5fed5c8c2fe6400fdb5780fc7fcacb64228e23",
+   "hash": "8a7dc63a2de8b76fadea4dbf4ecc019699baa411",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/lambert2.uasset",
-   "size": 1158,
+   "size": 1190,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/lambert2.uasset"
   },
   {
    "compression": 8,
-   "hash": "3f220cc00171edfc03051f450085578a7d8a0bdb",
+   "hash": "47d4ee8a899ae0c39d8749cda53d50c48ade4a13",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/lambert2.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/lambert2.uexp"
   },
   {
    "compression": 8,
-   "hash": "e17f3e5d181e6531d6272bc6bdde00ce398416cb",
+   "hash": "6e2b57442c0c1f6d6bab58d8bf489e5af2778b0a",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/pasted__lambert2.uasset",
-   "size": 1174,
+   "size": 1206,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/pasted__lambert2.uasset"
   },
   {
    "compression": 8,
-   "hash": "c0acf39feb5a45a1ce9558ec9932606b15c1ec16",
+   "hash": "c6b52c5aed3ef1cb3019b4c163d2df92dd100b04",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/pasted__lambert2.uexp",
-   "size": 327442,
+   "size": 593874,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/pasted__lambert2.uexp"
   },
   {
    "compression": 8,
-   "hash": "2950fc9d6beb73cb3979f5513ee3f27f23ae2390",
+   "hash": "bc71a3053b9230f589445a0cb6b1622b2dff16bb",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/phonge1.uasset",
-   "size": 1156,
+   "size": 1188,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/phonge1.uasset"
   },
   {
    "compression": 8,
-   "hash": "88ffa8c8627adee6f261a8e7200bfff40977d0ab",
+   "hash": "0ecb8ce471cf4b1497402041b159606b302ef39a",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/phonge1.uexp",
-   "size": 327154,
+   "size": 593361,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/phonge1.uexp"
   },
   {
    "compression": 8,
-   "hash": "7e728c47c219f64e91d0c58c3b0f6e7d2d235a92",
+   "hash": "7f77c302151fa842859ee3a3502e94b1da4445d3",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/typeblinn.uasset",
-   "size": 1160,
+   "size": 1192,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/typeblinn.uasset"
   },
   {
    "compression": 8,
-   "hash": "e213f5dfc86198309b4b34592e33bcf69991c77a",
+   "hash": "f8ae82c0da3007a09e3193a0ef1335a13390ca7c",
    "pkgpath": "./trashman/content/map/file_screen/new_bin_total/blue/nothave/typeblinn.uexp",
-   "size": 327218,
+   "size": 593475,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/file_screen/new_bin_total/blue/nothave/typeblinn.uexp"
   },
   {
@@ -16396,72 +16494,72 @@
   },
   {
    "compression": 8,
-   "hash": "e3a9b59c46690c1012639de62c5bb1c8fc5e2a08",
+   "hash": "956459ea5f6b70a0ca2537a9a0a006ccbade9ec1",
    "pkgpath": "./trashman/content/map/home.uexp",
-   "size": 11886,
+   "size": 11991,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/home.uexp"
   },
   {
    "compression": 8,
-   "hash": "40df6dfec75298494fd9dfa0da67531fff2959a2",
+   "hash": "61af160f00557d74aa7722cd130a1c52593ecae6",
    "pkgpath": "./trashman/content/map/home.umap",
    "size": 15782,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/home.umap"
   },
   {
    "compression": 8,
-   "hash": "683d1be34f076f2eb04080395e84303fa5179bb7",
+   "hash": "cfe6ba686b2390991a9539f7456f84d4b88f60e6",
    "pkgpath": "./trashman/content/map/home_builtdata.uasset",
-   "size": 1421,
+   "size": 1420,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/home_builtdata.uasset"
   },
   {
    "compression": 8,
-   "hash": "ca58ee23f56275c88a9e3760005d94c4516bd183",
+   "hash": "8e148e51b11ade22f05d805f23b67b581531ecfb",
    "pkgpath": "./trashman/content/map/home_builtdata.ubulk",
    "size": 327696,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/home_builtdata.ubulk"
   },
   {
    "compression": 8,
-   "hash": "051e1c7f14c90a94441b5523c7d14480182494af",
+   "hash": "753a4c06a93b8652909a1e87b4ef14d8197c9c82",
    "pkgpath": "./trashman/content/map/home_builtdata.uexp",
-   "size": 34693,
+   "size": 35001,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/home_builtdata.uexp"
   },
   {
    "compression": 8,
-   "hash": "f73aaae87b0180341002d066d25b26dfb3062abc",
+   "hash": "c908cf863b3b90cc740296eb1a89daef358e1b08",
    "pkgpath": "./trashman/content/map/howtoplay.uexp",
-   "size": 12109,
+   "size": 12156,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/howtoplay.uexp"
   },
   {
    "compression": 8,
-   "hash": "3f0e56b06f7b02f22ee30b08c3d509b97e7eccf2",
+   "hash": "e5d8ef94e579ce20d61293d1d8065c47d908682d",
    "pkgpath": "./trashman/content/map/howtoplay.umap",
    "size": 16032,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/howtoplay.umap"
   },
   {
    "compression": 8,
-   "hash": "d8b3d2bdf6c7858bc7777bf59146972c92dcea08",
+   "hash": "7ae9b6dca59737f9a08adcc71f19e210496be954",
    "pkgpath": "./trashman/content/map/howtoplay_builtdata.uasset",
-   "size": 1431,
+   "size": 1430,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/howtoplay_builtdata.uasset"
   },
   {
    "compression": 8,
-   "hash": "ef867708cd486033152915195f6df2defa32d951",
+   "hash": "9e02e32d0ec9b7dd8c901a470ca13ed9e6dbe0e9",
    "pkgpath": "./trashman/content/map/howtoplay_builtdata.ubulk",
    "size": 327696,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/howtoplay_builtdata.ubulk"
   },
   {
    "compression": 8,
-   "hash": "dc47cc06c6d392fc53c08923579ce44ee5e3764d",
+   "hash": "506010f8979c7814a92d493c8fff96043b3f3ef3",
    "pkgpath": "./trashman/content/map/howtoplay_builtdata.uexp",
-   "size": 34693,
+   "size": 35001,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/howtoplay_builtdata.uexp"
   },
   {
@@ -16536,149 +16634,212 @@
   },
   {
    "compression": 8,
-   "hash": "561d644aad1f4f942858d446c5416f1e95f8668d",
+   "hash": "3a1e92e23ca8d6645321e051dc99239f76e91125",
    "pkgpath": "./trashman/content/map/leaderboard_level1.uexp",
-   "size": 13377,
+   "size": 13670,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level1.uexp"
   },
   {
    "compression": 8,
-   "hash": "2cfdb8f4840b48fdc9ed7a9180bb1dcee950e978",
+   "hash": "25037e427a470fb88ed4bdc42dfd49ed58757253",
    "pkgpath": "./trashman/content/map/leaderboard_level1.umap",
-   "size": 16893,
+   "size": 17104,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level1.umap"
   },
   {
    "compression": 8,
-   "hash": "7fcc71a91d127f7401a04886b1ba53bbfd4afe1d",
+   "hash": "2509f65cd3d30a894ebb677a5f322f1e90259320",
+   "pkgpath": "./trashman/content/map/leaderboard_level1_builtdata.uasset",
+   "size": 1448,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level1_builtdata.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "b4f384e3f6b21b118cc02b2e7fb2ce10b28e4ad0",
+   "pkgpath": "./trashman/content/map/leaderboard_level1_builtdata.ubulk",
+   "size": 327696,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level1_builtdata.ubulk"
+  },
+  {
+   "compression": 8,
+   "hash": "17de9d00890cacc1d5397faaff0e17a38a502950",
+   "pkgpath": "./trashman/content/map/leaderboard_level1_builtdata.uexp",
+   "size": 35747,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level1_builtdata.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "de695c420811c1ed594fc552d470b14051a9d506",
    "pkgpath": "./trashman/content/map/leaderboard_level2.uexp",
-   "size": 13377,
+   "size": 13670,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level2.uexp"
   },
   {
    "compression": 8,
-   "hash": "59f7343247e441a8e075036495bc3bbdae1b24b9",
+   "hash": "841d6e9645064bb6a2b76b0b370627a0c0d251a4",
    "pkgpath": "./trashman/content/map/leaderboard_level2.umap",
-   "size": 16869,
+   "size": 17084,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level2.umap"
   },
   {
    "compression": 8,
-   "hash": "c7a3530850e4dce6cb7bbdebbcc2060dc39164ee",
+   "hash": "822d7f58974b5bb9d4adab664347bedeb3368be0",
+   "pkgpath": "./trashman/content/map/leaderboard_level2_builtdata.uasset",
+   "size": 1448,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level2_builtdata.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "863bca74da28aac6eea42b6958e9dbaaeac24d1f",
+   "pkgpath": "./trashman/content/map/leaderboard_level2_builtdata.ubulk",
+   "size": 327696,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level2_builtdata.ubulk"
+  },
+  {
+   "compression": 8,
+   "hash": "f595ab03ed5226343d7d3ae0075587c35b42663a",
+   "pkgpath": "./trashman/content/map/leaderboard_level2_builtdata.uexp",
+   "size": 35747,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level2_builtdata.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "9ecfc189522e6c87fc98c3519e647d76b7314e7e",
    "pkgpath": "./trashman/content/map/leaderboard_level3.uexp",
-   "size": 13737,
+   "size": 14030,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level3.uexp"
   },
   {
    "compression": 8,
-   "hash": "b868a73e70b3b17378ba4592ca11db483e46a084",
+   "hash": "4a08751d532739c082fa4eb3b22df26325210fb2",
    "pkgpath": "./trashman/content/map/leaderboard_level3.umap",
-   "size": 17428,
+   "size": 17643,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level3.umap"
   },
   {
    "compression": 8,
-   "hash": "f382d69a17915005260f43b930bdf97b08ab9e6a",
+   "hash": "309cab3e458308bfc65cf09ad951f582bf1d76d8",
+   "pkgpath": "./trashman/content/map/leaderboard_level3_builtdata.uasset",
+   "size": 1448,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level3_builtdata.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "5c1e17f6e773c01cfc479c3d8e2139cf3878c391",
+   "pkgpath": "./trashman/content/map/leaderboard_level3_builtdata.ubulk",
+   "size": 327696,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level3_builtdata.ubulk"
+  },
+  {
+   "compression": 8,
+   "hash": "643a0e1fcc7938ef504f0136d5946da17a9f42d7",
+   "pkgpath": "./trashman/content/map/leaderboard_level3_builtdata.uexp",
+   "size": 35747,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/leaderboard_level3_builtdata.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "7c6dae8449d6d7af7a850e7786fe6a38200637b9",
    "pkgpath": "./trashman/content/map/level1.uexp",
-   "size": 38259,
+   "size": 38566,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level1.uexp"
   },
   {
    "compression": 8,
-   "hash": "af4e0f72b8c6ed3710ba7507dbbb9e4a6cf1db64",
+   "hash": "0a1630529bc559786fcf4b8e288eaa7555ffffc6",
    "pkgpath": "./trashman/content/map/level1.umap",
-   "size": 36658,
+   "size": 36696,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level1.umap"
   },
   {
    "compression": 8,
-   "hash": "9384c988db1b962fea66a5c5750d48487efbdb13",
+   "hash": "44edd2fd3c5506aba50b2a8420b8f4e306d4229c",
    "pkgpath": "./trashman/content/map/level1_builtdata.uasset",
-   "size": 1425,
+   "size": 1424,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level1_builtdata.uasset"
   },
   {
    "compression": 8,
-   "hash": "a2786d6c55cf6cdc3a2ed744d97f4bf1fe313fef",
+   "hash": "e998ecfb3148b132453ab783db3168d06925c602",
    "pkgpath": "./trashman/content/map/level1_builtdata.ubulk",
    "size": 971680,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level1_builtdata.ubulk"
   },
   {
    "compression": 8,
-   "hash": "dba7d60f77921482298ab430dafb7fde08981e8f",
+   "hash": "997225bcd4bea2d99c2c9810be46aac2c8314c92",
    "pkgpath": "./trashman/content/map/level1_builtdata.uexp",
    "size": 34633,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level1_builtdata.uexp"
   },
   {
    "compression": 8,
-   "hash": "21a16c84f257e9bf28b36ca77df2d6f346d64849",
+   "hash": "fcf1d91cab67db2b3ceca768d38da57d1b16c473",
    "pkgpath": "./trashman/content/map/level2.uexp",
-   "size": 49557,
+   "size": 49499,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level2.uexp"
   },
   {
    "compression": 8,
-   "hash": "72ef7b8c1d76741f6da85e42192b4941f6ae49d2",
+   "hash": "9f2aacfa166f612f995c73bc0b4a341f7dc276a1",
    "pkgpath": "./trashman/content/map/level2.umap",
-   "size": 43645,
+   "size": 43649,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level2.umap"
   },
   {
    "compression": 8,
-   "hash": "1cdcf8da578e03e0a5765c3f527b56031b5e0bca",
+   "hash": "632ac4e1a7a3194a9e892553bafc1b5e5856026b",
    "pkgpath": "./trashman/content/map/level2_builtdata.uasset",
-   "size": 1425,
+   "size": 1424,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level2_builtdata.uasset"
   },
   {
    "compression": 8,
-   "hash": "a8613fe780de93e11b32d0037522dcc90d583ea5",
+   "hash": "4629431f0fdcb632de420bfd9ccfd3034c50a9a4",
    "pkgpath": "./trashman/content/map/level2_builtdata.ubulk",
    "size": 327696,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level2_builtdata.ubulk"
   },
   {
    "compression": 8,
-   "hash": "6b478f9b436bc1d13e3be748da54371a9cc1ef6d",
+   "hash": "6a578e281628f7bf1b3db0ffcd47fe868aabdea8",
    "pkgpath": "./trashman/content/map/level2_builtdata.uexp",
    "size": 55323,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level2_builtdata.uexp"
   },
   {
    "compression": 8,
-   "hash": "9929d1d9e5f233a355d3c20d1f71e5600903bc73",
+   "hash": "84b04507e1c032cf06b1523390af289d4d18df28",
    "pkgpath": "./trashman/content/map/level3.uexp",
-   "size": 61039,
+   "size": 62089,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level3.uexp"
   },
   {
    "compression": 8,
-   "hash": "f9b0d94d2f2ad8e9dfc1c44f1ee004cf2fdbb4d8",
+   "hash": "3b3ddbbc5eb543f6091d1bedffeec7e8023613fe",
    "pkgpath": "./trashman/content/map/level3.umap",
-   "size": 51506,
+   "size": 51895,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level3.umap"
   },
   {
    "compression": 8,
-   "hash": "884fe59e079176c0ab48d5ab89849cd3ceb9a91c",
+   "hash": "513a52494bd8f5cd374fbd223b7a7cb95ba291c4",
    "pkgpath": "./trashman/content/map/level3_builtdata.uasset",
-   "size": 1425,
+   "size": 1424,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level3_builtdata.uasset"
   },
   {
    "compression": 8,
-   "hash": "8a837c1824ea55beaaa0f9288f8f0307a074088c",
+   "hash": "4f6ae1e056a0bac1ae8bcd249700fcec83f4dd69",
    "pkgpath": "./trashman/content/map/level3_builtdata.ubulk",
    "size": 327696,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level3_builtdata.ubulk"
   },
   {
    "compression": 8,
-   "hash": "c5bafbee3a61c315e1bcd9c91dbe31a0eb408e1c",
+   "hash": "84478c081b74a57ca515ecd995766784ec3927ab",
    "pkgpath": "./trashman/content/map/level3_builtdata.uexp",
-   "size": 35075,
+   "size": 55323,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/level3_builtdata.uexp"
   },
   {
@@ -16690,7 +16851,7 @@
   },
   {
    "compression": 8,
-   "hash": "8c5757e446184fbce315158b08d32e77809c0730",
+   "hash": "a0ff1f07cebccbec7031a1da3d14cc8bc863c040",
    "pkgpath": "./trashman/content/map/scanworld.umap",
    "size": 9977,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/scanworld.umap"
@@ -16963,17 +17124,38 @@
   },
   {
    "compression": 8,
-   "hash": "fd06c6014c27dfafea9c9e75762d3197ff202bae",
+   "hash": "f374cb895c47792dce109644368d69cfe2183b4e",
    "pkgpath": "./trashman/content/map/summary.uexp",
-   "size": 16462,
+   "size": 16802,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/summary.uexp"
   },
   {
    "compression": 8,
-   "hash": "01be7a051b9a72eda8618a28b20e90e28a852c37",
+   "hash": "edeee14bfb486b96729466cb3c60679c15158f18",
    "pkgpath": "./trashman/content/map/summary.umap",
-   "size": 18819,
+   "size": 19012,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/summary.umap"
+  },
+  {
+   "compression": 8,
+   "hash": "5aee280402886104ed5335f460e6dc065500a85d",
+   "pkgpath": "./trashman/content/map/summary_builtdata.uasset",
+   "size": 1426,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/summary_builtdata.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "5c2fa092120d4eb27b1c3142a429e9843cf1e0df",
+   "pkgpath": "./trashman/content/map/summary_builtdata.ubulk",
+   "size": 327696,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/summary_builtdata.ubulk"
+  },
+  {
+   "compression": 8,
+   "hash": "3784f61ccc3400261be2c40f1f892766d5ad94c6",
+   "pkgpath": "./trashman/content/map/summary_builtdata.uexp",
+   "size": 35925,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/summary_builtdata.uexp"
   },
   {
    "compression": 8,
@@ -17019,100 +17201,100 @@
   },
   {
    "compression": 8,
-   "hash": "a20123732f9bceac348f595c2af009ef5a1f8701",
+   "hash": "4da5c54f8a4074261327f8e5cf3c37c7e688cad1",
    "pkgpath": "./trashman/content/map/widget/level1/end_level1.uasset",
-   "size": 27270,
+   "size": 29402,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/level1/end_level1.uasset"
   },
   {
    "compression": 8,
-   "hash": "346589ec2d296ecadd00c13c1d971dd56fdbbc76",
+   "hash": "0ec8581d4f768b41ed244fdd1595719245801d29",
    "pkgpath": "./trashman/content/map/widget/level1/end_level1.uexp",
-   "size": 24263,
+   "size": 26093,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/level1/end_level1.uexp"
   },
   {
    "compression": 8,
-   "hash": "337774222873cddc6cf77d4ee2ce41d8e89db2a3",
+   "hash": "f3ccdec40a0a19c64398e1edb6ba0edb6f4265ad",
    "pkgpath": "./trashman/content/map/widget/level2/end_level2.uasset",
-   "size": 27271,
+   "size": 32066,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/level2/end_level2.uasset"
   },
   {
    "compression": 8,
-   "hash": "56d507d1e32fc756e16b11c246273e280666a371",
+   "hash": "b82b788eae7e65f59a9592a6e1e5d9b6e0c9cb0c",
    "pkgpath": "./trashman/content/map/widget/level2/end_level2.uexp",
-   "size": 24253,
+   "size": 27673,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/level2/end_level2.uexp"
   },
   {
    "compression": 8,
-   "hash": "7d71ebac1f973c07f10fb2767dfffdec1feba6ef",
+   "hash": "281903c6c11aab6156203723efb2e9e365cb6169",
    "pkgpath": "./trashman/content/map/widget/level3/end_level3.uasset",
-   "size": 27271,
+   "size": 35566,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/level3/end_level3.uasset"
   },
   {
    "compression": 8,
-   "hash": "bb7da9d13e2b83e069771457f9a1063d3be868d8",
+   "hash": "6256b77a90e6b139a2d58b3f502dbd7442ebb0ca",
    "pkgpath": "./trashman/content/map/widget/level3/end_level3.uexp",
-   "size": 24253,
+   "size": 29650,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/level3/end_level3.uexp"
   },
   {
    "compression": 8,
-   "hash": "2cbb173dd03c608e20ef11284ec51f67a7943072",
+   "hash": "24085350cfe94dbe50be3eb81617e2c5848c815e",
    "pkgpath": "./trashman/content/map/widget/summary/sign-home.uasset",
-   "size": 6270,
+   "size": 15136,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/summary/sign-home.uasset"
   },
   {
    "compression": 8,
-   "hash": "0c2415fe5966570707d3a11818d36503d47def31",
+   "hash": "7de4ca6d63a93455c0c21d6bf007fd2986896123",
    "pkgpath": "./trashman/content/map/widget/summary/sign-home.uexp",
-   "size": 3718,
+   "size": 7549,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/summary/sign-home.uexp"
   },
   {
    "compression": 8,
-   "hash": "8d50269dddbcbb5301a972abfc7acb5fdfe84d76",
+   "hash": "85f2221c4264d5e705807baad71468be7dfd9b18",
    "pkgpath": "./trashman/content/map/widget/summary/summary_level1.uasset",
-   "size": 21427,
+   "size": 21095,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/summary/summary_level1.uasset"
   },
   {
    "compression": 8,
-   "hash": "d72116e47559b727d19a76cf1ca13c3fca51e698",
+   "hash": "52f14973dc02773c3e7d260127e7a9a481a127d5",
    "pkgpath": "./trashman/content/map/widget/summary/summary_level1.uexp",
-   "size": 24387,
+   "size": 24340,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/summary/summary_level1.uexp"
   },
   {
    "compression": 8,
-   "hash": "fd6625296e9ddef7cc1a4bbdaa95d5289145d92b",
+   "hash": "3586fc625d043ab200ff99bc6f6ff97b26b4c310",
    "pkgpath": "./trashman/content/map/widget/summary/summary_level2.uasset",
-   "size": 28236,
+   "size": 27852,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/summary/summary_level2.uasset"
   },
   {
    "compression": 8,
-   "hash": "c371eb52a2612bf5e8c546ad5dc54957f512c1c6",
+   "hash": "620d3008acf65dcdc74ddcacb0dd20eda866a2f6",
    "pkgpath": "./trashman/content/map/widget/summary/summary_level2.uexp",
-   "size": 38799,
+   "size": 38753,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/summary/summary_level2.uexp"
   },
   {
    "compression": 8,
-   "hash": "fac33dabeee5cafb53c084a6b5dfb24a307e8691",
+   "hash": "66ebc2d46dfb1e8a0c1688019d9c3c1fd88f41a0",
    "pkgpath": "./trashman/content/map/widget/summary/summary_level3.uasset",
-   "size": 41076,
+   "size": 40409,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/summary/summary_level3.uasset"
   },
   {
    "compression": 8,
-   "hash": "eafacea0ec14c75b8d6a3c8f03da9028e51d258e",
+   "hash": "9874bc134611220116a53d550a6314cd0a9e4b95",
    "pkgpath": "./trashman/content/map/widget/summary/summary_level3.uexp",
-   "size": 63634,
+   "size": 63511,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/map/widget/summary/summary_level3.uexp"
   },
   {
@@ -17271,30 +17453,30 @@
   },
   {
    "compression": 8,
-   "hash": "3f18a8986b22b530b3f61d4d976edb251c42552e",
+   "hash": "c54f2beee17e3eb33843019ade9d002c3e58c213",
    "pkgpath": "./trashman/content/model/home_screen/blinn1.uasset",
-   "size": 1129,
+   "size": 1161,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/home_screen/blinn1.uasset"
   },
   {
    "compression": 8,
-   "hash": "de744b868ba96b088f5d3018be6d6cd6b60e0c80",
+   "hash": "3f85e699716ac1bbcf871cd6f3a70d904d6b5369",
    "pkgpath": "./trashman/content/model/home_screen/blinn1.uexp",
-   "size": 327122,
+   "size": 593304,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/home_screen/blinn1.uexp"
   },
   {
    "compression": 8,
-   "hash": "76cfe0242adcc09698370784217c545b7e1999a0",
+   "hash": "c39c7de665eee7920daa4c10fafff4325b1ccb62",
    "pkgpath": "./trashman/content/model/home_screen/blinn4.uasset",
-   "size": 1129,
+   "size": 1161,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/home_screen/blinn4.uasset"
   },
   {
    "compression": 8,
-   "hash": "09549d51e96d83f7949bcec68db89892ed8aff0c",
+   "hash": "f7bd9a9fc2ae084921a35961992562f4ad439a28",
    "pkgpath": "./trashman/content/model/home_screen/blinn4.uexp",
-   "size": 327122,
+   "size": 593304,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/home_screen/blinn4.uexp"
   },
   {
@@ -26994,9 +27176,9 @@
   },
   {
    "compression": 8,
-   "hash": "1c6d98455f4d4faffdf0b501a6fb3ad4e238a9d0",
+   "hash": "9e8067b26aed2eb164ff2872639adecd5c5442cd",
    "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/leaderboard_widget1.uasset",
-   "size": 53542,
+   "size": 53544,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/leaderboard_widget1.uasset"
   },
   {
@@ -27033,6 +27215,90 @@
    "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/level_1.uexp",
    "size": 3200272,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/level_1.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "bfb0bf186ab28167c2389db2163d6fcc09400801",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/lambert17.uasset",
+   "size": 1160,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/lambert17.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "877a5e53de1f957f5601496be57bad1315dffd54",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/lambert17.uexp",
+   "size": 327218,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/lambert17.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "4d38ed3028959756a4ef7289de5734ff39e0c195",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/leaderboard_widget.uasset",
+   "size": 53654,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/leaderboard_widget.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "3887f5f0baa9024d5419bd0d9e1e23a693a1a076",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/leaderboard_widget.uexp",
+   "size": 92090,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/leaderboard_widget.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "d53eda3157dff8496ade11d9be46655417021e11",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/level1-model.uasset",
+   "size": 2545,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/level1-model.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "4989b4d52324f5e857b47bf548c881c6ca848bae",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/level1-model.uexp",
+   "size": 14908,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/level1-model.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "00993450ebe9275d664253bf8f79c007cc7e58f5",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/level1.uasset",
+   "size": 1265,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/level1.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "34a029af3ce7aca3f21a540c6efbb952353c30bc",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/level1.uexp",
+   "size": 329517,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/level1.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "d0d5ce5d753ff43667fb685fc2c783d2eefe0924",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/level_1-2.uasset",
+   "size": 777,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/level_1-2.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "70a5aafe27e29f03c7f1983a15ea765d4fa3117a",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/level_1-2.uexp",
+   "size": 3200272,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/level_1-2.uexp"
+  },
+  {
+   "compression": 8,
+   "hash": "45fa92b5539879d6ff24dec067f01589753b21a5",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/level_1.uasset",
+   "size": 769,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/level_1.uasset"
+  },
+  {
+   "compression": 8,
+   "hash": "39e7cacbb45a86d3f67175eda6e730223659d2c7",
+   "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level1/model/level_1.uexp",
+   "size": 3200272,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level1/model/level_1.uexp"
   },
   {
    "compression": 8,
@@ -27078,16 +27344,16 @@
   },
   {
    "compression": 8,
-   "hash": "809458b9fe7e5a5d46d60eb481bab88abde36564",
+   "hash": "fe7d2ee31f366eaa7f9281e99be3bd373d1730f1",
    "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level2/leaderboard_widget2.uasset",
-   "size": 87949,
+   "size": 87904,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level2/leaderboard_widget2.uasset"
   },
   {
    "compression": 8,
-   "hash": "f5b0884b0e25cd21023379ec2a9c4595e53f405b",
+   "hash": "fbb92fe4b7279e609f43321c6e900deedbfe0b55",
    "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level2/leaderboard_widget2.uexp",
-   "size": 167144,
+   "size": 167366,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level2/leaderboard_widget2.uexp"
   },
   {
@@ -27134,16 +27400,16 @@
   },
   {
    "compression": 8,
-   "hash": "e36665f2c93a466b78d0ac008029fbb7943672af",
+   "hash": "0dd0e9c474ffee3cd46398dc6b9cfc3bc4e8163d",
    "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level3/lambert21.uasset",
-   "size": 1154,
+   "size": 1186,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level3/lambert21.uasset"
   },
   {
    "compression": 8,
-   "hash": "e279abf52519b81256ecb0ef841d3b69a1422d94",
+   "hash": "ef53fe54e58aad6c36f469cf60341815c2bb78a6",
    "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level3/lambert21.uexp",
-   "size": 327218,
+   "size": 593475,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level3/lambert21.uexp"
   },
   {
@@ -27162,16 +27428,16 @@
   },
   {
    "compression": 8,
-   "hash": "6f902ff9034f23f2af3d4ec22405fdbf8c0a30dc",
+   "hash": "448d4f1397a5b5fef3e466c7bee2bf0226922ad0",
    "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level3/leaderboard_widget3.uasset",
    "size": 130422,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level3/leaderboard_widget3.uasset"
   },
   {
    "compression": 8,
-   "hash": "7adcb9f9bea934f149da8f1bf536ae453f764e09",
+   "hash": "20e5686963b0b11ebeeb9e8c3c0531d2605983da",
    "pkgpath": "./trashman/content/model/leaderboard/leaderboard_level3/leaderboard_widget3.uexp",
-   "size": 262906,
+   "size": 263206,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/leaderboard/leaderboard_level3/leaderboard_widget3.uexp"
   },
   {
@@ -27309,16 +27575,16 @@
   },
   {
    "compression": 8,
-   "hash": "e6dd776f95f9b8b56556500677778cd6197831b5",
+   "hash": "777c21123d3bfdcda16074489b0817f39136637b",
    "pkgpath": "./trashman/content/model/level1/base-sign/lambert2.uasset",
-   "size": 1138,
+   "size": 1170,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level1/base-sign/lambert2.uasset"
   },
   {
    "compression": 8,
-   "hash": "673b31c70382af43e15a099479ccdc2e6f79718e",
+   "hash": "4754f49efcd79960da7e55fd55106ebae1b3f89b",
    "pkgpath": "./trashman/content/model/level1/base-sign/lambert2.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level1/base-sign/lambert2.uexp"
   },
   {
@@ -28464,16 +28730,16 @@
   },
   {
    "compression": 8,
-   "hash": "546cbc943e70e7bf04ce1656144410ad2a719001",
+   "hash": "e1fe0a8b5261a48f8682d2ef170a0add89eb7925",
    "pkgpath": "./trashman/content/model/level2/base-sign/lambert2.uasset",
-   "size": 1138,
+   "size": 1170,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level2/base-sign/lambert2.uasset"
   },
   {
    "compression": 8,
-   "hash": "c564103109d71485f26c6279d7643afba7b1f30b",
+   "hash": "7c7280f05e3d46798bb6c8c20464405f8ae7be20",
    "pkgpath": "./trashman/content/model/level2/base-sign/lambert2.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level2/base-sign/lambert2.uexp"
   },
   {
@@ -29227,1473 +29493,626 @@
   },
   {
    "compression": 8,
-   "hash": "b8352ebeae8048c6ebdd7f07234fe4153fab1ab7",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/_color_b04_1.uasset",
-   "size": 1215,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/_color_b04_1.uasset"
+   "hash": "27a41cbc59852b4a28b249e17066524d598e9e5b",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/_color_b04_1.uasset",
+   "size": 1216,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/_color_b04_1.uasset"
   },
   {
    "compression": 8,
-   "hash": "48abdf917896b31b584ae85989796860e07e0361",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/_color_b04_1.uexp",
+   "hash": "2acdb301b20c837651f408c960ed8ec69d8a7262",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/_color_b04_1.uexp",
    "size": 597603,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/_color_b04_1.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/_color_b04_1.uexp"
   },
   {
    "compression": 8,
-   "hash": "b3a6a49e8af26befbc1cc46c6b3ec874e039da82",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/_color_b04_2.uasset",
-   "size": 774,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/_color_b04_2.uasset"
+   "hash": "2bb0e15841d96ba76cf93563fcfc31749cfac072",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/_color_b04_2.uasset",
+   "size": 775,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/_color_b04_2.uasset"
   },
   {
    "compression": 8,
-   "hash": "8e5ee2cc8eefe21f72381f4a6461abe53c42233c",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/_color_b04_2.uexp",
+   "hash": "f8b7a6386bf364db2da4bfc890422c1ea725ce6f",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/_color_b04_2.uexp",
    "size": 2560272,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/_color_b04_2.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/_color_b04_2.uexp"
   },
   {
    "compression": 8,
-   "hash": "54fa1f933ebc137375b856bb1a600a0ed62b3008",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/_color_m00_1.uasset",
-   "size": 1189,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/_color_m00_1.uasset"
+   "hash": "3cad22ffcdf7048503f56b7e3c91a6f30167d0d2",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_a04.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_a04.uasset"
   },
   {
    "compression": 8,
-   "hash": "3328233365fa5be9f472e586a6e4724c329dbb7e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/_color_m00_1.uexp",
-   "size": 593646,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/_color_m00_1.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "a816a3c3a08591a00e1b8afd5d62bb20b9f694dc",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/_color_m09_1.uasset",
-   "size": 1148,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/_color_m09_1.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "9b9052aadc9c43cf13525f4b081b4ad3ae4ed780",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/_color_m09_1.uexp",
-   "size": 593581,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/_color_m09_1.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "930afb7f0aa0d5015c1bcc94ccef08a941976c22",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/chimi_burger_inside__1_.uasset",
-   "size": 1347,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/chimi_burger_inside__1_.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "35239baf12cc324a21461c707d0cc1a6e7ff7999",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/chimi_burger_inside__1_.uexp",
-   "size": 598230,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/chimi_burger_inside__1_.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "163f35f725d3c1dd81d11fed01f3449b1c881313",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/chimi_burger_inside__1_1.uasset",
-   "size": 798,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/chimi_burger_inside__1_1.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "98c37cba532c8241af8789a442b74e933a93fff6",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/chimi_burger_inside__1_1.uexp",
-   "size": 33660272,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/chimi_burger_inside__1_1.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "62e312e3d7e1c8e3b57415d0fe9fb5f875a70770",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/china.uasset",
-   "size": 1279,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/china.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "f7680a0ce2d3f366798c6c536bee847722e9ac1e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/china.uexp",
-   "size": 597204,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/china.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "5179308f2f4a4685b87a22f5fb82fcd8fb9057a3",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/china1.uasset",
-   "size": 766,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/china1.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "96cacdf2d438d181acb5e70186e3dddec12550d3",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/china1.uexp",
-   "size": 23356536,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/china1.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "4ec9fc32aece7d7fc465eace3e7f1ea50cfc9a86",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_a04.uasset",
-   "size": 1293,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_a04.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "1c47bcb14101a16e5efb73865838d289f6905ff4",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_a04.uexp",
+   "hash": "29dceda5a5cba056cf933d1eef36c3217fd7c69a",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_a04.uexp",
    "size": 597432,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_a04.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_a04.uexp"
   },
   {
    "compression": 8,
-   "hash": "003d86a26f210360e173f7de27869c4bb8a0bafd",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_a05.uasset",
-   "size": 772,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_a05.uasset"
+   "hash": "acd5de8be6adb590a37d6fe3a098e6a72156d7be",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_a05.uasset",
+   "size": 773,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_a05.uasset"
   },
   {
    "compression": 8,
-   "hash": "a4610695560fc70f80b4ea05d1863c9a3901a6e4",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_a05.uexp",
+   "hash": "c0b7047e067a2247e8cc0ab29114f710dee15547",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_a05.uexp",
    "size": 1704736,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_a05.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_a05.uexp"
   },
   {
    "compression": 8,
-   "hash": "3edbbd4947e87650e0c0023d3db8914b884c7fa5",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_a06.uasset",
-   "size": 1187,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_a06.uasset"
+   "hash": "eda7fbe808bbc2d2f34a4143bce3480ad12ec855",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_a08.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_a08.uasset"
   },
   {
    "compression": 8,
-   "hash": "36672bfb59c888781c218afd909c9196defb0cdf",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_a06.uexp",
-   "size": 593475,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_a06.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "4eef4c7f83257f1728261b55979492ea7766b940",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_a08.uasset",
-   "size": 1293,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_a08.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "7a5694ac8305e2298741cbd70cb6a882551eb4c7",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_a08.uexp",
+   "hash": "1a2e0067d64c91292efd97d9b13d3e912f61adaa",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_a08.uexp",
    "size": 597432,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_a08.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_a08.uexp"
   },
   {
    "compression": 8,
-   "hash": "6ba37ff7a03e6c2a2eddff5bf3c25b242739b1db",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_a09.uasset",
-   "size": 772,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_a09.uasset"
+   "hash": "793a6adbccc6e65fffe7adb79c3ec1e1fedb467f",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_a09.uasset",
+   "size": 773,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_a09.uasset"
   },
   {
    "compression": 8,
-   "hash": "7fb6524c222705a3693c37edc985d32e1d938f4b",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_a09.uexp",
+   "hash": "da272211144b0dc6050deff1e6288bb9879d0875",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_a09.uexp",
    "size": 2540752,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_a09.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_a09.uexp"
   },
   {
    "compression": 8,
-   "hash": "ed8081de3e5c329b838b1ef83e87ce7344cd98be",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_b04.uasset",
-   "size": 1478,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_b04.uasset"
+   "hash": "012470848d9ac9bb2a9afb6b697c4004b894ba78",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_b04.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_b04.uasset"
   },
   {
    "compression": 8,
-   "hash": "c0769be112e4bef8524a07fbf638c341f17660be",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_b04.uexp",
-   "size": 597617,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_b04.uexp"
+   "hash": "14aed4ee9ba1c56568aa0c743f46cad556cd753c",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_b04.uexp",
+   "size": 597432,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_b04.uexp"
   },
   {
    "compression": 8,
-   "hash": "4af718f09c12ace7f1cd5e4ca9ec969faad0f96e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_b05.uasset",
-   "size": 731,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_b05.uasset"
+   "hash": "6993406c66b9f43d3800e9f6a4f91f8d6d413a23",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_b05.uasset",
+   "size": 732,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_b05.uasset"
   },
   {
    "compression": 8,
    "hash": "9081847bde2842df954c4bc77fe01e919e1591ee",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_b05.ubulk",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_b05.ubulk",
    "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_b05.ubulk"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_b05.ubulk"
   },
   {
    "compression": 8,
-   "hash": "4997499eebe3dbc3480fe2a49f269d2afbc465ba",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_b05.uexp",
+   "hash": "8195a932cb2e3a1072e119cade68947c2a5249ee",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_b05.uexp",
    "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_b05.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_b05.uexp"
   },
   {
    "compression": 8,
-   "hash": "4c0d03cb2105124c38ed93c08c4dd4c017f03779",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_b08.uasset",
-   "size": 1478,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_b08.uasset"
+   "hash": "28c3583a8e296261d888f4f396e2be8dc5f2656d",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_b08.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_b08.uasset"
   },
   {
    "compression": 8,
-   "hash": "62b049c49105c69fef9aa85a7bc3e5ccfcd29146",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_b08.uexp",
-   "size": 597617,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_b08.uexp"
+   "hash": "0cee61f7b66a07842c0ca375d2a4c9d504d586da",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_b08.uexp",
+   "size": 597432,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_b08.uexp"
   },
   {
    "compression": 8,
-   "hash": "3cc71f0fe5deeea85d154112a9fef36929bb5bbf",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_b09.uasset",
-   "size": 731,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_b09.uasset"
+   "hash": "b19b714f0f1e063590b684d8f9fadb0ef768afac",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_b09.uasset",
+   "size": 732,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_b09.uasset"
   },
   {
    "compression": 8,
    "hash": "ef018710c04074d11100a933e69935b8dd065f38",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_b09.ubulk",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_b09.ubulk",
    "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_b09.ubulk"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_b09.ubulk"
   },
   {
    "compression": 8,
-   "hash": "e3152f3142fbde86f319fa15550475605d8d93ac",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_b09.uexp",
+   "hash": "5bdf5020877d719f053712c650ba765a8ab8a05c",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_b09.uexp",
    "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_b09.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_b09.uexp"
   },
   {
    "compression": 8,
-   "hash": "79dc0584cb990eb15225f1214c0020a35ca02c55",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_d04.uasset",
-   "size": 1478,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_d04.uasset"
+   "hash": "38e9f812a51dd79358ca90201c36adb0ccd1edec",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_d04.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_d04.uasset"
   },
   {
    "compression": 8,
-   "hash": "1ea11b05297c800df676886d2922fb897499aecd",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_d04.uexp",
-   "size": 597617,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_d04.uexp"
+   "hash": "c81a00a6b7a9f2d86e0cbb8fba19d3c2fdc62b88",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_d04.uexp",
+   "size": 597432,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_d04.uexp"
   },
   {
    "compression": 8,
-   "hash": "8d2b93621daa564c515061cc086e64f449f79499",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_d05.uasset",
-   "size": 731,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_d05.uasset"
+   "hash": "3b6b7d7315b92ee91876f10941f7868226b311ac",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_d05.uasset",
+   "size": 732,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_d05.uasset"
   },
   {
    "compression": 8,
    "hash": "ce6012030036f2a6fb30816da49ce21b4e6d1796",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_d05.ubulk",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_d05.ubulk",
    "size": 2494944,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_d05.ubulk"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_d05.ubulk"
   },
   {
    "compression": 8,
-   "hash": "3239053bc8120d767848f11d976748305f73fb24",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_d05.uexp",
+   "hash": "08adf2cf9bd5a81d65ecb5b10da8bab7870ff91b",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_d05.uexp",
    "size": 3410,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_d05.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_d05.uexp"
   },
   {
    "compression": 8,
-   "hash": "9e8f2462caaf378cfbb1d8dd9cfd09ee8c421adc",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_g05.uasset",
-   "size": 1478,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_g05.uasset"
+   "hash": "313550cbbc93e85f34bd3217379f4ea36030bb65",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_g05.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_g05.uasset"
   },
   {
    "compression": 8,
-   "hash": "f5d76fa9e503fc99dc5ed5333df334bdb44f5cf4",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_g05.uexp",
-   "size": 597617,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_g05.uexp"
+   "hash": "9e0de2f9ea0c62bce9ddb98588712968a819a0d7",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_g05.uexp",
+   "size": 597432,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_g05.uexp"
   },
   {
    "compression": 8,
-   "hash": "07bc9786de9d5a345a044afed33855374757d430",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_g06.uasset",
-   "size": 731,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_g06.uasset"
+   "hash": "d26437881adef2a12bee4cd366ae7981bb9eca96",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_g06.uasset",
+   "size": 732,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_g06.uasset"
   },
   {
    "compression": 8,
    "hash": "36140520fc7e057b72668e000bfeb339c689de36",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_g06.ubulk",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_g06.ubulk",
    "size": 2494944,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_g06.ubulk"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_g06.ubulk"
   },
   {
    "compression": 8,
-   "hash": "722db61268dfc752d4980cf38e6576699f476139",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_g06.uexp",
+   "hash": "5b9e8771f8887d0beb4078e065488d5c8480f660",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_g06.uexp",
    "size": 3410,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_g06.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_g06.uexp"
   },
   {
    "compression": 8,
-   "hash": "ef7358c95bc7ee4ff9d362827addf766c5f4b0ad",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_h05.uasset",
-   "size": 1478,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_h05.uasset"
+   "hash": "5ee0bbe36c5d4e00693ffc9acc477f9b6b68af10",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_h05.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_h05.uasset"
   },
   {
    "compression": 8,
-   "hash": "2ef907874dc0c44fb146626a86111ca2c9f71454",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_h05.uexp",
-   "size": 597617,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_h05.uexp"
+   "hash": "1193cde971661b426694d7f7c23162562c4cbbf5",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_h05.uexp",
+   "size": 597432,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_h05.uexp"
   },
   {
    "compression": 8,
-   "hash": "c6b04f6aceb17fb9914542022a682b75d18590dd",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_h06.uasset",
-   "size": 1478,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_h06.uasset"
+   "hash": "c4357e18067c33666f4b62d66afc76d932e22996",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_h06.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_h06.uasset"
   },
   {
    "compression": 8,
-   "hash": "c1659758f9867d43bbf67f56cd512f534027c8ed",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_h06.uexp",
-   "size": 597617,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_h06.uexp"
+   "hash": "6c290e219a7b3700f551eb4dbc65d9212b05ea38",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_h06.uexp",
+   "size": 597432,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_h06.uexp"
   },
   {
    "compression": 8,
-   "hash": "8112a6a6e859069e58d2f816a7664ecbeb93490e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_h07.uasset",
-   "size": 731,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_h07.uasset"
+   "hash": "59458b41362f1281e3835f7e7ca7b1b63ab842d6",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_h07.uasset",
+   "size": 732,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_h07.uasset"
   },
   {
    "compression": 8,
    "hash": "fbf25792f880912542091539713845f6f9545649",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_h07.ubulk",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_h07.ubulk",
    "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_h07.ubulk"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_h07.ubulk"
   },
   {
    "compression": 8,
-   "hash": "cc64d31aa10bc1a8c3d33d258bcd9be422049351",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_h07.uexp",
+   "hash": "8b765c33b02122c5f79ad8261f9929ef2bc29c8e",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_h07.uexp",
    "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_h07.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_h07.uexp"
   },
   {
    "compression": 8,
-   "hash": "cf5fe1bce957a81d355fa405cb112e7510c114a2",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_h08.uasset",
-   "size": 731,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_h08.uasset"
+   "hash": "fd4e021a9816d9e4036950978cc39e2d706179bf",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_h08.uasset",
+   "size": 732,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_h08.uasset"
   },
   {
    "compression": 8,
    "hash": "ff6e3cb2b0f42bc880b35acd1a5131ca742c969b",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_h08.ubulk",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_h08.ubulk",
    "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_h08.ubulk"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_h08.ubulk"
   },
   {
    "compression": 8,
-   "hash": "06d6bcf25f5fca1efd3f125066d45056dcb4f659",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_h08.uexp",
+   "hash": "a15afb42ba14b6586f939892bc64cee633e3b67c",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_h08.uexp",
    "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_h08.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_h08.uexp"
   },
   {
    "compression": 8,
-   "hash": "ae66ff222b0505262a86eb32b0bcd6cc90e81f8e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_i04.uasset",
-   "size": 1478,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_i04.uasset"
+   "hash": "a6297bb931253f358570c2ff90fccec3c2e22c49",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_i04.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_i04.uasset"
   },
   {
    "compression": 8,
-   "hash": "0e510749f6da044ac1cdb9be1ed81eba8ea02885",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_i04.uexp",
-   "size": 597617,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_i04.uexp"
+   "hash": "9ff2faa1ff034868ebb15ec04f7fbdf809ea7c1c",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_i04.uexp",
+   "size": 597432,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_i04.uexp"
   },
   {
    "compression": 8,
-   "hash": "55d53b1201e41fbbe5161754c73e241f3c80a3b7",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_i05.uasset",
-   "size": 731,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_i05.uasset"
+   "hash": "8f979fcf6a06e23b1867f1286304988078c1cd5a",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_i05.uasset",
+   "size": 732,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_i05.uasset"
   },
   {
    "compression": 8,
    "hash": "5f12febaeeb06f402d3a016694c150a348f3535a",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_i05.ubulk",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_i05.ubulk",
    "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_i05.ubulk"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_i05.ubulk"
   },
   {
    "compression": 8,
-   "hash": "979e6e706776c5b09b02da1e91ccf3b7cb81af39",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_i05.uexp",
+   "hash": "ed05c7c47d024ae16497992187dcbd1dc0192edd",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_i05.uexp",
    "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_i05.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_i05.uexp"
   },
   {
    "compression": 8,
-   "hash": "b247c853cef4746b2f638777c0658610742b23d6",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_j03.uasset",
-   "size": 1478,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_j03.uasset"
+   "hash": "654a2d4df697a5c51f817830839d554157c2163a",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_j03.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_j03.uasset"
   },
   {
    "compression": 8,
-   "hash": "3393899a14462154e949fc4fb2c53c6eb8aed9a6",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_j03.uexp",
-   "size": 597617,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_j03.uexp"
+   "hash": "b448c430d4da2dfd466dfb9dcabb39597f6f3b79",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_j03.uexp",
+   "size": 597432,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_j03.uexp"
   },
   {
    "compression": 8,
-   "hash": "f61f0c0251bfaa0165fa26caf3a2b0907e87a1bf",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_j04.uasset",
-   "size": 731,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_j04.uasset"
+   "hash": "de3fdba294c334d3453640724a140a6959f57ad4",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_j04.uasset",
+   "size": 732,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_j04.uasset"
   },
   {
    "compression": 8,
    "hash": "6618e1c34f6488b2d9a45e9239122acc15b694cb",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_j04.ubulk",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_j04.ubulk",
    "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_j04.ubulk"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_j04.ubulk"
   },
   {
    "compression": 8,
-   "hash": "a25ac1af6d5ce1a787f0347dd4d80195fd2c6427",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_j04.uexp",
+   "hash": "ec9e85ec9afb51b893bc94419093425bb20c319f",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_j04.uexp",
    "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_j04.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_j04.uexp"
   },
   {
    "compression": 8,
-   "hash": "bae371a385a32774e8508b75ddf2f01d5173a96e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_k01.uasset",
-   "size": 1478,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_k01.uasset"
+   "hash": "1d2588ef72f3ed426d9569ff6bbd7384aa8780e7",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_k01.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_k01.uasset"
   },
   {
    "compression": 8,
-   "hash": "ac0717b1de8699c2797722b0fa3d908f6c394af5",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_k01.uexp",
-   "size": 597617,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_k01.uexp"
+   "hash": "1e58d291d05b6f209413089d7dcf04fe9e9cc14f",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_k01.uexp",
+   "size": 597432,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_k01.uexp"
   },
   {
    "compression": 8,
-   "hash": "8f7dfb21e68843e857e380b0ebba1412aabcf87c",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_k02.uasset",
-   "size": 731,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_k02.uasset"
+   "hash": "ef47b849d7f36b7f9ac60796215cc3b55f3f31d8",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_k02.uasset",
+   "size": 732,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_k02.uasset"
   },
   {
    "compression": 8,
    "hash": "4a439abf0a35e241e6d16ccdacc35b9569fc1c6c",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_k02.ubulk",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_k02.ubulk",
    "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_k02.ubulk"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_k02.ubulk"
   },
   {
    "compression": 8,
-   "hash": "8aadc8001931db141c68ec7da2ccfc0fbd400e0d",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_k02.uexp",
+   "hash": "c6f4cafc02206409c29079943760d07a1a926eb2",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_k02.uexp",
    "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_k02.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_k02.uexp"
   },
   {
    "compression": 8,
-   "hash": "a75a2a0d69b44d78086d8f8dd23251bbd1608884",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m01.uasset",
-   "size": 1187,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m01.uasset"
+   "hash": "a0c5333afbffa76f7d345cf565ba2435641f1c71",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m01.uasset",
+   "size": 1188,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m01.uasset"
   },
   {
    "compression": 8,
-   "hash": "680971a12524a2087992181ef21ac10325bbaed9",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m01.uexp",
+   "hash": "28ccdd867e635f39ecc45d95965352d1d5935a30",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m01.uexp",
    "size": 593475,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m01.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m01.uexp"
   },
   {
    "compression": 8,
-   "hash": "f86dbc2ed45031a322059f882f37d19cc547b083",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m04.uasset",
-   "size": 1187,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m04.uasset"
+   "hash": "fb9d5cf74ce3858f6a2fb9bd69941ab5bff1e6ca",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m04.uasset",
+   "size": 1188,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m04.uasset"
   },
   {
    "compression": 8,
-   "hash": "1b0153f4c5118790b0227368b47baad57b17b288",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m04.uexp",
+   "hash": "e6c12573531f73c65d0633746c6752690f785f57",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m04.uexp",
    "size": 593475,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m04.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m04.uexp"
   },
   {
    "compression": 8,
-   "hash": "558e266353a2b54132afce0eed85cebe652cffff",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m06.uasset",
-   "size": 1187,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m06.uasset"
+   "hash": "ecf3148f2c20909b6f4993d5976defe6521de997",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m06.uasset",
+   "size": 1188,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m06.uasset"
   },
   {
    "compression": 8,
-   "hash": "6649e3b94489f397c5ff7066fcc3b508ce0f17a9",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m06.uexp",
+   "hash": "da0ede98c3fb1569683a519f30ae2e078ed4e38e",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m06.uexp",
    "size": 593475,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m06.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m06.uexp"
   },
   {
    "compression": 8,
-   "hash": "9cd5610aada3efa5b25c066f772448a6cf28abbb",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m07.uasset",
-   "size": 1187,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m07.uasset"
+   "hash": "dcb80617b175c60e4c56b825ec839d9047f56ae3",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m07.uasset",
+   "size": 1188,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m07.uasset"
   },
   {
    "compression": 8,
-   "hash": "f274e2f8beaea72b48a07eec95aba69446e35161",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m07.uexp",
+   "hash": "735f097eab73925d18c8995b6aea79d9700535d1",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m07.uexp",
    "size": 593475,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m07.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m07.uexp"
   },
   {
    "compression": 8,
-   "hash": "384f248ae0f2e919a7f775e16f2122b1e4d646db",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m09.uasset",
-   "size": 1293,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m09.uasset"
+   "hash": "0610797592118412fffcbf8bd57f9a320afc7b4e",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m09.uasset",
+   "size": 1295,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m09.uasset"
   },
   {
    "compression": 8,
-   "hash": "8b1b8ac19e0c1fd27ea58b9e35541ebb9c91aaaf",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m09.uexp",
+   "hash": "bb3bc08f3212c6b27dff0d0f30113788c6969dd3",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m09.uexp",
    "size": 597432,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m09.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m09.uexp"
   },
   {
    "compression": 8,
-   "hash": "bd4956761b1d8d5137d77203380b51e9ea2f6eb1",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m10.uasset",
-   "size": 772,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m10.uasset"
+   "hash": "a45d256a470d28dde448ef0bfe97eee5de7a6ddf",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m10.uasset",
+   "size": 773,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m10.uasset"
   },
   {
    "compression": 8,
-   "hash": "dd9dbe859fdeaed86519c3d47d4c30b1215cb480",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/color_m10.uexp",
+   "hash": "bde4554490131b624204954ca0389e5d7be8fa9a",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/color_m10.uexp",
    "size": 137232,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/color_m10.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/color_m10.uexp"
   },
   {
    "compression": 8,
-   "hash": "666271503658f5da8eba73312dbe9d8f019b609e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/exterior_new.uasset",
-   "size": 6858,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/exterior_new.uasset"
+   "hash": "50b24f22ad3b5d27a114811b38db918b15f2ba6f",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/exterior_edit3.uasset",
+   "size": 5320,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/exterior_edit3.uasset"
   },
   {
    "compression": 8,
-   "hash": "58e9f23a52f6e94494361e28a2be4ab483669056",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/exterior_new.uexp",
-   "size": 12478842,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/exterior_new.uexp"
+   "hash": "0161b52c86460968cd3312a8d357f65ae52a4143",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/exterior_edit3.uexp",
+   "size": 3675430,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/exterior_edit3.uexp"
   },
   {
    "compression": 8,
-   "hash": "d2ae860e86c53ae58af9543d92f030a2feaac5ed",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/frontcolor.uasset",
-   "size": 1189,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/frontcolor.uasset"
+   "hash": "ca06b7b717b343f482eef4b2ea5a6b4f9ccbe568",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/frontcolor.uasset",
+   "size": 1190,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/frontcolor.uasset"
   },
   {
    "compression": 8,
-   "hash": "0cca8b0683066ac7bf16db5f304f742691db999c",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/frontcolor.uexp",
+   "hash": "a0a6c851c70eaaf67e3a0eca49fa3441f1268db0",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/frontcolor.uexp",
    "size": 593532,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/frontcolor.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/frontcolor.uexp"
   },
   {
    "compression": 8,
-   "hash": "574d97a63cbb0ba1c280f1ebed14be16fe20a37e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/lamp_name.uasset",
-   "size": 1187,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/lamp_name.uasset"
+   "hash": "ccba5adbb4d60e03fc9c5cec36c8a093e53bc737",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/logo_batch2.uasset",
+   "size": 1303,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/logo_batch2.uasset"
   },
   {
    "compression": 8,
-   "hash": "8e53052a19855aa153c5311af1f2e540b148c523",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/lamp_name.uexp",
-   "size": 593475,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/lamp_name.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "78c58a40a35db25bab5a85731ca714291720fae6",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/led_light.uasset",
-   "size": 1187,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/led_light.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "ab655331df2d5fd12186745e648b9d854e089503",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/led_light.uexp",
-   "size": 593475,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/led_light.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "619b61d7b2f2221e094f83246f9898173e977e43",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo.uasset",
-   "size": 1275,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "50c6da2e3c10cd824ff37ae4f325d983a55f0a8c",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo.uexp",
-   "size": 597147,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "9e98273d0c22b4638652844578268fd9c49ff8ea",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo1.uasset",
-   "size": 764,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo1.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "f9445ad0b7a773fd7433f88058e007a03774bba9",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo1.uexp",
-   "size": 21321264,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo1.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "326bd6b3520bb4aafb1e861ccd65e0a83008e7ac",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_batch2.uasset",
-   "size": 1301,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_batch2.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "05e7489fd072bdf43b5fc4b928bb0e37fbf3474b",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_batch2.uexp",
+   "hash": "027ea3dd5c8552811e49958cd1071a4cb599ce8d",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/logo_batch2.uexp",
    "size": 597546,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_batch2.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/logo_batch2.uexp"
   },
   {
    "compression": 8,
-   "hash": "d17bc6ce56475d62ea9f8ed26aa914de7cc4132e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_batch3.uasset",
-   "size": 1301,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_batch3.uasset"
+   "hash": "e1643b302cb2c0de15da71d484d745607e54cced",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/logo_batch3.uasset",
+   "size": 1303,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/logo_batch3.uasset"
   },
   {
    "compression": 8,
-   "hash": "8f668020ba57e4edba3ce3a60e71030092f3faa2",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_batch3.uexp",
+   "hash": "76254bd51c21a9f2fda7d9b57d467453e9b9afe1",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/logo_batch3.uexp",
    "size": 597546,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_batch3.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/logo_batch3.uexp"
   },
   {
    "compression": 8,
-   "hash": "b819fc75b0a0d97a84dd40b5dbf59bf621816929",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_batch4.uasset",
-   "size": 776,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_batch4.uasset"
+   "hash": "0fa123f400e7c161c95b58e81fa52b8ae417b59b",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/logo_batch4.uasset",
+   "size": 777,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/logo_batch4.uasset"
   },
   {
    "compression": 8,
-   "hash": "d090179af233b216566995905593cf73aa214549",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_batch4.uexp",
+   "hash": "a13dff205e830023c300e49a1c16e9a4ec6d3b51",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/logo_batch4.uexp",
    "size": 251979284,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_batch4.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/logo_batch4.uexp"
   },
   {
    "compression": 8,
-   "hash": "27be442bbac08d252b7b25d6a23ada36b66e724e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_batch5.uasset",
-   "size": 776,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_batch5.uasset"
+   "hash": "c137e9a80be3b77caf0529ade3b6b0ddfc1edde8",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/logo_batch5.uasset",
+   "size": 777,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/logo_batch5.uasset"
   },
   {
    "compression": 8,
-   "hash": "f60d76f809a5634e9aec931926c3d38c4673eb0c",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_batch5.uexp",
+   "hash": "6d7317f6f49f71df4d1342248f59a4fe1c291e8f",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/logo_batch5.uexp",
    "size": 251979284,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_batch5.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/logo_batch5.uexp"
   },
   {
    "compression": 8,
-   "hash": "2584be8836250f793a4fa0e5e7964eea8b12e74b",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_cr.uasset",
-   "size": 1287,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_cr.uasset"
+   "hash": "ae0267ef4774b059bbbb8672b6793b1a61726fd5",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/m_0036_burlywood.uasset",
+   "size": 1202,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/m_0036_burlywood.uasset"
   },
   {
    "compression": 8,
-   "hash": "8aa0aadf0f9ebea25076fbc30d09d3642530d775",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_cr.uexp",
-   "size": 597318,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_cr.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "1c1216aaf47b778f26c1b6aff785e7d002ce8366",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_cr1.uasset",
-   "size": 770,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_cr1.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "d02dcd65560ba57f562046624de8b3754b2b7f3a",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/logo_cr1.uexp",
-   "size": 30234800,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/logo_cr1.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "b6d183d6b0947a39b3d2aafb627c44813fe93d5b",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/m_0036_burlywood.uasset",
-   "size": 1201,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/m_0036_burlywood.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "440ddb05967156d5a61ef412e19550b4657f3458",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/m_0036_burlywood.uexp",
+   "hash": "995041dda7ecc1975c6dd9e3c6a9c3be4107d4e3",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/m_0036_burlywood.uexp",
    "size": 593874,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/m_0036_burlywood.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/m_0036_burlywood.uexp"
   },
   {
    "compression": 8,
-   "hash": "4e3ca9a2466fbb5836d25966b3c5274dd8f08e04",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/m_0128_white.uasset",
-   "size": 1193,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/m_0128_white.uasset"
+   "hash": "f123c7a3789ae37c27752bfe47ac221bede1c8b4",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uasset",
+   "size": 1411,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uasset"
   },
   {
    "compression": 8,
-   "hash": "007c381967ce37d92fd5a9e7178d18c9753ae537",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/m_0128_white.uexp",
-   "size": 593646,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/m_0128_white.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "b2e74b6939594e7e378fc4243912264543c9fda4",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uasset",
-   "size": 1409,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "6b4984163b694235f94276eb7be18ddfd1814f40",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uexp",
+   "hash": "ff7eb24dc9de1bba855309fabc199ef77460c272",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uexp",
    "size": 599085,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uexp"
   },
   {
    "compression": 8,
-   "hash": "8718ce0e4d6f4e0027361d9e9b91abfd346f2ec8",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uasset",
-   "size": 830,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uasset"
+   "hash": "df3364209fcca67240786859816d3b387eed9df1",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uasset",
+   "size": 831,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uasset"
   },
   {
    "compression": 8,
-   "hash": "cfc285706bd8102f618fb408c2a674ef58c30599",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uexp",
+   "hash": "3ced85a82bf5423c4dc8db62e47c011d9cf1adfd",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uexp",
    "size": 726032,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uexp"
   },
   {
    "compression": 8,
-   "hash": "25ac4e90972b56ebcdb85866351f3a7ddeaa68af",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/_color_b04_1.uasset",
-   "size": 1187,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/_color_b04_1.uasset"
+   "hash": "d76e6bc6f390318de0cf161571e0371e8729c293",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/translucent_glass_gray.uasset",
+   "size": 1214,
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/translucent_glass_gray.uasset"
   },
   {
    "compression": 8,
-   "hash": "8bf7c3a8a594c2e5131c7f0e001996232aee6b4a",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/_color_b04_1.uexp",
-   "size": 329709,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/_color_b04_1.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "519442b977ccd9f6dce822ae53061621e0ca5889",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/_color_b04_2.uasset",
-   "size": 778,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/_color_b04_2.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "27b55a8833bebf422c155ab377d9745d82fef7ee",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/_color_b04_2.uexp",
-   "size": 2560272,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/_color_b04_2.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "dfaebd554dc9b5885ce0107d01f65852d75434cb",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_a04.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_a04.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "99039ee5aea26cf0975192f2574b22f6419885b7",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_a04.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_a04.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "532aad2c9d834575ddce379a0631db5d0238ef6a",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_a05.uasset",
-   "size": 776,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_a05.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "cdab6af2bbc58cde575f94a8c2015dc73f903291",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_a05.uexp",
-   "size": 1704736,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_a05.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "b3ebed5fe64000c7e6e74f9f91495f346994d46f",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_a08.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_a08.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "4195ce352a9a453e68726dd68f22dc9c158f3a9e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_a08.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_a08.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "b45d04308be8c4c6cebbf2345350955cabe631dc",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_a09.uasset",
-   "size": 776,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_a09.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "45bd5659b1aa7d4e2e9e752ed4cc4d43d9d94a5e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_a09.uexp",
-   "size": 2540752,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_a09.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "3167ee2e53b47c33edd294afbc46527075b2b088",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_b04.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_b04.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "51bc89dca1f1333ee24f3c657ddc8617f3f1f080",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_b04.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_b04.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "ef045482ebdc51ff83909d590f0dea647011d6e3",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_b05.uasset",
-   "size": 735,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_b05.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "9081847bde2842df954c4bc77fe01e919e1591ee",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_b05.ubulk",
-   "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_b05.ubulk"
-  },
-  {
-   "compression": 8,
-   "hash": "3cd9f3ebf9f606fa056a7a8bd517802f26e71a4f",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_b05.uexp",
-   "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_b05.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "c4cca2712dea21ed19b5b67c903ae56580e525e9",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_b08.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_b08.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "83369fb51b877484db594cc5a72b857aa793b19b",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_b08.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_b08.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "66dd0b3f6f647bc9c32c7c77faa38eff5cb4abcb",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_b09.uasset",
-   "size": 735,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_b09.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "ef018710c04074d11100a933e69935b8dd065f38",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_b09.ubulk",
-   "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_b09.ubulk"
-  },
-  {
-   "compression": 8,
-   "hash": "7c5668568c4da5b7c519a9a809dbc692ed2262eb",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_b09.uexp",
-   "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_b09.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "c3ee80db67003a697393d6913198053495692809",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_d04.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_d04.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "c3ea6e6ae9612f45720dd68fd57161ed2246255d",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_d04.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_d04.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "40024d52d3922095ee126ceb626f3fbda761edb3",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_d05.uasset",
-   "size": 735,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_d05.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "ce6012030036f2a6fb30816da49ce21b4e6d1796",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_d05.ubulk",
-   "size": 2494944,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_d05.ubulk"
-  },
-  {
-   "compression": 8,
-   "hash": "3a04afd82ff750d9b698123cdb099efeaab3b32d",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_d05.uexp",
-   "size": 3410,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_d05.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "b3b8ab75192d36674e2c559189d905683262ae02",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_g05.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_g05.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "6ae41ff4bbcc42110486ce93045fd84af5849a45",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_g05.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_g05.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "2906c6f3457c7351b93e5ad3dd127606de00a2ff",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_g06.uasset",
-   "size": 735,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_g06.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "36140520fc7e057b72668e000bfeb339c689de36",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_g06.ubulk",
-   "size": 2494944,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_g06.ubulk"
-  },
-  {
-   "compression": 8,
-   "hash": "f213919f5950e487c38cb058e3df775ee369d39e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_g06.uexp",
-   "size": 3410,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_g06.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "6ba5784f98ba921986400afac6de4e9fb5445a75",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_h05.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_h05.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "1c72ca3abdcf3f5ac500075c7893046b16c41504",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_h05.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_h05.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "d7f57224e82e4d42c16b84893e3d01f838683852",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_h06.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_h06.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "50d6c860d43758b87e36522e4f7eacd1d0541755",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_h06.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_h06.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "2894cf2cfcd253781e3e989c2ff42a567e6ebf78",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_h07.uasset",
-   "size": 735,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_h07.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "fbf25792f880912542091539713845f6f9545649",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_h07.ubulk",
-   "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_h07.ubulk"
-  },
-  {
-   "compression": 8,
-   "hash": "393efaa932ed57f85f481d7a03ca00de705e29e4",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_h07.uexp",
-   "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_h07.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "8ed5b6a7c34122899dda85fcd11bccb822803e56",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_h08.uasset",
-   "size": 735,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_h08.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "ff6e3cb2b0f42bc880b35acd1a5131ca742c969b",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_h08.ubulk",
-   "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_h08.ubulk"
-  },
-  {
-   "compression": 8,
-   "hash": "89959d66d7a785cd1ca970fb474ece5d3c391286",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_h08.uexp",
-   "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_h08.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "3a9158a14c3006a2beec233f7be89b6969bea1b9",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_i04.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_i04.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "e14c4cc5a88419876b3730fa7cc420bae6c1336e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_i04.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_i04.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "87ebe1c477201d8b78fecaea1fa5c9747e852aea",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_i05.uasset",
-   "size": 735,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_i05.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "5f12febaeeb06f402d3a016694c150a348f3535a",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_i05.ubulk",
-   "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_i05.ubulk"
-  },
-  {
-   "compression": 8,
-   "hash": "67f03d8966457e2f45d88ea29b235926cf913686",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_i05.uexp",
-   "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_i05.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "e875723b02ced5a591f556ba789be6427a5c33fe",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_j03.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_j03.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "da7fb17fcce7d18d5dbcef01d98d80ccef4110da",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_j03.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_j03.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "adc8abe222de347074e3d32ffabbe02c600416b6",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_j04.uasset",
-   "size": 735,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_j04.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "6618e1c34f6488b2d9a45e9239122acc15b694cb",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_j04.ubulk",
-   "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_j04.ubulk"
-  },
-  {
-   "compression": 8,
-   "hash": "4230c668b0d67c56726b8901ce52ea7fa0a4afc2",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_j04.uexp",
-   "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_j04.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "5ccdabffd43370b176abb0d4b31ba61f3bedd0d4",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_k01.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_k01.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "c9b3df7e962fd3caeb26e5d2552f056cf06174f7",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_k01.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_k01.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "e6def152a7b0ee41ca0370930407128d560e2227",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_k02.uasset",
-   "size": 735,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_k02.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "4a439abf0a35e241e6d16ccdacc35b9569fc1c6c",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_k02.ubulk",
-   "size": 623520,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_k02.ubulk"
-  },
-  {
-   "compression": 8,
-   "hash": "5aa87a757c5d8ae11d5dd86c9f54bc148c729b22",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_k02.uexp",
-   "size": 3374,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_k02.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "68eafb39a203133c12858059de4a8c4c771f2998",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m01.uasset",
-   "size": 1159,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m01.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "4f106a0d1749db003a070ec945318b238f451d07",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m01.uexp",
-   "size": 327218,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m01.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "96a23a4d88d50c72dfdf196f5a54016667b0d211",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m04.uasset",
-   "size": 1159,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m04.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "f784d88ffb0f923be06631c31eb8d34cad791ff0",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m04.uexp",
-   "size": 327218,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m04.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "36d68e2bb4971e67d7a48f4ecd2359e1e9abe401",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m06.uasset",
-   "size": 1159,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m06.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "9cdf84535569ac67d3aebd5bc394c4af8c648a40",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m06.uexp",
-   "size": 327218,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m06.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "e0c81a6f6bec0db8470fd6f4ea2107c94f244f12",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m07.uasset",
-   "size": 1159,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m07.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "856d76304a34d4516fc9021f54dd77d997a981aa",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m07.uexp",
-   "size": 327218,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m07.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "a341065b77809af023d93735280e2826e284442c",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m09.uasset",
-   "size": 1269,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m09.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "497e56542ac2ea972e496f1043b2d854d3ec897a",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m09.uexp",
-   "size": 329613,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m09.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "7824b2c355d6b097cc13dbe6546daa7441efe918",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m10.uasset",
-   "size": 776,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m10.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "8ab96574115bcfe46a7a09198cf5c6caafb38101",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/color_m10.uexp",
-   "size": 137232,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/color_m10.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "166474793d5fb2f6ea86a4a470d61e90fb797bdd",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/exterior_new2.uasset",
-   "size": 5390,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/exterior_new2.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "e60e8c4c72f3238f40c43916c7f4324b1d471bad",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/exterior_new2.uexp",
-   "size": 3693615,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/exterior_new2.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "5146aabdd55da4fb3e7816b2fd6bae72e8435879",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/frontcolor.uasset",
-   "size": 1161,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/frontcolor.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "b37569fd54c098867c945ccd2310cfb2446fa305",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/frontcolor.uexp",
-   "size": 327250,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/frontcolor.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "51c9058be611204fc64331067369ca69d1d094c0",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/logo_batch2.uasset",
-   "size": 1277,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/logo_batch2.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "6e86ed7b7ee9c8da9c07fb5edf78449aab46d43e",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/logo_batch2.uexp",
-   "size": 329677,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/logo_batch2.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "5dda6300786a483264657ce6761976e74e73b0e6",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/logo_batch3.uasset",
-   "size": 1277,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/logo_batch3.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "1a79ad1abd6909934010d74cb3d0c3451a363b88",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/logo_batch3.uexp",
-   "size": 329677,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/logo_batch3.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "c9ed5c32d6cf117fd5a6774f9d96e905339416d2",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/logo_batch4.uasset",
-   "size": 780,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/logo_batch4.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "259405b060b9c21787eebfc5ebc4371558eb87d8",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/logo_batch4.uexp",
-   "size": 251979284,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/logo_batch4.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "8c58a199b017e915f6286dd13f0dd5ce27c1666c",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/logo_batch5.uasset",
-   "size": 780,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/logo_batch5.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "d6ebdcfa29b314cb6f89fd19b2e699c5d896578f",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/logo_batch5.uexp",
-   "size": 251979284,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/logo_batch5.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "296ec0c5d86f21c7e92bb5c6e5f6a63164babcd9",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/m_0036_burlywood.uasset",
-   "size": 1173,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/m_0036_burlywood.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "5ed69ddf271c11eaafaf7186ff7ade4aa5cc0348",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/m_0036_burlywood.uexp",
-   "size": 327442,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/m_0036_burlywood.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "7cd848de764549d67d88fc12ce863ce671952316",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uasset",
-   "size": 1385,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "fd7c9404efaaa60e36434d55e8cabb533e8ff1c5",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uexp",
-   "size": 330541,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef626.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "52611fff53f9966da53e551b2e745d7ca03e03cf",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uasset",
-   "size": 834,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "1cc48f705eac50237a7dc6f8f5af33b2d7c633c3",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uexp",
-   "size": 726032,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/m_0f71ec37_9a22_4caa_97ac_b83b80bef627.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "a95a6e9038a7149cbac3dc9840ed3fef27e16e54",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/translucent_glass_gray.uasset",
-   "size": 1185,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/translucent_glass_gray.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "5c5283dde7a061fd8c0940e8c08780b53027e33d",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/new/translucent_glass_gray.uexp",
-   "size": 327634,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/new/translucent_glass_gray.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "3290377003caca735d63b109b02168fe4c6da4ea",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/pizza.uasset",
-   "size": 1279,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/pizza.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "c8c0d3f1c1a80c11eacb215de111a075ba36b2b9",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/pizza.uexp",
-   "size": 597204,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/pizza.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "aceb6138c60ad5fc73e6d2121e467c0441bc7c6c",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/pizza1.uasset",
-   "size": 766,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/pizza1.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "92a907f8d1b679e94c63fc47a1b5e7da211a78ff",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/pizza1.uexp",
-   "size": 10742672,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/pizza1.uexp"
-  },
-  {
-   "compression": 8,
-   "hash": "9f8df47ddf528f617d2c8aa29e6a5fc0083fde5d",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/translucent_glass_gray.uasset",
-   "size": 1213,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/translucent_glass_gray.uasset"
-  },
-  {
-   "compression": 8,
-   "hash": "fcbfc39f353fcad795d739b698d0ee183d146960",
-   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new/translucent_glass_gray.uexp",
+   "hash": "5e634135cf7737ed444842a3a22931fc55311580",
+   "pkgpath": "./trashman/content/model/level3/822-main-avee/source/new2/translucent_glass_gray.uexp",
    "size": 594216,
-   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new/translucent_glass_gray.uexp"
+   "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/level3/822-main-avee/source/new2/translucent_glass_gray.uexp"
   },
   {
    "compression": 8,
@@ -31180,30 +30599,30 @@
   },
   {
    "compression": 8,
-   "hash": "59668b80c32906fce5b0e0cddb0f7a6754967c45",
+   "hash": "7fe11cba1a2b2caf193cd85898d126b2a0056883",
    "pkgpath": "./trashman/content/model/solution/lambert2.uasset",
-   "size": 1130,
+   "size": 1162,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/solution/lambert2.uasset"
   },
   {
    "compression": 8,
-   "hash": "36acff7d7f7e4a6df66ba659faf55c20b7892026",
+   "hash": "a3201236ee4ab84f35fb35f672f15aa9b08e52dd",
    "pkgpath": "./trashman/content/model/solution/lambert2.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/solution/lambert2.uexp"
   },
   {
    "compression": 8,
-   "hash": "58cfcb47a88a8e07b2cca4cbc94b686cc9770cdf",
+   "hash": "a2a11cb91e76582e06f797000ba798b7e5069608",
    "pkgpath": "./trashman/content/model/solution/sign2.uasset",
-   "size": 1124,
+   "size": 1156,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/solution/sign2.uasset"
   },
   {
    "compression": 8,
-   "hash": "c75725dcd44f4d6fa3d595aebc0dae1ef4e33811",
+   "hash": "e800f3bd7110f8b4b0f9eb11dee81a09b6abe5b6",
    "pkgpath": "./trashman/content/model/solution/sign2.uexp",
-   "size": 327090,
+   "size": 593247,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/solution/sign2.uexp"
   },
   {
@@ -31222,16 +30641,16 @@
   },
   {
    "compression": 8,
-   "hash": "a5f04167335febc0f280ebdd11931e27ca7e3839",
+   "hash": "c08f9af3729daaf307fe078a7f422edfc5f6573d",
    "pkgpath": "./trashman/content/model/summary/base-sign/phonge2.uasset",
-   "size": 1137,
+   "size": 1169,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/base-sign/phonge2.uasset"
   },
   {
    "compression": 8,
-   "hash": "669cf850d646a6c0a4318e8d0e8061af5d0d8276",
+   "hash": "5564ff35db012755d6b9246b56a3aed821934d67",
    "pkgpath": "./trashman/content/model/summary/base-sign/phonge2.uexp",
-   "size": 327154,
+   "size": 593361,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/base-sign/phonge2.uexp"
   },
   {
@@ -31264,72 +30683,72 @@
   },
   {
    "compression": 8,
-   "hash": "66683dac45e28251fd6f9d018c4006186b0020e5",
+   "hash": "eff6ab43b662574d8809def9672ea4a916bf3292",
    "pkgpath": "./trashman/content/model/summary/block-bin/blue.uasset",
-   "size": 1219,
+   "size": 1251,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/blue.uasset"
   },
   {
    "compression": 8,
-   "hash": "2000833d42bd3d32355c768c1763958bdba94c3b",
+   "hash": "1fd039943b38f5a7eb976a2de006fc435d02a0b6",
    "pkgpath": "./trashman/content/model/summary/block-bin/blue.uexp",
-   "size": 329453,
+   "size": 597147,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/blue.uexp"
   },
   {
    "compression": 8,
-   "hash": "c7fbd6a036a8216e3d286d8e0e7714546ebfea01",
+   "hash": "cddc676359222ce1c35db2f76e191f88454dca5a",
    "pkgpath": "./trashman/content/model/summary/block-bin/lambert2.uasset",
-   "size": 1139,
+   "size": 1171,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/lambert2.uasset"
   },
   {
    "compression": 8,
-   "hash": "f2fe846f63fd3053b901932b3fbd693509199cac",
+   "hash": "7d851c26324b6b7e291c605ca76afaf9794a7928",
    "pkgpath": "./trashman/content/model/summary/block-bin/lambert2.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/lambert2.uexp"
   },
   {
    "compression": 8,
-   "hash": "6cea6ddee4af75e55ea5f0b058e582210658256f",
+   "hash": "7346f42836c9d90b19fd41958471c2bd228072ca",
    "pkgpath": "./trashman/content/model/summary/block-bin/lambert3.uasset",
-   "size": 1139,
+   "size": 1171,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/lambert3.uasset"
   },
   {
    "compression": 8,
-   "hash": "8f3bb09cf325ae8b2430fcf54879f0e6dbca89c7",
+   "hash": "a2c13127c594d1d425fe5676a3814519e3889b8a",
    "pkgpath": "./trashman/content/model/summary/block-bin/lambert3.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/lambert3.uexp"
   },
   {
    "compression": 8,
-   "hash": "85027ad26f184aaa7cc79ea2bb21a56d26076823",
+   "hash": "d69add4bf0a750c7b387a64e71f14e3af4bbb782",
    "pkgpath": "./trashman/content/model/summary/block-bin/lambert4.uasset",
-   "size": 1139,
+   "size": 1171,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/lambert4.uasset"
   },
   {
    "compression": 8,
-   "hash": "083b009e8ee1dadd149edf0f2aebc731263fe4de",
+   "hash": "ea0b09bde041499ec4a6dba508638462e5fc412b",
    "pkgpath": "./trashman/content/model/summary/block-bin/lambert4.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/lambert4.uexp"
   },
   {
    "compression": 8,
-   "hash": "9507976a3886707b915a8a052729408f91e58f8c",
+   "hash": "0b35244388ee76248cdd9d5f907e9124ac356039",
    "pkgpath": "./trashman/content/model/summary/block-bin/lambert5.uasset",
-   "size": 1139,
+   "size": 1171,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/lambert5.uasset"
   },
   {
    "compression": 8,
-   "hash": "d1ef3401f5e2aacee0719b4dabccd1a1a0907bd2",
+   "hash": "c83268ae3b0fc51ae5f3835eec2fdcaf214feed2",
    "pkgpath": "./trashman/content/model/summary/block-bin/lambert5.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/lambert5.uexp"
   },
   {
@@ -31390,44 +30809,44 @@
   },
   {
    "compression": 8,
-   "hash": "464138e8062bd51a6ed00dfe4d00ba4bb74a97da",
+   "hash": "a751cb68d4f327c1b49e429d556487b733638087",
    "pkgpath": "./trashman/content/model/summary/block-bin/red.uasset",
-   "size": 1215,
+   "size": 1247,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/red.uasset"
   },
   {
    "compression": 8,
-   "hash": "2585b179700d77b59d946db5ec6f439c38319e4d",
+   "hash": "d48fc599b5e667a12607c504a3f18b5ac97f6367",
    "pkgpath": "./trashman/content/model/summary/block-bin/red.uexp",
-   "size": 329421,
+   "size": 597090,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/red.uexp"
   },
   {
    "compression": 8,
-   "hash": "d5a9b956d102ad320367bb7c75e3063ae180cfca",
+   "hash": "16648ad8e8348a26d5153d17f5b00fb56a8534dd",
    "pkgpath": "./trashman/content/model/summary/block-bin/texture_green.uasset",
-   "size": 1323,
+   "size": 1355,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/texture_green.uasset"
   },
   {
    "compression": 8,
-   "hash": "3bdedf8ca4a70d8968ebd189b825ec22a528c7ef",
+   "hash": "ba4481030eec4df5dd747378f310d1c071e88804",
    "pkgpath": "./trashman/content/model/summary/block-bin/texture_green.uexp",
-   "size": 321799,
+   "size": 588100,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/texture_green.uexp"
   },
   {
    "compression": 8,
-   "hash": "3ae172fb7884153b2dbd6ab7af826223555c901c",
+   "hash": "50e7e6a3a195331fd87e4a136d7f21638f6178a3",
    "pkgpath": "./trashman/content/model/summary/block-bin/yellow.uasset",
-   "size": 1227,
+   "size": 1259,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/yellow.uasset"
   },
   {
    "compression": 8,
-   "hash": "25553ffff9da2075d3a6e2686e3d87a0ec6e787a",
+   "hash": "1393dedf225f3d142e1538a487c1d9ce84b27b0c",
    "pkgpath": "./trashman/content/model/summary/block-bin/yellow.uexp",
-   "size": 329517,
+   "size": 597261,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/block-bin/yellow.uexp"
   },
   {
@@ -31446,30 +30865,30 @@
   },
   {
    "compression": 8,
-   "hash": "dcbc19a055ecee3401e0d47c0c5e80e450cb1a5c",
+   "hash": "f05f7b83169ee068110d23df525b513d90ec820b",
    "pkgpath": "./trashman/content/model/summary/cactaceaeplant/lambert2.uasset",
-   "size": 1144,
+   "size": 1176,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/cactaceaeplant/lambert2.uasset"
   },
   {
    "compression": 8,
-   "hash": "307bdb255c3368b069851b4d86675a049a0e0d6e",
+   "hash": "e92152a8972ea9ed280aa250dff06cb3f2cf8abc",
    "pkgpath": "./trashman/content/model/summary/cactaceaeplant/lambert2.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/cactaceaeplant/lambert2.uexp"
   },
   {
    "compression": 8,
-   "hash": "a893450665cae8c18dbc48ed6953fa664c813522",
+   "hash": "b7724974339ae297f684ac13c86fe4ff5510c588",
    "pkgpath": "./trashman/content/model/summary/cactaceaeplant/lambert3.uasset",
-   "size": 1144,
+   "size": 1176,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/cactaceaeplant/lambert3.uasset"
   },
   {
    "compression": 8,
-   "hash": "31fd94d3d8215072bd65d044a5240da9d7dbacc8",
+   "hash": "bd85c77bf2f80884a7de0b857079e70c2f56c684",
    "pkgpath": "./trashman/content/model/summary/cactaceaeplant/lambert3.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/cactaceaeplant/lambert3.uexp"
   },
   {
@@ -31726,30 +31145,30 @@
   },
   {
    "compression": 8,
-   "hash": "5b8e5b05f530b8f25d7624c47414d90d2ba7c77f",
+   "hash": "cd9cbb17ee3fd9351ecf3b5033dffc7c4b7ec486",
    "pkgpath": "./trashman/content/model/summary/sign_summary/topic/lambert2.uasset",
-   "size": 1148,
+   "size": 1180,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/sign_summary/topic/lambert2.uasset"
   },
   {
    "compression": 8,
-   "hash": "733ec87691b955bcf5a5d18f7911506365925882",
+   "hash": "1043de7fdc60a2b605c0a70b2b5d9273822b3d36",
    "pkgpath": "./trashman/content/model/summary/sign_summary/topic/lambert2.uexp",
-   "size": 327186,
+   "size": 593418,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/sign_summary/topic/lambert2.uexp"
   },
   {
    "compression": 8,
-   "hash": "669861dd293e9d05b6b3ee593c879e0ce6bf87b9",
+   "hash": "cd539651a0e5426cce7a8b31769c4c281db8ce72",
    "pkgpath": "./trashman/content/model/summary/sign_summary/topic/sign2.uasset",
-   "size": 1142,
+   "size": 1174,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/sign_summary/topic/sign2.uasset"
   },
   {
    "compression": 8,
-   "hash": "010a0534ea2bbc2612a8bfbc8228038c99fffae8",
+   "hash": "a9829571ac90c39acd8a38e277ef108353f720b1",
    "pkgpath": "./trashman/content/model/summary/sign_summary/topic/sign2.uexp",
-   "size": 327090,
+   "size": 593247,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/trashman/content/model/summary/sign_summary/topic/sign2.uexp"
   },
   {
@@ -36276,9 +35695,9 @@
   },
   {
    "compression": 8,
-   "hash": "825ecef1b6d7a529e365b2438d9eb775840eda3c",
+   "hash": "52ca4e46747b0719dafff67c9af078441ac1598f",
    "pkgpath": "./ue4commandline.txt",
-   "size": 195,
+   "size": 187,
    "src": "D:/IT/Year 4-1/Project1/Game Mr/Trashman/Trashman/Saved/StagedBuilds/Lumin/ue4commandline.txt"
   }
  ],

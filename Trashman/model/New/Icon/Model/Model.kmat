@@ -1,0 +1,73 @@
+{
+  "global": {
+    "color": [
+      1, 
+      1, 
+      1, 
+      1
+    ], 
+    "blendmode": "Opaque"
+  }, 
+  "materials": [
+    {
+      "color": [
+        1, 
+        1, 
+        1, 
+        1
+      ], 
+      "blendmode": "Opaque", 
+      "shaderName": "UnlitTextured", 
+      "albedo": "Icon/Model/orange.png", 
+      "name": "pasted__trash"
+    }, 
+    {
+      "color": [
+        1, 
+        1, 
+        1, 
+        1
+      ], 
+      "blendmode": "Opaque", 
+      "shaderName": "UnlitTextured", 
+      "albedo": "Icon/Model/black.png", 
+      "name": "pasted__logo"
+    }, 
+    {
+      "color": [
+        1, 
+        1, 
+        1, 
+        1
+      ], 
+      "blendmode": "Opaque", 
+      "shaderName": "UnlitTextured", 
+      "albedo": "Icon/Model/green.png", 
+      "name": "pasted__icon"
+    }, 
+    {
+      "color": [
+        1, 
+        1, 
+        1, 
+        1
+      ], 
+      "blendmode": "Opaque", 
+      "shaderName": "UnlitTextured", 
+      "albedo": "Icon/Model/gray.png", 
+      "name": "pasted__wheel"
+    }, 
+    {
+      "color": [
+        1, 
+        1, 
+        1, 
+        1
+      ], 
+      "blendmode": "Opaque", 
+      "shaderName": "UnlitTextured", 
+      "albedo": "Icon/Model/gray.png", 
+      "name": "pasted__text"
+    }
+  ]
+}

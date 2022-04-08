@@ -1,0 +1,25 @@
+{
+  "global": {
+    "color": [
+      1, 
+      1, 
+      1, 
+      1
+    ], 
+    "blendmode": "Opaque"
+  }, 
+  "materials": [
+    {
+      "color": [
+        1, 
+        1, 
+        1, 
+        1
+      ], 
+      "blendmode": "Opaque", 
+      "shaderName": "UnlitTextured", 
+      "albedo": "Icon/Portal/IconForeground.png", 
+      "name": "PortalSkySphere_Material"
+    }
+  ]
+}
